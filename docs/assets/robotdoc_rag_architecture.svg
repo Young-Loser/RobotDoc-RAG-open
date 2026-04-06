@@ -1,0 +1,67 @@
+<svg width="1400" height="920" viewBox="0 0 1400 920" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1400" height="920" fill="#F6F1E8"/>
+  <rect x="40" y="32" width="1320" height="856" rx="28" fill="#FFFDF8" stroke="#D7CCBA" stroke-width="2"/>
+  <text x="70" y="92" fill="#143642" font-family="Arial, sans-serif" font-size="34" font-weight="700">RobotDoc-RAG-open</text>
+  <text x="70" y="126" fill="#51646B" font-family="Arial, sans-serif" font-size="18">Page-level multimodal RAG for robot manuals, datasheets, and mixed-layout technical documents</text>
+
+  <rect x="72" y="170" width="286" height="178" rx="20" fill="#DCEFEA" stroke="#5F8F86" stroke-width="2"/>
+  <text x="96" y="212" fill="#143642" font-family="Arial, sans-serif" font-size="24" font-weight="700">1. Document Rebuild</text>
+  <text x="96" y="250" fill="#264653" font-family="Arial, sans-serif" font-size="18">• raw PDFs</text>
+  <text x="96" y="282" fill="#264653" font-family="Arial, sans-serif" font-size="18">• page rendering</text>
+  <text x="96" y="314" fill="#264653" font-family="Arial, sans-serif" font-size="18">• OCR extraction</text>
+  <text x="96" y="346" fill="#264653" font-family="Arial, sans-serif" font-size="18">• cleaned page index</text>
+
+  <rect x="390" y="170" width="286" height="178" rx="20" fill="#FDE7C8" stroke="#C69338" stroke-width="2"/>
+  <text x="414" y="212" fill="#513500" font-family="Arial, sans-serif" font-size="24" font-weight="700">2. Train / Prepare</text>
+  <text x="414" y="250" fill="#6B4A0C" font-family="Arial, sans-serif" font-size="18">• query-page pairs</text>
+  <text x="414" y="282" fill="#6B4A0C" font-family="Arial, sans-serif" font-size="18">• hard negatives</text>
+  <text x="414" y="314" fill="#6B4A0C" font-family="Arial, sans-serif" font-size="18">• SigLIP dual encoder</text>
+  <text x="414" y="346" fill="#6B4A0C" font-family="Arial, sans-serif" font-size="18">• page embedding space</text>
+
+  <rect x="708" y="170" width="286" height="178" rx="20" fill="#E7EDF8" stroke="#5E79A9" stroke-width="2"/>
+  <text x="732" y="212" fill="#1D3557" font-family="Arial, sans-serif" font-size="24" font-weight="700">3. Retrieval</text>
+  <text x="732" y="250" fill="#274C77" font-family="Arial, sans-serif" font-size="18">• BM25 baseline</text>
+  <text x="732" y="282" fill="#274C77" font-family="Arial, sans-serif" font-size="18">• visual retrieval</text>
+  <text x="732" y="314" fill="#274C77" font-family="Arial, sans-serif" font-size="18">• two-stage rerank</text>
+  <text x="732" y="346" fill="#274C77" font-family="Arial, sans-serif" font-size="18">• top-k page selection</text>
+
+  <rect x="1026" y="170" width="286" height="178" rx="20" fill="#F8E4E0" stroke="#B56A5D" stroke-width="2"/>
+  <text x="1050" y="212" fill="#5A231B" font-family="Arial, sans-serif" font-size="24" font-weight="700">4. Generation</text>
+  <text x="1050" y="250" fill="#6D2E1F" font-family="Arial, sans-serif" font-size="18">• single-page answer</text>
+  <text x="1050" y="282" fill="#6D2E1F" font-family="Arial, sans-serif" font-size="18">• stitched-image answer</text>
+  <text x="1050" y="314" fill="#6D2E1F" font-family="Arial, sans-serif" font-size="18">• per-page weighted choice</text>
+  <text x="1050" y="346" fill="#6D2E1F" font-family="Arial, sans-serif" font-size="18">• multi-image joint reasoning</text>
+
+  <path d="M358 259H390" stroke="#7A7A7A" stroke-width="4" stroke-linecap="round"/>
+  <path d="M676 259H708" stroke="#7A7A7A" stroke-width="4" stroke-linecap="round"/>
+  <path d="M994 259H1026" stroke="#7A7A7A" stroke-width="4" stroke-linecap="round"/>
+  <path d="M376 259L366 252V266L376 259Z" fill="#7A7A7A"/>
+  <path d="M694 259L684 252V266L694 259Z" fill="#7A7A7A"/>
+  <path d="M1012 259L1002 252V266L1012 259Z" fill="#7A7A7A"/>
+
+  <rect x="72" y="412" width="438" height="190" rx="22" fill="#FFF8EF" stroke="#D2A04A" stroke-width="2"/>
+  <text x="98" y="454" fill="#704214" font-family="Arial, sans-serif" font-size="26" font-weight="700">Core Data Products</text>
+  <text x="98" y="494" fill="#5E5143" font-family="Arial, sans-serif" font-size="18">• data/documents.csv</text>
+  <text x="98" y="526" fill="#5E5143" font-family="Arial, sans-serif" font-size="18">• data/manifest.csv</text>
+  <text x="98" y="558" fill="#5E5143" font-family="Arial, sans-serif" font-size="18">• data/ocr/page_texts_clean.csv</text>
+  <text x="98" y="590" fill="#5E5143" font-family="Arial, sans-serif" font-size="18">• data/page_index.csv</text>
+
+  <rect x="536" y="412" width="376" height="190" rx="22" fill="#F4F8EC" stroke="#7FA35A" stroke-width="2"/>
+  <text x="562" y="454" fill="#2F4F2F" font-family="Arial, sans-serif" font-size="26" font-weight="700">Evaluation Outputs</text>
+  <text x="562" y="494" fill="#405A3D" font-family="Arial, sans-serif" font-size="18">• bm25_eval_summary.json</text>
+  <text x="562" y="526" fill="#405A3D" font-family="Arial, sans-serif" font-size="18">• siglip_retriever_v2_eval_summary.json</text>
+  <text x="562" y="558" fill="#405A3D" font-family="Arial, sans-serif" font-size="18">• two_stage_rerank_eval_summary.json</text>
+  <text x="562" y="590" fill="#405A3D" font-family="Arial, sans-serif" font-size="18">• retrieval_comparison_summary.json</text>
+
+  <rect x="938" y="412" width="374" height="190" rx="22" fill="#F6EEF8" stroke="#8E66A5" stroke-width="2"/>
+  <text x="964" y="454" fill="#4B2E59" font-family="Arial, sans-serif" font-size="26" font-weight="700">Generated Answers</text>
+  <text x="964" y="494" fill="#5B406A" font-family="Arial, sans-serif" font-size="18">• single_page</text>
+  <text x="964" y="526" fill="#5B406A" font-family="Arial, sans-serif" font-size="18">• stitched</text>
+  <text x="964" y="558" fill="#5B406A" font-family="Arial, sans-serif" font-size="18">• per_page_weighted</text>
+  <text x="964" y="590" fill="#5B406A" font-family="Arial, sans-serif" font-size="18">• multi_image_joint / final_choice</text>
+
+  <rect x="72" y="658" width="1240" height="166" rx="22" fill="#143642"/>
+  <text x="104" y="708" fill="#F8F4EB" font-family="Arial, sans-serif" font-size="28" font-weight="700">Main Open-Source Message</text>
+  <text x="104" y="748" fill="#E2ECE9" font-family="Arial, sans-serif" font-size="20">Page-level multimodal retrieval is useful for layout-heavy technical documents.</text>
+  <text x="104" y="782" fill="#E2ECE9" font-family="Arial, sans-serif" font-size="20">In this repository, the strongest current system is the two-stage pipeline: BM25 recall + visual reranking.</text>
+</svg>

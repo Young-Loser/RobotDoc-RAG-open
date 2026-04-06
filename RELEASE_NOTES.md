@@ -1,18 +1,24 @@
 # Release Notes
 
-## Latest Open-Source Snapshot
+## v1.0.0
 
-This repository snapshot is the cleaned open-source baseline derived from the internal project iteration.
+RobotDoc-RAG-open v1.0.0 is the first public open-source snapshot of this project.
+
+### Highlights
+
+- page-level multimodal RAG baseline for robot manuals and datasheets
+- end-to-end rebuild pipeline from raw PDFs to cleaned page index
+- BM25, visual retrieval, and two-stage multimodal retrieval comparison
+- SigLIP dual-encoder training and evaluation scripts
+- multi-page visual generation with multiple answer-selection strategies
+- bilingual project entry docs and polished release materials
 
 ### Included
 
 - repository reorganization into clear pipeline stages
 - unified pipeline entry via `run_pipeline.py`
-- page rebuild from raw PDFs to OCR-cleaned page index
-- SigLIP dual-encoder training and evaluation scripts
-- two-stage retrieval evaluation outputs
-- multi-strategy visual generation script
-- ready-to-read reports and showcase documentation
+- rebuild outputs and retrieval reports suitable for inspection
+- documentation for pipeline, training, evaluation, and generation
 
 ### Intentionally Excluded
 
@@ -24,9 +30,8 @@ This repository snapshot is the cleaned open-source baseline derived from the in
 
 ### Recommended First Look
 
-Start with:
-
 1. `README.md`
-2. `outputs/reports/retrieval_comparison_summary.json`
-3. `outputs/two_stage_rerank_eval_details.csv`
-4. `outputs/generator_cases/multistrategy_generator_results.json`
+2. `README.zh-CN.md`
+3. `docs/release_v1.0.0.md`
+4. `outputs/reports/retrieval_comparison_summary.json`
+5. `outputs/two_stage_rerank_eval_details.csv`

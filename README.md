@@ -1,5 +1,7 @@
 # RobotDoc-RAG-open
 
+English | [简体中文](README.zh-CN.md)
+
 RobotDoc-RAG-open is a page-level multimodal RAG project for robot manuals, datasheets, and other mixed-layout technical documents.
 
 It focuses on a practical problem: pure OCR-first retrieval often misses answers that depend on page layout, figures, tables, and visual grounding. This repository keeps document pages as first-class multimodal units and compares OCR retrieval, visual retrieval, and a stronger two-stage multimodal pipeline.
@@ -24,6 +26,10 @@ On the current 10-query evaluation split stored in `outputs/reports/retrieval_co
 | SigLIP v1 | 0.3 | 0.5 | 0.5 | 0.7 |
 | SigLIP v2 | 0.2 | 0.2 | 0.5 | 0.6 |
 | Two-stage | **0.5** | **0.6** | **0.5** | **0.7** |
+
+## Architecture Overview
+
+![RobotDoc-RAG-open Architecture](docs/assets/robotdoc_rag_architecture.svg)
 
 ## Good Multimodal Two-Stage Cases
 
@@ -165,12 +171,14 @@ If you want to understand the project quickly:
 ## Documentation
 
 - `docs/README.md`
+- `README.zh-CN.md`
 - `docs/pipeline_overview.md`
 - `docs/retriever_training.md`
 - `docs/evaluation_workflow.md`
 - `docs/generation_workflow.md`
 - `docs/project_showcase.md`
 - `RELEASE_NOTES.md`
+- `docs/release_v1.0.0.md`
 
 ## Current Scope
 
