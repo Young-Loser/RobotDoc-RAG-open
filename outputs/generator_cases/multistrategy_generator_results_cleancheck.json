@@ -1,0 +1,254 @@
+[
+  {
+    "query_id": "q003",
+    "query_type": "fact",
+    "question": "degrees of freedom 7",
+    "retrieved_doc_ids": [
+      "fr3_datasheet",
+      "intel_realsense_d400_datasheet",
+      "intel_realsense_d400_datasheet"
+    ],
+    "retrieved_page_idxs": [
+      1,
+      10,
+      67
+    ],
+    "retrieved_scores": [
+      0.1097557470202446,
+      0.058644913136959076,
+      0.03861703723669052
+    ],
+    "single_page": {
+      "answer": "Degrees of freedom 7",
+      "raw_answer": "Degrees of freedom 7",
+      "image_path": "/users/xyk/robotdoc-rag/data/pages/fr3_datasheet/page_0001.png",
+      "quality_score": 0.9500000000000001
+    },
+    "stitched": {
+      "answer": "",
+      "raw_answer": "7",
+      "stitched_image_path": "/users/xyk/robotdoc-rag/outputs/generator_cases/q003_top3_stitched.png",
+      "quality_score": 0.4
+    },
+    "per_page_weighted": {
+      "selected_answer": "Intel® RealSense™ Depth Camera D435i includes Inertial Measurement Unit (IMU) for 6 degrees of freedom (6DoF) data.",
+      "selected_image_path": "/users/xyk/robotdoc-rag/data/pages/intel_realsense_d400_datasheet/page_0010.png",
+      "selected_blended_score": 0.7421612282842398,
+      "per_page_results": [
+        {
+          "rank": 1,
+          "image_path": "/users/xyk/robotdoc-rag/data/pages/fr3_datasheet/page_0001.png",
+          "retrieval_score": 0.1097557470202446,
+          "generation_confidence": 1.0,
+          "quality_score": 0.4,
+          "blended_score": 0.5974389367550612,
+          "answer": "",
+          "raw_answer": "<one concise answer>\n7\n</one>\n<confidence>1</confidence>"
+        },
+        {
+          "rank": 2,
+          "image_path": "/users/xyk/robotdoc-rag/data/pages/intel_realsense_d400_datasheet/page_0010.png",
+          "retrieval_score": 0.058644913136959076,
+          "generation_confidence": 0.95,
+          "quality_score": 1.0,
+          "blended_score": 0.7421612282842398,
+          "answer": "Intel® RealSense™ Depth Camera D435i includes Inertial Measurement Unit (IMU) for 6 degrees of freedom (6DoF) data.",
+          "raw_answer": "<one concise answer>\nConfidence: 0.95\n\nIntel® RealSense™ Depth Camera D435i includes Inertial Measurement Unit (IMU) for 6 degrees of freedom (6DoF) data."
+        },
+        {
+          "rank": 3,
+          "image_path": "/users/xyk/robotdoc-rag/data/pages/intel_realsense_d400_datasheet/page_0067.png",
+          "retrieval_score": 0.03861703723669052,
+          "generation_confidence": 0.95,
+          "quality_score": 0.9500000000000001,
+          "blended_score": 0.7221542593091727,
+          "answer": "Degrees of Freedom: 6",
+          "raw_answer": "<one concise answer>\nConfidence: 0.95\n\nDegrees of Freedom: 6"
+        }
+      ]
+    },
+    "multi_image_joint": {
+      "answer": "Degrees of freedom 7",
+      "raw_answer": "Degrees of freedom 7",
+      "image_paths": [
+        "/users/xyk/robotdoc-rag/data/pages/fr3_datasheet/page_0001.png",
+        "/users/xyk/robotdoc-rag/data/pages/intel_realsense_d400_datasheet/page_0010.png",
+        "/users/xyk/robotdoc-rag/data/pages/intel_realsense_d400_datasheet/page_0067.png"
+      ],
+      "quality_score": 0.9500000000000001
+    },
+    "final_choice": {
+      "selected_strategy": "multi_image_joint",
+      "selected_answer": "Degrees of freedom 7",
+      "selection_score": 1.0625
+    }
+  },
+  {
+    "query_id": "q005",
+    "query_type": "layout",
+    "question": "workspace diagram",
+    "retrieved_doc_ids": [
+      "fr3_product_manual",
+      "fr3_datasheet",
+      "fr3_product_manual"
+    ],
+    "retrieved_page_idxs": [
+      51,
+      2,
+      70
+    ],
+    "retrieved_scores": [
+      0.23194527626037598,
+      0.20816822350025177,
+      0.12372484058141708
+    ],
+    "single_page": {
+      "answer": "The workspace diagram shows two views:\n- **Side view**: The workspace area is 855 mm wide and 362 mm deep, with a maximum reach of 333 mm to the base.\n- **Top view**: The workspace area is 855 mm in diameter.",
+      "raw_answer": "The workspace diagram shows two views:\n- **Side view**: The workspace area is 855 mm wide and 362 mm deep, with a maximum reach of 333 mm to the base.\n- **Top view**: The workspace area is 855 mm in diameter.",
+      "image_path": "/users/xyk/robotdoc-rag/data/pages/fr3_product_manual/page_0051.png",
+      "quality_score": 1.0
+    },
+    "stitched": {
+      "answer": "Workspace | side view [mm]",
+      "raw_answer": "Workspace | side view [mm]",
+      "stitched_image_path": "/users/xyk/robotdoc-rag/outputs/generator_cases/q005_top3_stitched.png",
+      "quality_score": 0.8500000000000001
+    },
+    "per_page_weighted": {
+      "selected_answer": "Workspace | top view [mm]",
+      "selected_image_path": "/users/xyk/robotdoc-rag/data/pages/fr3_product_manual/page_0051.png",
+      "selected_blended_score": 0.762986319065094,
+      "per_page_results": [
+        {
+          "rank": 1,
+          "image_path": "/users/xyk/robotdoc-rag/data/pages/fr3_product_manual/page_0051.png",
+          "retrieval_score": 0.23194527626037598,
+          "generation_confidence": 1.0,
+          "quality_score": 0.8500000000000001,
+          "blended_score": 0.762986319065094,
+          "answer": "Workspace | top view [mm]",
+          "raw_answer": "<one concise answer>\nWorkspace | top view [mm]\n\nConfidence: 1"
+        },
+        {
+          "rank": 2,
+          "image_path": "/users/xyk/robotdoc-rag/data/pages/fr3_datasheet/page_0002.png",
+          "retrieval_score": 0.20816822350025177,
+          "generation_confidence": 1.0,
+          "quality_score": 0.8500000000000001,
+          "blended_score": 0.7570420558750629,
+          "answer": "Workspace | top view [mm]",
+          "raw_answer": "<one concise answer>\nWorkspace | top view [mm]\n<confidence>\n1\n</confidence>"
+        },
+        {
+          "rank": 3,
+          "image_path": "/users/xyk/robotdoc-rag/data/pages/fr3_product_manual/page_0070.png",
+          "retrieval_score": 0.12372484058141708,
+          "generation_confidence": 0.0,
+          "quality_score": 0.8500000000000001,
+          "blended_score": 0.2859312101453543,
+          "answer": "Not enough evidence on this page.",
+          "raw_answer": "<one concise answer>\nNot enough evidence on this page.\nConfidence: 0"
+        }
+      ]
+    },
+    "multi_image_joint": {
+      "answer": "The workspace diagram shows two views:\n- **Side View**: The workspace area is circled with dimensions of 855 mm (width) x 855 mm (height), and the base is 362 mm high.\n- **Top View**: The workspace area is also circled with dimensions of 855 mm (diameter).",
+      "raw_answer": "The workspace diagram shows two views:\n- **Side View**: The workspace area is circled with dimensions of 855 mm (width) x 855 mm (height), and the base is 362 mm high.\n- **Top View**: The workspace area is also circled with dimensions of 855 mm (diameter).",
+      "image_paths": [
+        "/users/xyk/robotdoc-rag/data/pages/fr3_product_manual/page_0051.png",
+        "/users/xyk/robotdoc-rag/data/pages/fr3_datasheet/page_0002.png",
+        "/users/xyk/robotdoc-rag/data/pages/fr3_product_manual/page_0070.png"
+      ],
+      "quality_score": 1.0
+    },
+    "final_choice": {
+      "selected_strategy": "multi_image_joint",
+      "selected_answer": "The workspace diagram shows two views:\n- **Side View**: The workspace area is circled with dimensions of 855 mm (width) x 855 mm (height), and the base is 362 mm high.\n- **Top View**: The workspace area is also circled with dimensions of 855 mm (diameter).",
+      "selection_score": 1.1
+    }
+  },
+  {
+    "query_id": "q010",
+    "query_type": "semantic",
+    "question": "robot components",
+    "retrieved_doc_ids": [
+      "kinova_gen3_user_guide",
+      "kinova_gen3_user_guide",
+      "kinova_gen3_user_guide"
+    ],
+    "retrieved_page_idxs": [
+      18,
+      26,
+      19
+    ],
+    "retrieved_scores": [
+      0.2682438790798187,
+      0.1865275800228119,
+      0.16899709403514862
+    ],
+    "single_page": {
+      "answer": "The robot consists of several main components, including:\n- base\n- actuators\n- interface module (option)\n- vision module (option)",
+      "raw_answer": "The robot consists of several main components, including:\n- base\n- actuators\n- interface module (option)\n- vision module (option)",
+      "image_path": "/users/xyk/robotdoc-rag/data/pages/kinova_gen3_user_guide/page_0018.png",
+      "quality_score": 1.0
+    },
+    "stitched": {
+      "answer": "The robot consists of:\n- base\n- actuators\n- interface module\n- vision module (option)",
+      "raw_answer": "The robot consists of:\n- base\n- actuators\n- interface module\n- vision module (option)",
+      "stitched_image_path": "/users/xyk/robotdoc-rag/outputs/generator_cases/q010_top3_stitched.png",
+      "quality_score": 1.0
+    },
+    "per_page_weighted": {
+      "selected_answer": "The robot consists of several main components including the base, actuators, interface module, and vision module (optional). The robot is available in two models with different degrees of freedom (DoF): 7 degrees of freedom (DoF) and 6 degrees of freedom (DoF).\nThe robot components include the base, actuators, interface module, and vision module (optional). The robot is available in two models with 7 degrees of freedom (DoF) and 6 degrees of freedom (DoF).",
+      "selected_image_path": "/users/xyk/robotdoc-rag/data/pages/kinova_gen3_user_guide/page_0018.png",
+      "selected_blended_score": 0.8170609697699547,
+      "per_page_results": [
+        {
+          "rank": 1,
+          "image_path": "/users/xyk/robotdoc-rag/data/pages/kinova_gen3_user_guide/page_0018.png",
+          "retrieval_score": 0.2682438790798187,
+          "generation_confidence": 1.0,
+          "quality_score": 1.0,
+          "blended_score": 0.8170609697699547,
+          "answer": "The robot consists of several main components including the base, actuators, interface module, and vision module (optional). The robot is available in two models with different degrees of freedom (DoF): 7 degrees of freedom (DoF) and 6 degrees of freedom (DoF).\nThe robot components include the base, actuators, interface module, and vision module (optional). The robot is available in two models with 7 degrees of freedom (DoF) and 6 degrees of freedom (DoF).",
+          "raw_answer": "<one concise answer>\nThe robot consists of several main components including the base, actuators, interface module, and vision module (optional). The robot is available in two models with different degrees of freedom (DoF): 7 degrees of freedom (DoF) and 6 degrees of freedom (DoF).\n\nConfidence: 1\n\n<one concise answer>\nThe robot components include the base, actuators, interface module, and vision module (optional). The robot is available in two models with 7 degrees of freedom (DoF) and 6 degrees of freedom (DoF)."
+        },
+        {
+          "rank": 2,
+          "image_path": "/users/xyk/robotdoc-rag/data/pages/kinova_gen3_user_guide/page_0026.png",
+          "retrieval_score": 0.1865275800228119,
+          "generation_confidence": 1.0,
+          "quality_score": 1.0,
+          "blended_score": 0.796631895005703,
+          "answer": "The interface module takes a 41-pin input from the last actuator of the robot.",
+          "raw_answer": "Answer: The interface module takes a 41-pin input from the last actuator of the robot.\n\nConfidence: 1"
+        },
+        {
+          "rank": 3,
+          "image_path": "/users/xyk/robotdoc-rag/data/pages/kinova_gen3_user_guide/page_0019.png",
+          "retrieval_score": 0.16899709403514862,
+          "generation_confidence": 1.0,
+          "quality_score": 1.0,
+          "blended_score": 0.7922492735087872,
+          "answer": "<Answer>\nThe robot main components include the base, upper arm, wrist, vision module, interface module, controller, actuator 1, actuator 2 (shoulder joint), actuator 3 (elbow joint), actuator 4, actuator 5, and actuator 6.\n</Answer>",
+          "raw_answer": "<Answer>\nThe robot main components include the base, upper arm, wrist, vision module, interface module, controller, actuator 1, actuator 2 (shoulder joint), actuator 3 (elbow joint), actuator 4, actuator 5, and actuator 6.\n</Answer>\n<Confidence>1</Confidence>"
+        }
+      ]
+    },
+    "multi_image_joint": {
+      "answer": "The robot consists of several main components, including:\n- base\n- actuators\n- interface module (option)\n- vision module (option)",
+      "raw_answer": "The robot consists of several main components, including:\n- base\n- actuators\n- interface module (option)\n- vision module (option)",
+      "image_paths": [
+        "/users/xyk/robotdoc-rag/data/pages/kinova_gen3_user_guide/page_0018.png",
+        "/users/xyk/robotdoc-rag/data/pages/kinova_gen3_user_guide/page_0026.png",
+        "/users/xyk/robotdoc-rag/data/pages/kinova_gen3_user_guide/page_0019.png"
+      ],
+      "quality_score": 1.0
+    },
+    "final_choice": {
+      "selected_strategy": "multi_image_joint",
+      "selected_answer": "The robot consists of several main components, including:\n- base\n- actuators\n- interface module (option)\n- vision module (option)",
+      "selection_score": 1.1
+    }
+  }
+]

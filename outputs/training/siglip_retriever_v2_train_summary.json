@@ -1,0 +1,62 @@
+{
+  "train_file": "/users/xyk/robotdoc-rag/data/train/retriever_train_pairs_large_v4.csv",
+  "checkpoint_path": "/users/xyk/robotdoc-rag/outputs/checkpoints/siglip_retriever_v2_best.pt",
+  "best_val_loss": 2.308590168952942,
+  "pooling": "position_weighted",
+  "used_weighted_sampler": true,
+  "dataset_summary": {
+    "rows": 1663,
+    "query_count": 417,
+    "query_type_counts": {
+      "fact": 1050,
+      "semantic": 385,
+      "layout": 180,
+      "navigation": 48
+    },
+    "neg_source_counts": {
+      "bm25_hard": 407,
+      "same_doc_far": 407,
+      "adjacent_prev": 401,
+      "vision_hard": 400,
+      "gold_bm25_hard": 10,
+      "gold_siglip_v1_hard": 10,
+      "gold_two_stage_hard": 10,
+      "gold_adjacent_prev": 9,
+      "gold_adjacent_next": 9
+    },
+    "missing_pos_images": 0,
+    "missing_neg_images": 0
+  },
+  "history": [
+    {
+      "epoch": 1,
+      "train_loss": 1.5190699683512494,
+      "val_loss": 2.308590168952942
+    },
+    {
+      "epoch": 2,
+      "train_loss": 0.9820704725596423,
+      "val_loss": 2.4317428255081177
+    },
+    {
+      "epoch": 3,
+      "train_loss": 0.8266877564576154,
+      "val_loss": 2.424737186431885
+    },
+    {
+      "epoch": 4,
+      "train_loss": 0.7210470796282825,
+      "val_loss": 2.453693737983704
+    },
+    {
+      "epoch": 5,
+      "train_loss": 0.6648713354367376,
+      "val_loss": 2.5531599283218385
+    },
+    {
+      "epoch": 6,
+      "train_loss": 0.5822808001129354,
+      "val_loss": 2.502503848075867
+    }
+  ]
+}

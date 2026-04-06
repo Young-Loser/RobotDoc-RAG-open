@@ -1,0 +1,24 @@
+__pycache__/
+*.pyc
+*.pyo
+*.swp
+.DS_Store
+
+# Local environments
+.venv/
+venv/
+.env
+
+# Large rebuild artifacts and source manuals
+data/raw_pdfs/
+data/pages/
+data/ocr/raw_json/
+
+# Heavy caches and model outputs
+outputs/checkpoints/
+outputs/siglip_cache/*.pt
+outputs/vision_cache/
+outputs/training/tmp_*.json
+
+# Runtime scratch outputs
+outputs/generator_cases/*_stitched.png

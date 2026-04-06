@@ -1,0 +1,9 @@
+query_id,query_type,query_en,gold_doc_id,gold_page_idx,top1_doc_id,top1_page_idx,top1_doc_hit,top1_exact_hit,top5_doc_hit,top5_exact_hit
+q001,fact,maximum reach 855 mm,fr3_datasheet,1,robotiq_2f_manual,51,False,False,False,False
+q002,fact,rated payload 3kg,fr3_datasheet,1,ur5e_user_manual,176,False,False,False,False
+q003,fact,degrees of freedom 7,fr3_datasheet,1,kinova_gen3_user_guide,12,False,False,False,False
+q004,fact,force torque sensing,fr3_datasheet,1,ur5e_user_manual,66,False,False,False,False
+q006,semantic,maximum payload,ur5e_user_manual,95,ur5e_user_manual,43,True,False,True,False
+q007,navigation,emergency stop,ur5e_user_manual,7,ur5e_user_manual,203,True,False,True,False
+q008,navigation,declaration of incorporation,ur5e_user_manual,221,intel_realsense_d400_datasheet,58,False,False,True,False
+q010,semantic,robot components,kinova_gen3_user_guide,18,kinova_gen3_user_guide,203,True,False,True,False

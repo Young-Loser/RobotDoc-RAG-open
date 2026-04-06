@@ -1,0 +1,17 @@
+{
+  "documents": 8,
+  "pages": 1205,
+  "pages_with_ocr_text": 1203,
+  "pages_with_clean_text": 1195,
+  "pages_with_ocr_error": 0,
+  "doc_ids": [
+    "fr3_datasheet",
+    "fr3_operating_manual",
+    "fr3_product_manual",
+    "intel_realsense_d400_datasheet",
+    "kinova_gen3_user_guide",
+    "robotiq_2f_manual",
+    "robotiq_hande_manual",
+    "ur5e_user_manual"
+  ]
+}

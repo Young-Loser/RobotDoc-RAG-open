@@ -1,0 +1,19 @@
+# Core
+pandas
+numpy
+tqdm
+Pillow
+PyMuPDF
+rank-bm25
+
+# Deep learning
+torch
+transformers
+accelerate
+sentencepiece
+safetensors
+
+# OCR / multimodal / retrieval extras
+paddlex
+qwen-vl-utils
+colpali-engine

@@ -1,0 +1,11 @@
+query_id,query_zh,query_en,query_type,cand_doc_id,cand_page_idx,confidence,why_this_page,label_status,final_doc_id,final_page_idx,annotator_note
+q001,FR3的最大工作半径是多少,maximum reach 855 mm,fact,fr3_datasheet,1,high,"你之前的OCR sample里明确出现 Maximum reach 和 855mm",confirmed,fr3_datasheet,1,"页面左上表格明确有 Maximum reach = 855 mm"
+q002,FR3的额定负载是多少,rated payload 3kg,fact,fr3_datasheet,1,high,"你之前的OCR sample里明确出现 Rated payload 和 3kg",confirmed,fr3_datasheet,1,"页面左上表格明确有 Rated payload = 3 kg"
+q003,FR3有几个自由度,degrees of freedom 7,fact,fr3_datasheet,1,high,"你之前的OCR sample里明确出现 Degrees of freedom",confirmed,fr3_datasheet,1,"页面左上表格明确有 Degrees of freedom = 7"
+q004,FR3是否支持力/力矩感知,force torque sensing,fact,fr3_datasheet,1,high,"你之前的OCR sample里明确出现 Force/Torque sensing",confirmed,fr3_datasheet,1,"页面左上表格明确有 Force/Torque sensing 相关描述"
+q005,FR3工作空间示意图在哪一页,workspace diagram,layout,fr3_product_manual,51,medium_high,"BM25候选页里 51 页最像真正的 workspace 图页",confirmed,fr3_product_manual,51,"页面标题为 DIMENSIONS & WORKSPACE，且包含 workspace side view 和 top view 图"
+q006,UR5e最大负载相关页面,maximum payload,semantic,ur5e_user_manual,95,medium_high,"BM25 top1 为 7.12.2 Maximum Payload",confirmed,ur5e_user_manual,95,"页面标题为 7.12.2 Maximum Payload，且有负载与重心偏移关系图"
+q007,UR5e紧急停止目录定位页,emergency stop,navigation,ur5e_user_manual,7,medium,"BM25结果里这一页像目录页，含 11.1 Emergency Stop",confirmed,ur5e_user_manual,7,"目录页中明确列出 11.1 Emergency Stop 及对应页码"
+q008,UR5e合格声明页面,declaration of incorporation,navigation,ur5e_user_manual,221,high,"你之前输出里明确有 16. Declaration of Incorporation",confirmed,ur5e_user_manual,221,"页面标题明确为 EU Declaration of Incorporation"
+q009,Kinova Gen3七自由度尺寸图页面,7 dof dimensions,layout,kinova_gen3_user_guide,66,medium_high,"66页明确是 Schematic and dimensions - 7 DoF spherical wrist，67页已切到6 DoF",confirmed,kinova_gen3_user_guide,66,"页面标题为 Schematic and dimensions - 7 DoF spherical wrist，并包含七自由度尺寸图与参数表"
+q010,Kinova机器人组成介绍页面,robot components,semantic,kinova_gen3_user_guide,18,medium_high,"BM25 top1 就是 Robot components",confirmed,kinova_gen3_user_guide,18,"页面标题为 Robot components，且有机器人组成示意图"

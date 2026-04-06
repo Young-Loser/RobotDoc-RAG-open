@@ -1,0 +1,24 @@
+{
+  "project_name": "robotdoc-rag",
+  "paths": {
+    "data_dir": "data",
+    "raw_pdfs_dir": "data/raw_pdfs",
+    "pages_dir": "data/pages",
+    "ocr_dir": "data/ocr",
+    "eval_dir": "data/eval",
+    "train_dir": "data/train",
+    "outputs_dir": "outputs",
+    "docs_dir": "docs"
+  },
+  "pipelines": {
+    "data_rebuild": [
+      "scripts/data_preparation/render_pdfs.py",
+      "scripts/data_preparation/run_ocr_baseline.py",
+      "scripts/data_preparation/clean_ocr_texts.py",
+      "scripts/data_preparation/build_page_index.py"
+    ],
+    "retrieval_baseline": [
+      "scripts/evaluation/eval_bm25.py"
+    ]
+  }
+}

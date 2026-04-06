@@ -1,0 +1,32 @@
+{
+  "train_file": "/users/xyk/robotdoc-rag/data/train/retriever_train_pairs_large_v3.csv",
+  "checkpoint_path": "/users/xyk/robotdoc-rag/outputs/checkpoints/sanity_check.pt",
+  "best_val_loss": 0.7970731854438782,
+  "pooling": "position_weighted",
+  "used_weighted_sampler": true,
+  "dataset_summary": {
+    "rows": 1615,
+    "query_count": 407,
+    "query_type_counts": {
+      "fact": 1030,
+      "semantic": 375,
+      "layout": 171,
+      "navigation": 39
+    },
+    "neg_source_counts": {
+      "bm25_hard": 407,
+      "same_doc_far": 407,
+      "adjacent_prev": 401,
+      "vision_hard": 400
+    },
+    "missing_pos_images": 0,
+    "missing_neg_images": 0
+  },
+  "history": [
+    {
+      "epoch": 1,
+      "train_loss": 0.8786483407020569,
+      "val_loss": 0.7970731854438782
+    }
+  ]
+}

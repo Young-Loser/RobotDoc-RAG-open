@@ -1,0 +1,1137 @@
+query_id,doc_id,page_idx,page_type,query_zh,query_en,query_source,anchor_heading,ocr_text_clean_len,page_score
+auto_00001,fr3_datasheet,1,layout,哪一页是工作空间示意图页面？,Which page shows the workspace diagram?,layout_workspace,Datasheet' Franka Research 3,3484,21.7
+auto_00002,fr3_datasheet,1,layout,哪一页包含 7 自由度相关尺寸图？,Which page contains the 7 DoF dimensions figure?,layout_7dof,Datasheet' Franka Research 3,3484,21.7
+auto_00003,fr3_datasheet,1,layout,哪一页展示了“Datasheet' Franka Research 3”的图示页面？,Which page visually presents 'Datasheet' Franka Research 3'?,layout_heading,Datasheet' Franka Research 3,3484,21.7
+auto_00004,fr3_datasheet,2,layout,哪一页是工作空间示意图页面？,Which page shows the workspace diagram?,layout_workspace,Datasheet' Franka Research 3,446,15.06
+auto_00005,fr3_datasheet,2,layout,哪一页包含尺寸图或尺寸示意？,Which page contains the dimensions diagram?,layout_dimensions,Datasheet' Franka Research 3,446,15.06
+auto_00006,fr3_datasheet,2,layout,哪一页展示了“Datasheet' Franka Research 3”的图示页面？,Which page visually presents 'Datasheet' Franka Research 3'?,layout_heading,Datasheet' Franka Research 3,446,15.06
+auto_00007,fr3_operating_manual,0,semantic,哪一页介绍了安全说明相关内容？,Which page describes safety related information?,semantic_keyword,FRANKA ROBOTICS,365,16.88
+auto_00008,fr3_operating_manual,0,semantic,这页主要讲的是哪方面的安全说明内容？,What safety topic is mainly explained on this page?,semantic_topic,FRANKA ROBOTICS,365,16.88
+auto_00009,fr3_operating_manual,2,semantic,哪一页介绍了组成部件相关内容？,Which page describes components related information?,semantic_keyword,TABLE OF CONTENTS,960,15.4
+auto_00010,fr3_operating_manual,2,semantic,这页主要讲的是哪方面的组成部件内容？,What components topic is mainly explained on this page?,semantic_topic,TABLE OF CONTENTS,960,15.4
+auto_00011,fr3_operating_manual,6,semantic,哪一页介绍了安装说明相关内容？,Which page describes installation related information?,semantic_keyword,ABOUT THIS MANUAL,958,17.12
+auto_00012,fr3_operating_manual,6,semantic,这页主要讲的是哪方面的安装说明内容？,What installation topic is mainly explained on this page?,semantic_topic,ABOUT THIS MANUAL,958,17.12
+auto_00013,fr3_operating_manual,8,semantic,哪一页介绍了安装说明相关内容？,Which page describes installation related information?,semantic_keyword,GETTING STARTED,1675,17.599999999999998
+auto_00014,fr3_operating_manual,8,semantic,这页主要讲的是哪方面的安装说明内容？,What installation topic is mainly explained on this page?,semantic_topic,GETTING STARTED,1675,17.599999999999998
+auto_00015,fr3_operating_manual,9,fact,这页中关于最大工作半径的参数是什么？,What specification about reach is given on this page?,fact_keyword,GETTING STARTED,1564,16.4
+auto_00016,fr3_operating_manual,9,fact,哪一页提到了最大工作半径相关参数？,Which page mentions reach related specifications?,fact_page_lookup,GETTING STARTED,1564,16.4
+auto_00017,fr3_operating_manual,9,fact,哪一页介绍了“GETTING STARTED”相关内容？,Which page discusses 'GETTING STARTED'?,fact_heading,GETTING STARTED,1564,16.4
+auto_00018,fr3_operating_manual,12,semantic,哪一页介绍了安装说明相关内容？,Which page describes installation related information?,semantic_keyword,GETTING STARTED,2034,16.4
+auto_00019,fr3_operating_manual,12,semantic,这页主要讲的是哪方面的安装说明内容？,What installation topic is mainly explained on this page?,semantic_topic,GETTING STARTED,2034,16.4
+auto_00020,fr3_operating_manual,13,semantic,哪一页介绍了安装说明相关内容？,Which page describes installation related information?,semantic_keyword,GETTING STARTED,1034,16.24
+auto_00021,fr3_operating_manual,13,semantic,这页主要讲的是哪方面的安装说明内容？,What installation topic is mainly explained on this page?,semantic_topic,GETTING STARTED,1034,16.24
+auto_00022,fr3_operating_manual,15,fact,这页中关于最大工作半径的参数是什么？,What specification about reach is given on this page?,fact_keyword,5 WORKING WITH FRANKA RESEARCH 3,3430,16.56
+auto_00023,fr3_operating_manual,15,fact,哪一页提到了最大工作半径相关参数？,Which page mentions reach related specifications?,fact_page_lookup,5 WORKING WITH FRANKA RESEARCH 3,3430,16.56
+auto_00024,fr3_operating_manual,15,fact,哪一页介绍了“5 WORKING WITH FRANKA RESEARCH 3”相关内容？,Which page discusses '5 WORKING WITH FRANKA RESEARCH 3'?,fact_heading,5 WORKING WITH FRANKA RESEARCH 3,3430,16.56
+auto_00025,fr3_operating_manual,16,fact,这页中关于力矩的参数是什么？,What specification about torque is given on this page?,fact_keyword,"can then be used, for example, to stop the movement of the robot.",1432,16.0
+auto_00026,fr3_operating_manual,16,fact,哪一页提到了力矩相关参数？,Which page mentions torque related specifications?,fact_page_lookup,"can then be used, for example, to stop the movement of the robot.",1432,16.0
+auto_00027,fr3_operating_manual,16,fact,"哪一页介绍了“can then be used, for example, to stop t”相关内容？","Which page discusses 'can then be used, for example, to stop t'?",fact_heading,"can then be used, for example, to stop the movement of the robot.",1432,16.0
+auto_00028,fr3_operating_manual,27,layout,哪一页是工作空间示意图页面？,Which page shows the workspace diagram?,layout_workspace,Exiting the Assist Mode:,1614,15.68
+auto_00029,fr3_operating_manual,27,layout,哪一页展示了“Exiting the Assist Mode:”的图示页面？,Which page visually presents 'Exiting the Assist Mode:'?,layout_heading,Exiting the Assist Mode:,1614,15.68
+auto_00030,fr3_operating_manual,28,semantic,哪一页介绍了安装说明相关内容？,Which page describes installation related information?,semantic_keyword,WORKING WITH ERANKA RESEARCH 3,1801,15.14
+auto_00031,fr3_operating_manual,28,semantic,这页主要讲的是哪方面的安装说明内容？,What installation topic is mainly explained on this page?,semantic_topic,WORKING WITH ERANKA RESEARCH 3,1801,15.14
+auto_00032,fr3_operating_manual,30,fact,这页中关于最大工作半径的参数是什么？,What specification about reach is given on this page?,fact_keyword,Pose teaching,961,16.119999999999997
+auto_00033,fr3_operating_manual,30,fact,哪一页提到了最大工作半径相关参数？,Which page mentions reach related specifications?,fact_page_lookup,Pose teaching,961,16.119999999999997
+auto_00034,fr3_operating_manual,30,fact,哪一页包含参数值 0 mm？,Which page contains the specification value 0 mm?,fact_number_unit,Pose teaching,961,16.119999999999997
+auto_00035,fr3_operating_manual,33,layout,哪一页是工作空间示意图页面？,Which page shows the workspace diagram?,layout_workspace,Guiding Mode,1069,16.16
+auto_00036,fr3_operating_manual,33,layout,哪一页展示了“Guiding Mode”的图示页面？,Which page visually presents 'Guiding Mode'?,layout_heading,Guiding Mode,1069,16.16
+auto_00037,fr3_operating_manual,35,generic,哪一页讨论了“Do not guide the Arm when locked.”？,Which page discusses 'Do not guide the Arm when locked.'?,generic_heading,Do not guide the Arm when locked.,1545,15.56
+auto_00038,fr3_operating_manual,35,generic,哪一页包含这一主题的说明内容？,Which page contains information about this topic?,generic_topic,Do not guide the Arm when locked.,1545,15.56
+auto_00039,fr3_operating_manual,37,fact,这页中关于最大工作半径的参数是什么？,What specification about reach is given on this page?,fact_keyword,FRANKA UI,1068,15.48
+auto_00040,fr3_operating_manual,37,fact,哪一页提到了最大工作半径相关参数？,Which page mentions reach related specifications?,fact_page_lookup,FRANKA UI,1068,15.48
+auto_00041,fr3_operating_manual,37,fact,哪一页包含参数值 1 s？,Which page contains the specification value 1 s?,fact_number_unit,FRANKA UI,1068,15.48
+auto_00042,fr3_operating_manual,38,semantic,哪一页介绍了状态说明相关内容？,Which page describes status related information?,semantic_keyword,FRANKA UI,1329,15.56
+auto_00043,fr3_operating_manual,38,semantic,这页主要讲的是哪方面的状态说明内容？,What status topic is mainly explained on this page?,semantic_topic,FRANKA UI,1329,15.56
+auto_00044,fr3_operating_manual,39,semantic,哪一页介绍了安全说明相关内容？,Which page describes safety related information?,semantic_keyword,FRANKA UI,1327,17.04
+auto_00045,fr3_operating_manual,39,semantic,这页主要讲的是哪方面的安全说明内容？,What safety topic is mainly explained on this page?,semantic_topic,FRANKA UI,1327,17.04
+auto_00046,fr3_operating_manual,40,generic,哪一页讨论了“FRANKA UI”？,Which page discusses 'FRANKA UI'?,generic_heading,FRANKA UI,1491,17.119999999999997
+auto_00047,fr3_operating_manual,40,generic,哪一页包含这一主题的说明内容？,Which page contains information about this topic?,generic_topic,FRANKA UI,1491,17.119999999999997
+auto_00048,fr3_operating_manual,41,semantic,哪一页介绍了安全说明相关内容？,Which page describes safety related information?,semantic_keyword,FRANKA UI,926,15.2
+auto_00049,fr3_operating_manual,41,semantic,这页主要讲的是哪方面的安全说明内容？,What safety topic is mainly explained on this page?,semantic_topic,FRANKA UI,926,15.2
+auto_00050,fr3_operating_manual,42,semantic,哪一页介绍了安全说明相关内容？,Which page describes safety related information?,semantic_keyword,FRANKA UI,1338,18.0
+auto_00051,fr3_operating_manual,42,semantic,这页主要讲的是哪方面的安全说明内容？,What safety topic is mainly explained on this page?,semantic_topic,FRANKA UI,1338,18.0
+auto_00052,fr3_operating_manual,43,semantic,哪一页介绍了安装说明相关内容？,Which page describes installation related information?,semantic_keyword,FRANKA UI,1016,16.32
+auto_00053,fr3_operating_manual,43,semantic,这页主要讲的是哪方面的安装说明内容？,What installation topic is mainly explained on this page?,semantic_topic,FRANKA UI,1016,16.32
+auto_00054,fr3_operating_manual,45,semantic,哪一页介绍了安全说明相关内容？,Which page describes safety related information?,semantic_keyword,ROLES AND PERSONNEL,1570,16.799999999999997
+auto_00055,fr3_operating_manual,45,semantic,这页主要讲的是哪方面的安全说明内容？,What safety topic is mainly explained on this page?,semantic_topic,ROLES AND PERSONNEL,1570,16.799999999999997
+auto_00056,fr3_operating_manual,49,semantic,哪一页介绍了安装说明相关内容？,Which page describes installation related information?,semantic_keyword,MANAGINGFRANKARESEARCH3,1914,17.2
+auto_00057,fr3_operating_manual,49,semantic,这页主要讲的是哪方面的安装说明内容？,What installation topic is mainly explained on this page?,semantic_topic,MANAGINGFRANKARESEARCH3,1914,17.2
+auto_00058,fr3_operating_manual,51,fact,这页中关于最大工作半径的参数是什么？,What specification about reach is given on this page?,fact_keyword,MANAGINGFRANKARESEARCH 3,1500,17.36
+auto_00059,fr3_operating_manual,51,fact,哪一页提到了最大工作半径相关参数？,Which page mentions reach related specifications?,fact_page_lookup,MANAGINGFRANKARESEARCH 3,1500,17.36
+auto_00060,fr3_operating_manual,51,fact,哪一页介绍了“MANAGINGFRANKARESEARCH 3”相关内容？,Which page discusses 'MANAGINGFRANKARESEARCH 3'?,fact_heading,MANAGINGFRANKARESEARCH 3,1500,17.36
+auto_00061,fr3_operating_manual,53,semantic,哪一页介绍了安全说明相关内容？,Which page describes safety related information?,semantic_keyword,9 TROUBLESHOOTING,2287,17.2
+auto_00062,fr3_operating_manual,53,semantic,这页主要讲的是哪方面的安全说明内容？,What safety topic is mainly explained on this page?,semantic_topic,9 TROUBLESHOOTING,2287,17.2
+auto_00063,fr3_operating_manual,60,generic,哪一页讨论了“The robot can now be used again.”？,Which page discusses 'The robot can now be used again.'?,generic_heading,The robot can now be used again.,2520,17.2
+auto_00064,fr3_operating_manual,60,generic,哪一页包含这一主题的说明内容？,Which page contains information about this topic?,generic_topic,The robot can now be used again.,2520,17.2
+auto_00065,fr3_operating_manual,61,layout,哪一页包含结构/原理示意图？,Which page contains the schematic diagram?,layout_schematic,9.1.10,1425,16.88
+auto_00066,fr3_operating_manual,61,layout,哪一页展示了“9.1.10”的图示页面？,Which page visually presents '9.1.10'?,layout_heading,9.1.10,1425,16.88
+auto_00067,fr3_operating_manual,62,fact,这页中关于力矩的参数是什么？,What specification about torque is given on this page?,fact_keyword,Estimation of externally applied torques and forces.,2185,16.08
+auto_00068,fr3_operating_manual,62,fact,哪一页提到了力矩相关参数？,Which page mentions torque related specifications?,fact_page_lookup,Estimation of externally applied torques and forces.,2185,16.08
+auto_00069,fr3_operating_manual,62,fact,哪一页介绍了“Estimation of externally applied torques”相关内容？,Which page discusses 'Estimation of externally applied torques'?,fact_heading,Estimation of externally applied torques and forces.,2185,16.08
+auto_00070,fr3_operating_manual,67,fact,这页中关于最大工作半径的参数是什么？,What specification about reach is given on this page?,fact_keyword,10.3.3,1440,17.2
+auto_00071,fr3_operating_manual,67,fact,哪一页提到了最大工作半径相关参数？,Which page mentions reach related specifications?,fact_page_lookup,10.3.3,1440,17.2
+auto_00072,fr3_operating_manual,67,fact,哪一页介绍了“10.3.3”相关内容？,Which page discusses '10.3.3'?,fact_heading,10.3.3,1440,17.2
+auto_00073,fr3_operating_manual,69,semantic,哪一页介绍了安装说明相关内容？,Which page describes installation related information?,semantic_keyword,"need full ""admin"" rights on your Linux PC.",2276,15.6
+auto_00074,fr3_operating_manual,69,semantic,这页主要讲的是哪方面的安装说明内容？,What installation topic is mainly explained on this page?,semantic_topic,"need full ""admin"" rights on your Linux PC.",2276,15.6
+auto_00075,fr3_operating_manual,76,fact,这页中关于最大工作半径的参数是什么？,What specification about reach is given on this page?,fact_keyword,depend on previous operation and ambient temperatures.,2059,16.56
+auto_00076,fr3_operating_manual,76,fact,哪一页提到了最大工作半径相关参数？,Which page mentions reach related specifications?,fact_page_lookup,depend on previous operation and ambient temperatures.,2059,16.56
+auto_00077,fr3_operating_manual,76,fact,哪一页介绍了“depend on previous operation and ambient”相关内容？,Which page discusses 'depend on previous operation and ambient'?,fact_heading,depend on previous operation and ambient temperatures.,2059,16.56
+auto_00078,fr3_operating_manual,78,semantic,哪一页介绍了安全说明相关内容？,Which page describes safety related information?,semantic_keyword,Safe End Effector Power,2151,18.53
+auto_00079,fr3_operating_manual,78,semantic,这页主要讲的是哪方面的安全说明内容？,What safety topic is mainly explained on this page?,semantic_topic,Safe End Effector Power,2151,18.53
+auto_00080,fr3_operating_manual,79,semantic,哪一页介绍了安全说明相关内容？,Which page describes safety related information?,semantic_keyword,Category O stop,2080,16.299999999999997
+auto_00081,fr3_operating_manual,79,semantic,这页主要讲的是哪方面的安全说明内容？,What safety topic is mainly explained on this page?,semantic_topic,Category O stop,2080,16.299999999999997
+auto_00082,fr3_operating_manual,80,semantic,哪一页介绍了安全说明相关内容？,Which page describes safety related information?,semantic_keyword,The operator can perform all other recoveries.,2053,17.599999999999998
+auto_00083,fr3_operating_manual,80,semantic,这页主要讲的是哪方面的安全说明内容？,What safety topic is mainly explained on this page?,semantic_topic,The operator can perform all other recoveries.,2053,17.599999999999998
+auto_00084,fr3_operating_manual,81,semantic,哪一页介绍了安全说明相关内容？,Which page describes safety related information?,semantic_keyword,for validations,2487,15.84
+auto_00085,fr3_operating_manual,81,semantic,这页主要讲的是哪方面的安全说明内容？,What safety topic is mainly explained on this page?,semantic_topic,for validations,2487,15.84
+auto_00086,fr3_operating_manual,83,semantic,哪一页介绍了安全说明相关内容？,Which page describes safety related information?,semantic_keyword,Safe activation signal: External Enabling Device (X4).,1956,15.52
+auto_00087,fr3_operating_manual,83,semantic,这页主要讲的是哪方面的安全说明内容？,What safety topic is mainly explained on this page?,semantic_topic,Safe activation signal: External Enabling Device (X4).,1956,15.52
+auto_00088,fr3_operating_manual,86,semantic,哪一页介绍了安全说明相关内容？,Which page describes safety related information?,semantic_keyword,Languape,1671,15.2
+auto_00089,fr3_operating_manual,86,semantic,这页主要讲的是哪方面的安全说明内容？,What safety topic is mainly explained on this page?,semantic_topic,Languape,1671,15.2
+auto_00090,fr3_operating_manual,88,semantic,哪一页介绍了安全说明相关内容？,Which page describes safety related information?,semantic_keyword,12.3.1,1274,16.25
+auto_00091,fr3_operating_manual,88,semantic,这页主要讲的是哪方面的安全说明内容？,What safety topic is mainly explained on this page?,semantic_topic,12.3.1,1274,16.25
+auto_00092,fr3_operating_manual,89,semantic,哪一页介绍了安全说明相关内容？,Which page describes safety related information?,semantic_keyword,Robot,1449,15.6
+auto_00093,fr3_operating_manual,89,semantic,这页主要讲的是哪方面的安全说明内容？,What safety topic is mainly explained on this page?,semantic_topic,Robot,1449,15.6
+auto_00094,fr3_operating_manual,91,semantic,哪一页介绍了安装说明相关内容？,Which page describes installation related information?,semantic_keyword,12.3.3,2404,17.7
+auto_00095,fr3_operating_manual,91,semantic,这页主要讲的是哪方面的安装说明内容？,What installation topic is mainly explained on this page?,semantic_topic,12.3.3,2404,17.7
+auto_00096,fr3_operating_manual,92,layout,哪一页包含尺寸图或尺寸示意？,Which page contains the dimensions diagram?,layout_dimensions,Description: Free editable description of the end effector,1913,16.959999999999997
+auto_00097,fr3_operating_manual,92,layout,哪一页展示了“Description: Free editable description o”的图示页面？,Which page visually presents 'Description: Free editable description o'?,layout_heading,Description: Free editable description of the end effector,1913,16.959999999999997
+auto_00098,fr3_operating_manual,96,fact,这页中关于最大工作半径的参数是什么？,What specification about reach is given on this page?,fact_keyword,possible.,2066,16.0
+auto_00099,fr3_operating_manual,96,fact,哪一页提到了最大工作半径相关参数？,Which page mentions reach related specifications?,fact_page_lookup,possible.,2066,16.0
+auto_00100,fr3_operating_manual,96,fact,哪一页介绍了“possible.”相关内容？,Which page discusses 'possible.'?,fact_heading,possible.,2066,16.0
+auto_00101,fr3_operating_manual,100,semantic,哪一页介绍了安全说明相关内容？,Which page describes safety related information?,semantic_keyword,Auto Cell #3 - IP 0.193,2074,15.8
+auto_00102,fr3_operating_manual,100,semantic,这页主要讲的是哪方面的安全说明内容？,What safety topic is mainly explained on this page?,semantic_topic,Auto Cell #3 - IP 0.193,2074,15.8
+auto_00103,fr3_operating_manual,102,layout,哪一页是工作空间示意图页面？,Which page shows the workspace diagram?,layout_workspace,now displayed in green and shows the validated state.,1914,16.4
+auto_00104,fr3_operating_manual,102,layout,哪一页展示了“now displayed in green and shows the val”的图示页面？,Which page visually presents 'now displayed in green and shows the val'?,layout_heading,now displayed in green and shows the validated state.,1914,16.4
+auto_00105,fr3_operating_manual,103,semantic,哪一页介绍了安全说明相关内容？,Which page describes safety related information?,semantic_keyword,13.2 LED Activation Behavior,1381,17.2
+auto_00106,fr3_operating_manual,103,semantic,这页主要讲的是哪方面的安全说明内容？,What safety topic is mainly explained on this page?,semantic_topic,13.2 LED Activation Behavior,1381,17.2
+auto_00107,fr3_operating_manual,107,fact,这页中关于最大工作半径的参数是什么？,What specification about reach is given on this page?,fact_keyword,SERVICE AND SUPPORT,2166,16.88
+auto_00108,fr3_operating_manual,107,fact,哪一页提到了最大工作半径相关参数？,Which page mentions reach related specifications?,fact_page_lookup,SERVICE AND SUPPORT,2166,16.88
+auto_00109,fr3_operating_manual,107,fact,哪一页介绍了“SERVICE AND SUPPORT”相关内容？,Which page discusses 'SERVICE AND SUPPORT'?,fact_heading,SERVICE AND SUPPORT,2166,16.88
+auto_00110,fr3_operating_manual,110,semantic,哪一页介绍了安全说明相关内容？,Which page describes safety related information?,semantic_keyword,SERVICE AND SUPPORT,2146,16.16
+auto_00111,fr3_operating_manual,110,semantic,这页主要讲的是哪方面的安全说明内容？,What safety topic is mainly explained on this page?,semantic_topic,SERVICE AND SUPPORT,2146,16.16
+auto_00112,fr3_operating_manual,117,semantic,哪一页介绍了安全说明相关内容？,Which page describes safety related information?,semantic_keyword,INDEX,881,15.7
+auto_00113,fr3_operating_manual,117,semantic,这页主要讲的是哪方面的安全说明内容？,What safety topic is mainly explained on this page?,semantic_topic,INDEX,881,15.7
+auto_00114,fr3_operating_manual,119,layout,哪一页包含结构/原理示意图？,Which page contains the schematic diagram?,layout_schematic,INDEX,1398,15.7
+auto_00115,fr3_operating_manual,119,layout,哪一页展示了“INDEX”的图示页面？,Which page visually presents 'INDEX'?,layout_heading,INDEX,1398,15.7
+auto_00116,fr3_product_manual,3,layout,哪一页是工作空间示意图页面？,Which page shows the workspace diagram?,layout_workspace,10.2,1259,17.2
+auto_00117,fr3_product_manual,3,layout,哪一页展示了“10.2”的图示页面？,Which page visually presents '10.2'?,layout_heading,10.2,1259,17.2
+auto_00118,fr3_product_manual,4,semantic,哪一页介绍了安全说明相关内容？,Which page describes safety related information?,semantic_keyword,12.4.1,1066,17.2
+auto_00119,fr3_product_manual,4,semantic,这页主要讲的是哪方面的安全说明内容？,What safety topic is mainly explained on this page?,semantic_topic,12.4.1,1066,17.2
+auto_00120,fr3_product_manual,6,fact,这页中关于最大工作半径的参数是什么？,What specification about reach is given on this page?,fact_keyword,ABOUT FRANKA ROBOTICS,1673,15.84
+auto_00121,fr3_product_manual,6,fact,哪一页提到了最大工作半径相关参数？,Which page mentions reach related specifications?,fact_page_lookup,ABOUT FRANKA ROBOTICS,1673,15.84
+auto_00122,fr3_product_manual,6,fact,哪一页介绍了“ABOUT FRANKA ROBOTICS”相关内容？,Which page discusses 'ABOUT FRANKA ROBOTICS'?,fact_heading,ABOUT FRANKA ROBOTICS,1673,15.84
+auto_00123,fr3_product_manual,18,layout,哪一页是工作空间示意图页面？,Which page shows the workspace diagram?,layout_workspace,DANGER,1799,16.16
+auto_00124,fr3_product_manual,18,layout,哪一页展示了“DANGER”的图示页面？,Which page visually presents 'DANGER'?,layout_heading,DANGER,1799,16.16
+auto_00125,fr3_product_manual,20,layout,哪一页是工作空间示意图页面？,Which page shows the workspace diagram?,layout_workspace,Unexpected motion,1927,16.72
+auto_00126,fr3_product_manual,20,layout,哪一页展示了“Unexpected motion”的图示页面？,Which page visually presents 'Unexpected motion'?,layout_heading,Unexpected motion,1927,16.72
+auto_00127,fr3_product_manual,21,layout,哪一页是工作空间示意图页面？,Which page shows the workspace diagram?,layout_workspace,Unexpected movement of Arm,1844,17.4
+auto_00128,fr3_product_manual,21,layout,哪一页展示了“Unexpected movement of Arm”的图示页面？,Which page visually presents 'Unexpected movement of Arm'?,layout_heading,Unexpected movement of Arm,1844,17.4
+auto_00129,fr3_product_manual,22,fact,这页中关于最大工作半径的参数是什么？,What specification about reach is given on this page?,fact_keyword,SAFETY-,1370,17.28
+auto_00130,fr3_product_manual,22,fact,哪一页提到了最大工作半径相关参数？,Which page mentions reach related specifications?,fact_page_lookup,SAFETY-,1370,17.28
+auto_00131,fr3_product_manual,22,fact,哪一页介绍了“SAFETY-”相关内容？,Which page discusses 'SAFETY-'?,fact_heading,SAFETY-,1370,17.28
+auto_00132,fr3_product_manual,23,layout,哪一页是工作空间示意图页面？,Which page shows the workspace diagram?,layout_workspace,Stopping time and distance,1968,15.92
+auto_00133,fr3_product_manual,23,layout,哪一页展示了“Stopping time and distance”的图示页面？,Which page visually presents 'Stopping time and distance'?,layout_heading,Stopping time and distance,1968,15.92
+auto_00134,fr3_product_manual,24,semantic,哪一页介绍了安全说明相关内容？,Which page describes safety related information?,semantic_keyword,Falling heavy Arm when using Emergency Unlocking Tool,1068,15.92
+auto_00135,fr3_product_manual,24,semantic,这页主要讲的是哪方面的安全说明内容？,What safety topic is mainly explained on this page?,semantic_topic,Falling heavy Arm when using Emergency Unlocking Tool,1068,15.92
+auto_00136,fr3_product_manual,28,fact,这页中关于最大工作半径的参数是什么？,What specification about reach is given on this page?,fact_keyword,4.11 Safety Functionalities,2426,17.4
+auto_00137,fr3_product_manual,28,fact,哪一页提到了最大工作半径相关参数？,Which page mentions reach related specifications?,fact_page_lookup,4.11 Safety Functionalities,2426,17.4
+auto_00138,fr3_product_manual,28,fact,哪一页包含参数值 1 A？,Which page contains the specification value 1 A?,fact_number_unit,4.11 Safety Functionalities,2426,17.4
+auto_00139,fr3_product_manual,29,semantic,哪一页介绍了安全说明相关内容？,Which page describes safety related information?,semantic_keyword,Monitoring functions,2399,17.16
+auto_00140,fr3_product_manual,29,semantic,这页主要讲的是哪方面的安全说明内容？,What safety topic is mainly explained on this page?,semantic_topic,Monitoring functions,2399,17.16
+auto_00141,fr3_product_manual,30,semantic,哪一页介绍了安全说明相关内容？,Which page describes safety related information?,semantic_keyword,Name,2478,17.490000000000002
+auto_00142,fr3_product_manual,30,semantic,这页主要讲的是哪方面的安全说明内容？,What safety topic is mainly explained on this page?,semantic_topic,Name,2478,17.490000000000002
+auto_00143,fr3_product_manual,36,semantic,哪一页介绍了安全说明相关内容？,Which page describes safety related information?,semantic_keyword,ROLES AND PERSONnel,2184,16.0
+auto_00144,fr3_product_manual,36,semantic,这页主要讲的是哪方面的安全说明内容？,What safety topic is mainly explained on this page?,semantic_topic,ROLES AND PERSONnel,2184,16.0
+auto_00145,fr3_product_manual,39,semantic,哪一页介绍了组成部件相关内容？,Which page describes components related information?,semantic_keyword,Equipment Overview,258,15.76
+auto_00146,fr3_product_manual,39,semantic,这页主要讲的是哪方面的组成部件内容？,What components topic is mainly explained on this page?,semantic_topic,Equipment Overview,258,15.76
+auto_00147,fr3_product_manual,43,semantic,哪一页介绍了状态说明相关内容？,Which page describes status related information?,semantic_keyword,Equipment Overview,728,16.439999999999998
+auto_00148,fr3_product_manual,43,semantic,这页主要讲的是哪方面的状态说明内容？,What status topic is mainly explained on this page?,semantic_topic,Equipment Overview,728,16.439999999999998
+auto_00149,fr3_product_manual,44,semantic,哪一页介绍了安全说明相关内容？,Which page describes safety related information?,semantic_keyword,Equipment Overview,1627,16.96
+auto_00150,fr3_product_manual,44,semantic,这页主要讲的是哪方面的安全说明内容？,What safety topic is mainly explained on this page?,semantic_topic,Equipment Overview,1627,16.96
+auto_00151,fr3_product_manual,45,layout,哪一页包含尺寸图或尺寸示意？,Which page contains the dimensions diagram?,layout_dimensions,Equipment Overview,836,19.88
+auto_00152,fr3_product_manual,45,layout,哪一页展示了“Equipment Overview”的图示页面？,Which page visually presents 'Equipment Overview'?,layout_heading,Equipment Overview,836,19.88
+auto_00153,fr3_product_manual,48,fact,这页中关于力矩的参数是什么？,What specification about torque is given on this page?,fact_keyword,Scope of Delivery and Additional Equipment,1525,19.56
+auto_00154,fr3_product_manual,48,fact,哪一页提到了力矩相关参数？,Which page mentions torque related specifications?,fact_page_lookup,Scope of Delivery and Additional Equipment,1525,19.56
+auto_00155,fr3_product_manual,48,fact,哪一页包含参数值 6 mm？,Which page contains the specification value 6 mm?,fact_number_unit,Scope of Delivery and Additional Equipment,1525,19.56
+auto_00156,fr3_product_manual,49,layout,哪一页是工作空间示意图页面？,Which page shows the workspace diagram?,layout_workspace,TECHNICAL SPECIFICATIONS,1992,23.6
+auto_00157,fr3_product_manual,49,layout,哪一页包含 7 自由度相关尺寸图？,Which page contains the 7 DoF dimensions figure?,layout_7dof,TECHNICAL SPECIFICATIONS,1992,23.6
+auto_00158,fr3_product_manual,49,layout,哪一页展示了“TECHNICAL SPECIFICATIONS”的图示页面？,Which page visually presents 'TECHNICAL SPECIFICATIONS'?,layout_heading,TECHNICAL SPECIFICATIONS,1992,23.6
+auto_00159,fr3_product_manual,50,fact,这页中关于接口的参数是什么？,What specification about interface is given on this page?,fact_keyword,TECHNICAL SPECIFICATIONS,1675,20.03
+auto_00160,fr3_product_manual,50,fact,哪一页提到了接口相关参数？,Which page mentions interface related specifications?,fact_page_lookup,TECHNICAL SPECIFICATIONS,1675,20.03
+auto_00161,fr3_product_manual,50,fact,哪一页包含参数值 50mm？,Which page contains the specification value 50mm?,fact_number_unit,TECHNICAL SPECIFICATIONS,1675,20.03
+auto_00162,fr3_product_manual,51,layout,哪一页是工作空间示意图页面？,Which page shows the workspace diagram?,layout_workspace,TECHNICAL SPECIFICATIONS,310,16.64
+auto_00163,fr3_product_manual,51,layout,哪一页包含尺寸图或尺寸示意？,Which page contains the dimensions diagram?,layout_dimensions,TECHNICAL SPECIFICATIONS,310,16.64
+auto_00164,fr3_product_manual,51,layout,哪一页展示了“TECHNICAL SPECIFICATIONS”的图示页面？,Which page visually presents 'TECHNICAL SPECIFICATIONS'?,layout_heading,TECHNICAL SPECIFICATIONS,310,16.64
+auto_00165,fr3_product_manual,53,layout,哪一页是工作空间示意图页面？,Which page shows the workspace diagram?,layout_workspace,TRANSPORT AND HANDLING,1514,16.0
+auto_00166,fr3_product_manual,53,layout,哪一页展示了“TRANSPORT AND HANDLING”的图示页面？,Which page visually presents 'TRANSPORT AND HANDLING'?,layout_heading,TRANSPORT AND HANDLING,1514,16.0
+auto_00167,fr3_product_manual,54,generic,哪一页讨论了“TRANSPORT AND HANDLING”？,Which page discusses 'TRANSPORT AND HANDLING'?,generic_heading,TRANSPORT AND HANDLING,942,17.08
+auto_00168,fr3_product_manual,54,generic,哪一页包含这一主题的说明内容？,Which page contains information about this topic?,generic_topic,TRANSPORT AND HANDLING,942,17.08
+auto_00169,fr3_product_manual,55,semantic,哪一页介绍了安装说明相关内容？,Which page describes installation related information?,semantic_keyword,10 MOUNTING AND INSTALLATION,1123,16.4
+auto_00170,fr3_product_manual,55,semantic,这页主要讲的是哪方面的安装说明内容？,What installation topic is mainly explained on this page?,semantic_topic,10 MOUNTING AND INSTALLATION,1123,16.4
+auto_00171,fr3_product_manual,62,fact,这页中关于传感器的参数是什么？,What specification about sensor is given on this page?,fact_keyword,Adequate ventilation,1280,16.32
+auto_00172,fr3_product_manual,62,fact,哪一页提到了传感器相关参数？,Which page mentions sensor related specifications?,fact_page_lookup,Adequate ventilation,1280,16.32
+auto_00173,fr3_product_manual,62,fact,哪一页介绍了“Adequate ventilation”相关内容？,Which page discusses 'Adequate ventilation'?,fact_heading,Adequate ventilation,1280,16.32
+auto_00174,fr3_product_manual,64,fact,这页中关于力矩的参数是什么？,What specification about torque is given on this page?,fact_keyword,Do not install the Arm hanging or on tilted or uneven platforms.,1323,17.68
+auto_00175,fr3_product_manual,64,fact,哪一页提到了力矩相关参数？,Which page mentions torque related specifications?,fact_page_lookup,Do not install the Arm hanging or on tilted or uneven platforms.,1323,17.68
+auto_00176,fr3_product_manual,64,fact,哪一页包含参数值 280 Nm？,Which page contains the specification value 280 Nm?,fact_number_unit,Do not install the Arm hanging or on tilted or uneven platforms.,1323,17.68
+auto_00177,fr3_product_manual,65,semantic,哪一页介绍了组成部件相关内容？,Which page describes components related information?,semantic_keyword,"table in chapter 10.4 ""Mounting the Arm"").",1268,18.68
+auto_00178,fr3_product_manual,65,semantic,这页主要讲的是哪方面的组成部件内容？,What components topic is mainly explained on this page?,semantic_topic,"table in chapter 10.4 ""Mounting the Arm"").",1268,18.68
+auto_00179,fr3_product_manual,66,fact,这页中关于力矩的参数是什么？,What specification about torque is given on this page?,fact_keyword,Heavy equipment,1810,19.28
+auto_00180,fr3_product_manual,66,fact,哪一页提到了力矩相关参数？,Which page mentions torque related specifications?,fact_page_lookup,Heavy equipment,1810,19.28
+auto_00181,fr3_product_manual,66,fact,哪一页包含参数值 9 mm？,Which page contains the specification value 9 mm?,fact_number_unit,Heavy equipment,1810,19.28
+auto_00182,fr3_product_manual,67,fact,这页中关于力矩的参数是什么？,What specification about torque is given on this page?,fact_keyword,MOUNTINGANDINSTALLATION,837,17.4
+auto_00183,fr3_product_manual,67,fact,哪一页提到了力矩相关参数？,Which page mentions torque related specifications?,fact_page_lookup,MOUNTINGANDINSTALLATION,837,17.4
+auto_00184,fr3_product_manual,67,fact,哪一页包含参数值 30 Nm？,Which page contains the specification value 30 Nm?,fact_number_unit,MOUNTINGANDINSTALLATION,837,17.4
+auto_00185,fr3_product_manual,68,semantic,哪一页介绍了安装说明相关内容？,Which page describes installation related information?,semantic_keyword,10.5 Positioning the Control,1223,16.16
+auto_00186,fr3_product_manual,68,semantic,这页主要讲的是哪方面的安装说明内容？,What installation topic is mainly explained on this page?,semantic_topic,10.5 Positioning the Control,1223,16.16
+auto_00187,fr3_product_manual,69,layout,哪一页是工作空间示意图页面？,Which page shows the workspace diagram?,layout_workspace,10.6 Wiring and Electrical Installation,702,16.16
+auto_00188,fr3_product_manual,69,layout,哪一页展示了“10.6 Wiring and Electrical Installation”的图示页面？,Which page visually presents '10.6 Wiring and Electrical Installation'?,layout_heading,10.6 Wiring and Electrical Installation,702,16.16
+auto_00189,fr3_product_manual,70,layout,哪一页展示了“10.6.1 Connection diagram”的图示页面？,Which page visually presents '10.6.1 Connection diagram'?,layout_heading,10.6.1 Connection diagram,979,20.12
+auto_00190,fr3_product_manual,71,semantic,哪一页介绍了安全说明相关内容？,Which page describes safety related information?,semantic_keyword,signal,1766,20.2
+auto_00191,fr3_product_manual,71,semantic,这页主要讲的是哪方面的安全说明内容？,What safety topic is mainly explained on this page?,semantic_topic,signal,1766,20.2
+auto_00192,fr3_product_manual,72,fact,这页中关于最大工作半径的参数是什么？,What specification about reach is given on this page?,fact_keyword,X5 - Robot network,1930,18.92
+auto_00193,fr3_product_manual,72,fact,哪一页提到了最大工作半径相关参数？,Which page mentions reach related specifications?,fact_page_lookup,X5 - Robot network,1930,18.92
+auto_00194,fr3_product_manual,72,fact,哪一页包含参数值 48V？,Which page contains the specification value 48V?,fact_number_unit,X5 - Robot network,1930,18.92
+auto_00195,fr3_product_manual,74,navigation,哪一页提到了紧急停止相关条目？,Which page mentions the emergency stop entry?,navigation_emstop,10.6.4 Wiring,1120,16.16
+auto_00196,fr3_product_manual,74,navigation,哪一页包含“10.6.4 Wiring”这类导航信息？,Which page contains navigation information about '10.6.4 Wiring'?,navigation_heading,10.6.4 Wiring,1120,16.16
+auto_00197,fr3_product_manual,75,generic,哪一页讨论了“Fig. 10.22: connection of connecting cab”？,Which page discusses 'Fig. 10.22: connection of connecting cab'?,generic_heading,Fig. 10.22: connection of connecting cable to the control,716,16.16
+auto_00198,fr3_product_manual,75,generic,哪一页包含这一主题的说明内容？,Which page contains information about this topic?,generic_topic,Fig. 10.22: connection of connecting cable to the control,716,16.16
+auto_00199,fr3_product_manual,76,semantic,哪一页介绍了安装说明相关内容？,Which page describes installation related information?,semantic_keyword,Fig. 10.24: Connection of operating device,673,17.24
+auto_00200,fr3_product_manual,76,semantic,这页主要讲的是哪方面的安装说明内容？,What installation topic is mainly explained on this page?,semantic_topic,Fig. 10.24: Connection of operating device,673,17.24
+auto_00201,fr3_product_manual,77,semantic,哪一页介绍了安全说明相关内容？,Which page describes safety related information?,semantic_keyword,Risk of injuries,1476,15.84
+auto_00202,fr3_product_manual,77,semantic,这页主要讲的是哪方面的安全说明内容？,What safety topic is mainly explained on this page?,semantic_topic,Risk of injuries,1476,15.84
+auto_00203,fr3_product_manual,78,layout,哪一页是工作空间示意图页面？,Which page shows the workspace diagram?,layout_workspace,device to the X3 connector.,1438,16.24
+auto_00204,fr3_product_manual,78,layout,哪一页展示了“device to the X3 connector.”的图示页面？,Which page visually presents 'device to the X3 connector.'?,layout_heading,device to the X3 connector.,1438,16.24
+auto_00205,fr3_product_manual,79,layout,哪一页是工作空间示意图页面？,Which page shows the workspace diagram?,layout_workspace,does not adhere to electrical ratings.,2124,16.6
+auto_00206,fr3_product_manual,79,layout,哪一页展示了“does not adhere to electrical ratings.”的图示页面？,Which page visually presents 'does not adhere to electrical ratings.'?,layout_heading,does not adhere to electrical ratings.,2124,16.6
+auto_00207,fr3_product_manual,80,navigation,哪一页提到了紧急停止相关条目？,Which page mentions the emergency stop entry?,navigation_emstop,depends on the end effector and includes but is not limited to the following:,1159,16.84
+auto_00208,fr3_product_manual,80,navigation,哪一页包含“depends on the end effector and includes”这类导航信息？,Which page contains navigation information about 'depends on the end effector and includes'?,navigation_heading,depends on the end effector and includes but is not limited to the following:,1159,16.84
+auto_00209,fr3_product_manual,82,layout,哪一页是工作空间示意图页面？,Which page shows the workspace diagram?,layout_workspace,Fig. 10.27: Design of the workspace,1062,15.92
+auto_00210,fr3_product_manual,82,layout,哪一页展示了“Fig. 10.27: Design of the workspace”的图示页面？,Which page visually presents 'Fig. 10.27: Design of the workspace'?,layout_heading,Fig. 10.27: Design of the workspace,1062,15.92
+auto_00211,fr3_product_manual,83,navigation,哪一页提到了紧急停止相关条目？,Which page mentions the emergency stop entry?,navigation_emstop,Greatest possible distance to the Arm,719,12.32
+auto_00212,fr3_product_manual,83,navigation,哪一页包含“Greatest possible distance to the Arm”这类导航信息？,Which page contains navigation information about 'Greatest possible distance to the Arm'?,navigation_heading,Greatest possible distance to the Arm,719,12.32
+auto_00213,fr3_product_manual,85,layout,哪一页是工作空间示意图页面？,Which page shows the workspace diagram?,layout_workspace,10.9 Re-packing the Arm,1779,15.76
+auto_00214,fr3_product_manual,85,layout,哪一页展示了“10.9 Re-packing the Arm”的图示页面？,Which page visually presents '10.9 Re-packing the Arm'?,layout_heading,10.9 Re-packing the Arm,1779,15.76
+auto_00215,fr3_product_manual,89,semantic,哪一页介绍了维护说明相关内容？,Which page describes maintenance related information?,semantic_keyword,Fig. 11.2: Blue status lights on Arm,1294,16.0
+auto_00216,fr3_product_manual,89,semantic,这页主要讲的是哪方面的维护说明内容？,What maintenance topic is mainly explained on this page?,semantic_topic,Fig. 11.2: Blue status lights on Arm,1294,16.0
+auto_00217,fr3_product_manual,90,semantic,哪一页介绍了安全说明相关内容？,Which page describes safety related information?,semantic_keyword,Colour,3716,16.0
+auto_00218,fr3_product_manual,90,semantic,这页主要讲的是哪方面的安全说明内容？,What safety topic is mainly explained on this page?,semantic_topic,Colour,3716,16.0
+auto_00219,fr3_product_manual,92,semantic,哪一页介绍了安装说明相关内容？,Which page describes installation related information?,semantic_keyword,11.2.2 Regular testing of safety functions,1800,15.84
+auto_00220,fr3_product_manual,92,semantic,这页主要讲的是哪方面的安装说明内容？,What installation topic is mainly explained on this page?,semantic_topic,11.2.2 Regular testing of safety functions,1800,15.84
+auto_00221,fr3_product_manual,94,semantic,哪一页介绍了安装说明相关内容？,Which page describes installation related information?,semantic_keyword,11.3 Initial configuration,1664,16.72
+auto_00222,fr3_product_manual,94,semantic,这页主要讲的是哪方面的安装说明内容？,What installation topic is mainly explained on this page?,semantic_topic,11.3 Initial configuration,1664,16.72
+auto_00223,fr3_product_manual,98,semantic,哪一页介绍了安装说明相关内容？,Which page describes installation related information?,semantic_keyword,CAUTION,1750,16.4
+auto_00224,fr3_product_manual,98,semantic,这页主要讲的是哪方面的安装说明内容？,What installation topic is mainly explained on this page?,semantic_topic,CAUTION,1750,16.4
+auto_00225,fr3_product_manual,108,semantic,哪一页介绍了安全说明相关内容？,Which page describes safety related information?,semantic_keyword,11.5 Typical Usage,2061,16.48
+auto_00226,fr3_product_manual,108,semantic,这页主要讲的是哪方面的安全说明内容？,What safety topic is mainly explained on this page?,semantic_topic,11.5 Typical Usage,2061,16.48
+auto_00227,fr3_product_manual,110,semantic,哪一页介绍了安装说明相关内容？,Which page describes installation related information?,semantic_keyword,Safety configuration / Watchman,3412,17.599999999999998
+auto_00228,fr3_product_manual,110,semantic,这页主要讲的是哪方面的安装说明内容？,What installation topic is mainly explained on this page?,semantic_topic,Safety configuration / Watchman,3412,17.599999999999998
+auto_00229,fr3_product_manual,111,semantic,哪一页介绍了安全说明相关内容？,Which page describes safety related information?,semantic_keyword,Safety configuration /Watchman,2929,16.4
+auto_00230,fr3_product_manual,111,semantic,这页主要讲的是哪方面的安全说明内容？,What safety topic is mainly explained on this page?,semantic_topic,Safety configuration /Watchman,2929,16.4
+auto_00231,fr3_product_manual,112,semantic,哪一页介绍了安全说明相关内容？,Which page describes safety related information?,semantic_keyword,Safety configuration /Watchman,1312,16.0
+auto_00232,fr3_product_manual,112,semantic,这页主要讲的是哪方面的安全说明内容？,What safety topic is mainly explained on this page?,semantic_topic,Safety configuration /Watchman,1312,16.0
+auto_00233,fr3_product_manual,113,semantic,哪一页介绍了安全说明相关内容？,Which page describes safety related information?,semantic_keyword,Safety configuration/Watchman,1591,16.0
+auto_00234,fr3_product_manual,113,semantic,这页主要讲的是哪方面的安全说明内容？,What safety topic is mainly explained on this page?,semantic_topic,Safety configuration/Watchman,1591,16.0
+auto_00235,fr3_product_manual,114,semantic,哪一页介绍了安装说明相关内容？,Which page describes installation related information?,semantic_keyword,Safety configuration / Watchman,2377,17.04
+auto_00236,fr3_product_manual,114,semantic,这页主要讲的是哪方面的安装说明内容？,What installation topic is mainly explained on this page?,semantic_topic,Safety configuration / Watchman,2377,17.04
+auto_00237,fr3_product_manual,115,layout,哪一页包含尺寸图或尺寸示意？,Which page contains the dimensions diagram?,layout_dimensions,Safety configuration / Watchman,1870,17.119999999999997
+auto_00238,fr3_product_manual,115,layout,哪一页展示了“Safety configuration / Watchman”的图示页面？,Which page visually presents 'Safety configuration / Watchman'?,layout_heading,Safety configuration / Watchman,1870,17.119999999999997
+auto_00239,fr3_product_manual,117,semantic,哪一页介绍了组成部件相关内容？,Which page describes components related information?,semantic_keyword,Safety configuration / Watchman,1978,17.2
+auto_00240,fr3_product_manual,117,semantic,这页主要讲的是哪方面的组成部件内容？,What components topic is mainly explained on this page?,semantic_topic,Safety configuration / Watchman,1978,17.2
+auto_00241,fr3_product_manual,118,fact,这页中关于最大工作半径的参数是什么？,What specification about reach is given on this page?,fact_keyword,Safety configuration /Watchman,2769,16.0
+auto_00242,fr3_product_manual,118,fact,哪一页提到了最大工作半径相关参数？,Which page mentions reach related specifications?,fact_page_lookup,Safety configuration /Watchman,2769,16.0
+auto_00243,fr3_product_manual,118,fact,哪一页介绍了“Safety configuration /Watchman”相关内容？,Which page discusses 'Safety configuration /Watchman'?,fact_heading,Safety configuration /Watchman,2769,16.0
+auto_00244,fr3_product_manual,121,semantic,哪一页介绍了安全说明相关内容？,Which page describes safety related information?,semantic_keyword,Safety configuration /Watchman,2323,17.799999999999997
+auto_00245,fr3_product_manual,121,semantic,这页主要讲的是哪方面的安全说明内容？,What safety topic is mainly explained on this page?,semantic_topic,Safety configuration /Watchman,2323,17.799999999999997
+auto_00246,fr3_product_manual,122,semantic,哪一页介绍了安全说明相关内容？,Which page describes safety related information?,semantic_keyword,Safety configuration / Watchman,2075,17.119999999999997
+auto_00247,fr3_product_manual,122,semantic,这页主要讲的是哪方面的安全说明内容？,What safety topic is mainly explained on this page?,semantic_topic,Safety configuration / Watchman,2075,17.119999999999997
+auto_00248,fr3_product_manual,125,fact,这页中关于力矩的参数是什么？,What specification about torque is given on this page?,fact_keyword,Generating forces,1787,15.76
+auto_00249,fr3_product_manual,125,fact,哪一页提到了力矩相关参数？,Which page mentions torque related specifications?,fact_page_lookup,Generating forces,1787,15.76
+auto_00250,fr3_product_manual,125,fact,哪一页介绍了“Generating forces”相关内容？,Which page discusses 'Generating forces'?,fact_heading,Generating forces,1787,15.76
+auto_00251,fr3_product_manual,130,fact,这页中关于传感器的参数是什么？,What specification about sensor is given on this page?,fact_keyword,13.3.2 Execution,1664,16.56
+auto_00252,fr3_product_manual,130,fact,哪一页提到了传感器相关参数？,Which page mentions sensor related specifications?,fact_page_lookup,13.3.2 Execution,1664,16.56
+auto_00253,fr3_product_manual,130,fact,哪一页介绍了“13.3.2 Execution”相关内容？,Which page discusses '13.3.2 Execution'?,fact_heading,13.3.2 Execution,1664,16.56
+auto_00254,fr3_product_manual,131,layout,哪一页是工作空间示意图页面？,Which page shows the workspace diagram?,layout_workspace,Dangerous and uncontrolled motions of the Arm,1569,16.48
+auto_00255,fr3_product_manual,131,layout,哪一页展示了“Dangerous and uncontrolled motions of th”的图示页面？,Which page visually presents 'Dangerous and uncontrolled motions of th'?,layout_heading,Dangerous and uncontrolled motions of the Arm,1569,16.48
+auto_00256,fr3_product_manual,138,semantic,哪一页介绍了操作说明相关内容？,Which page describes operation related information?,semantic_keyword,EN-English,1320,16.0
+auto_00257,fr3_product_manual,138,semantic,这页主要讲的是哪方面的操作说明内容？,What operation topic is mainly explained on this page?,semantic_topic,EN-English,1320,16.0
+auto_00258,fr3_product_manual,139,generic,哪一页讨论了“Quick Navigation”？,Which page discusses 'Quick Navigation'?,generic_heading,Quick Navigation,2168,16.48
+auto_00259,fr3_product_manual,139,generic,哪一页包含这一主题的说明内容？,Which page contains information about this topic?,generic_topic,Quick Navigation,2168,16.48
+auto_00260,fr3_product_manual,141,semantic,哪一页介绍了安全说明相关内容？,Which page describes safety related information?,semantic_keyword,https://robot.franka.de/watchman in the browser.,1774,17.2
+auto_00261,fr3_product_manual,141,semantic,这页主要讲的是哪方面的安全说明内容？,What safety topic is mainly explained on this page?,semantic_topic,https://robot.franka.de/watchman in the browser.,1774,17.2
+auto_00262,fr3_product_manual,143,layout,哪一页是工作空间示意图页面？,Which page shows the workspace diagram?,layout_workspace,13.6.1 Apps,1830,16.8
+auto_00263,fr3_product_manual,143,layout,哪一页展示了“13.6.1 Apps”的图示页面？,Which page visually presents '13.6.1 Apps'?,layout_heading,13.6.1 Apps,1830,16.8
+auto_00264,fr3_product_manual,146,fact,这页中关于最大工作半径的参数是什么？,What specification about reach is given on this page?,fact_keyword,PICK,1316,17.56
+auto_00265,fr3_product_manual,146,fact,哪一页提到了最大工作半径相关参数？,Which page mentions reach related specifications?,fact_page_lookup,PICK,1316,17.56
+auto_00266,fr3_product_manual,146,fact,哪一页包含参数值 0 mm？,Which page contains the specification value 0 mm?,fact_number_unit,PICK,1316,17.56
+auto_00267,fr3_product_manual,150,fact,这页中关于最大工作半径的参数是什么？,What specification about reach is given on this page?,fact_keyword,13.6.9 Guiding,912,16.36
+auto_00268,fr3_product_manual,150,fact,哪一页提到了最大工作半径相关参数？,Which page mentions reach related specifications?,fact_page_lookup,13.6.9 Guiding,912,16.36
+auto_00269,fr3_product_manual,150,fact,哪一页包含参数值 2.5 m？,Which page contains the specification value 2.5 m?,fact_number_unit,13.6.9 Guiding,912,16.36
+auto_00270,fr3_product_manual,151,generic,哪一页讨论了“13.6.10”？,Which page discusses '13.6.10'?,generic_heading,13.6.10,1595,16.4
+auto_00271,fr3_product_manual,151,generic,哪一页包含这一主题的说明内容？,Which page contains information about this topic?,generic_topic,13.6.10,1595,16.4
+auto_00272,fr3_product_manual,153,layout,哪一页包含结构/原理示意图？,Which page contains the schematic diagram?,layout_schematic,13.7 Franka Control Interface (FCl),1757,16.24
+auto_00273,fr3_product_manual,153,layout,哪一页展示了“13.7 Franka Control Interface (FCl)”的图示页面？,Which page visually presents '13.7 Franka Control Interface (FCl)'?,layout_heading,13.7 Franka Control Interface (FCl),1757,16.24
+auto_00274,fr3_product_manual,157,semantic,哪一页介绍了安全说明相关内容？,Which page describes safety related information?,semantic_keyword,13.8 Troubleshooting,2649,16.8
+auto_00275,fr3_product_manual,157,semantic,这页主要讲的是哪方面的安全说明内容？,What safety topic is mainly explained on this page?,semantic_topic,13.8 Troubleshooting,2649,16.8
+auto_00276,fr3_product_manual,162,semantic,哪一页介绍了安装说明相关内容？,Which page describes installation related information?,semantic_keyword,"complete. Confirm the recovery by clicking ""CONFiRM"".",2561,17.119999999999997
+auto_00277,fr3_product_manual,162,semantic,这页主要讲的是哪方面的安装说明内容？,What installation topic is mainly explained on this page?,semantic_topic,"complete. Confirm the recovery by clicking ""CONFiRM"".",2561,17.119999999999997
+auto_00278,fr3_product_manual,168,fact,这页中关于最大工作半径的参数是什么？,What specification about reach is given on this page?,fact_keyword,MANAGING FRANKA RESEARCH 3,1712,17.599999999999998
+auto_00279,fr3_product_manual,168,fact,哪一页提到了最大工作半径相关参数？,Which page mentions reach related specifications?,fact_page_lookup,MANAGING FRANKA RESEARCH 3,1712,17.599999999999998
+auto_00280,fr3_product_manual,168,fact,哪一页介绍了“MANAGING FRANKA RESEARCH 3”相关内容？,Which page discusses 'MANAGING FRANKA RESEARCH 3'?,fact_heading,MANAGING FRANKA RESEARCH 3,1712,17.599999999999998
+auto_00281,fr3_product_manual,170,semantic,哪一页介绍了组成部件相关内容？,Which page describes components related information?,semantic_keyword,MAINTENANCEANDDISPOSAL,2153,17.2
+auto_00282,fr3_product_manual,170,semantic,这页主要讲的是哪方面的组成部件内容？,What components topic is mainly explained on this page?,semantic_topic,MAINTENANCEANDDISPOSAL,2153,17.2
+auto_00283,fr3_product_manual,172,fact,这页中关于最大工作半径的参数是什么？,What specification about reach is given on this page?,fact_keyword,SERVICE AND SUPPORT,2170,16.96
+auto_00284,fr3_product_manual,172,fact,哪一页提到了最大工作半径相关参数？,Which page mentions reach related specifications?,fact_page_lookup,SERVICE AND SUPPORT,2170,16.96
+auto_00285,fr3_product_manual,172,fact,哪一页介绍了“SERVICE AND SUPPORT”相关内容？,Which page discusses 'SERVICE AND SUPPORT'?,fact_heading,SERVICE AND SUPPORT,2170,16.96
+auto_00286,fr3_product_manual,173,generic,哪一页讨论了“SERVICE AND SUPPORT”？,Which page discusses 'SERVICE AND SUPPORT'?,generic_heading,SERVICE AND SUPPORT,1655,17.39
+auto_00287,fr3_product_manual,173,generic,哪一页包含这一主题的说明内容？,Which page contains information about this topic?,generic_topic,SERVICE AND SUPPORT,1655,17.39
+auto_00288,fr3_product_manual,178,semantic,哪一页介绍了安装说明相关内容？,Which page describes installation related information?,semantic_keyword,SERVICE AND SUPPORT,2601,16.88
+auto_00289,fr3_product_manual,178,semantic,这页主要讲的是哪方面的安装说明内容？,What installation topic is mainly explained on this page?,semantic_topic,SERVICE AND SUPPORT,2601,16.88
+auto_00290,fr3_product_manual,196,fact,这页中关于额定负载的参数是什么？,What specification about payload is given on this page?,fact_keyword,17.4 Response times,1073,19.16
+auto_00291,fr3_product_manual,196,fact,哪一页提到了额定负载相关参数？,Which page mentions payload related specifications?,fact_page_lookup,17.4 Response times,1073,19.16
+auto_00292,fr3_product_manual,196,fact,哪一页包含参数值 42 ms？,Which page contains the specification value 42 ms?,fact_number_unit,17.4 Response times,1073,19.16
+auto_00293,fr3_product_manual,197,semantic,哪一页介绍了安全说明相关内容？,Which page describes safety related information?,semantic_keyword,GLOSSARY,2369,18.06
+auto_00294,fr3_product_manual,197,semantic,这页主要讲的是哪方面的安全说明内容？,What safety topic is mainly explained on this page?,semantic_topic,GLOSSARY,2369,18.06
+auto_00295,fr3_product_manual,199,layout,哪一页是工作空间示意图页面？,Which page shows the workspace diagram?,layout_workspace,GLOSSARY,3271,15.78
+auto_00296,fr3_product_manual,199,layout,哪一页展示了“GLOSSARY”的图示页面？,Which page visually presents 'GLOSSARY'?,layout_heading,GLOSSARY,3271,15.78
+auto_00297,fr3_product_manual,203,fact,这页中关于接口的参数是什么？,What specification about interface is given on this page?,fact_keyword,INDEX,1534,15.7
+auto_00298,fr3_product_manual,203,fact,哪一页提到了接口相关参数？,Which page mentions interface related specifications?,fact_page_lookup,INDEX,1534,15.7
+auto_00299,fr3_product_manual,203,fact,哪一页介绍了“INDEX”相关内容？,Which page discusses 'INDEX'?,fact_heading,INDEX,1534,15.7
+auto_00300,fr3_product_manual,205,layout,哪一页是工作空间示意图页面？,Which page shows the workspace diagram?,layout_workspace,TABLE OF FIGURES,2828,16.5
+auto_00301,fr3_product_manual,205,layout,哪一页包含尺寸图或尺寸示意？,Which page contains the dimensions diagram?,layout_dimensions,TABLE OF FIGURES,2828,16.5
+auto_00302,fr3_product_manual,205,layout,哪一页展示了“TABLE OF FIGURES”的图示页面？,Which page visually presents 'TABLE OF FIGURES'?,layout_heading,TABLE OF FIGURES,2828,16.5
+auto_00303,fr3_product_manual,206,fact,这页中关于最大工作半径的参数是什么？,What specification about reach is given on this page?,fact_keyword,TABLE OF FIGURES,2990,17.599999999999998
+auto_00304,fr3_product_manual,206,fact,哪一页提到了最大工作半径相关参数？,Which page mentions reach related specifications?,fact_page_lookup,TABLE OF FIGURES,2990,17.599999999999998
+auto_00305,fr3_product_manual,206,fact,哪一页介绍了“TABLE OF FIGURES”相关内容？,Which page discusses 'TABLE OF FIGURES'?,fact_heading,TABLE OF FIGURES,2990,17.599999999999998
+auto_00306,intel_realsense_d400_datasheet,2,layout,哪一页包含尺寸图或尺寸示意？,Which page contains the dimensions diagram?,layout_dimensions,Description and Features,1735,15.7
+auto_00307,intel_realsense_d400_datasheet,2,layout,哪一页展示了“Description and Features”的图示页面？,Which page visually presents 'Description and Features'?,layout_heading,Description and Features,1735,15.7
+auto_00308,intel_realsense_d400_datasheet,3,layout,哪一页包含尺寸图或尺寸示意？,Which page contains the dimensions diagram?,layout_dimensions,(intel),1724,17.2
+auto_00309,intel_realsense_d400_datasheet,3,layout,哪一页展示了“(intel)”的图示页面？,Which page visually presents '(intel)'?,layout_heading,(intel),1724,17.2
+auto_00310,intel_realsense_d400_datasheet,5,layout,哪一页展示了“(intel)”的图示页面？,Which page visually presents '(intel)'?,layout_heading,(intel),2958,17.2
+auto_00311,intel_realsense_d400_datasheet,6,layout,哪一页包含尺寸图或尺寸示意？,Which page contains the dimensions diagram?,layout_dimensions,Description and Features,2833,19.0
+auto_00312,intel_realsense_d400_datasheet,6,layout,哪一页包含结构/原理示意图？,Which page contains the schematic diagram?,layout_schematic,Description and Features,2833,19.0
+auto_00313,intel_realsense_d400_datasheet,6,layout,哪一页展示了“Description and Features”的图示页面？,Which page visually presents 'Description and Features'?,layout_heading,Description and Features,2833,19.0
+auto_00314,intel_realsense_d400_datasheet,7,layout,哪一页包含尺寸图或尺寸示意？,Which page contains the dimensions diagram?,layout_dimensions,(intel),2519,17.2
+auto_00315,intel_realsense_d400_datasheet,7,layout,哪一页包含结构/原理示意图？,Which page contains the schematic diagram?,layout_schematic,(intel),2519,17.2
+auto_00316,intel_realsense_d400_datasheet,7,layout,哪一页展示了“(intel)”的图示页面？,Which page visually presents '(intel)'?,layout_heading,(intel),2519,17.2
+auto_00317,intel_realsense_d400_datasheet,8,semantic,哪一页介绍了module相关内容？,Which page describes module related information?,semantic_keyword,Description and Features,801,16.799999999999997
+auto_00318,intel_realsense_d400_datasheet,8,semantic,这页主要讲的是哪方面的module内容？,What module topic is mainly explained on this page?,semantic_topic,Description and Features,801,16.799999999999997
+auto_00319,intel_realsense_d400_datasheet,9,fact,这页中关于传感器的参数是什么？,What specification about sensor is given on this page?,fact_keyword,(intel),716,19.2
+auto_00320,intel_realsense_d400_datasheet,9,fact,哪一页提到了传感器相关参数？,Which page mentions sensor related specifications?,fact_page_lookup,(intel),716,19.2
+auto_00321,intel_realsense_d400_datasheet,9,fact,哪一页介绍了“(intel)”相关内容？,Which page discusses '(intel)'?,fact_heading,(intel),716,19.2
+auto_00322,intel_realsense_d400_datasheet,10,fact,这页中关于自由度的参数是什么？,What specification about degrees of freedom is given on this page?,fact_keyword,Description and Features,2075,19.52
+auto_00323,intel_realsense_d400_datasheet,10,fact,哪一页提到了自由度相关参数？,Which page mentions degrees of freedom related specifications?,fact_page_lookup,Description and Features,2075,19.52
+auto_00324,intel_realsense_d400_datasheet,10,fact,哪一页包含参数值 0.3m？,Which page contains the specification value 0.3m?,fact_number_unit,Description and Features,2075,19.52
+auto_00325,intel_realsense_d400_datasheet,11,fact,这页中关于自由度的参数是什么？,What specification about degrees of freedom is given on this page?,fact_keyword,Introduction,2096,15.92
+auto_00326,intel_realsense_d400_datasheet,11,fact,哪一页提到了自由度相关参数？,Which page mentions degrees of freedom related specifications?,fact_page_lookup,Introduction,2096,15.92
+auto_00327,intel_realsense_d400_datasheet,11,fact,哪一页介绍了“Introduction”相关内容？,Which page discusses 'Introduction'?,fact_heading,Introduction,2096,15.92
+auto_00328,intel_realsense_d400_datasheet,12,fact,这页中关于接口的参数是什么？,What specification about interface is given on this page?,fact_keyword,Introduction,2508,17.04
+auto_00329,intel_realsense_d400_datasheet,12,fact,哪一页提到了接口相关参数？,Which page mentions interface related specifications?,fact_page_lookup,Introduction,2508,17.04
+auto_00330,intel_realsense_d400_datasheet,12,fact,哪一页包含参数值 20 mm？,Which page contains the specification value 20 mm?,fact_number_unit,Introduction,2508,17.04
+auto_00331,intel_realsense_d400_datasheet,17,fact,这页中关于传感器的参数是什么？,What specification about sensor is given on this page?,fact_keyword,Vision Processor D4 Camera System Components,1577,17.799999999999997
+auto_00332,intel_realsense_d400_datasheet,17,fact,哪一页提到了传感器相关参数？,Which page mentions sensor related specifications?,fact_page_lookup,Vision Processor D4 Camera System Components,1577,17.799999999999997
+auto_00333,intel_realsense_d400_datasheet,17,fact,哪一页包含参数值 28nm？,Which page contains the specification value 28nm?,fact_number_unit,Vision Processor D4 Camera System Components,1577,17.799999999999997
+auto_00334,intel_realsense_d400_datasheet,18,generic,哪一页讨论了“5 MIPI camera ports with each MIPI lane ”？,Which page discusses '5 MIPI camera ports with each MIPI lane '?,generic_heading,5 MIPI camera ports with each MIPI lane capable of handling data transfers of up,1184,15.16
+auto_00335,intel_realsense_d400_datasheet,18,generic,哪一页包含这一主题的说明内容？,Which page contains information about this topic?,generic_topic,5 MIPI camera ports with each MIPI lane capable of handling data transfers of up,1184,15.16
+auto_00336,intel_realsense_d400_datasheet,22,fact,这页中关于传感器的参数是什么？,What specification about sensor is given on this page?,fact_keyword,(intel,975,15.76
+auto_00337,intel_realsense_d400_datasheet,22,fact,哪一页提到了传感器相关参数？,Which page mentions sensor related specifications?,fact_page_lookup,(intel,975,15.76
+auto_00338,intel_realsense_d400_datasheet,22,fact,哪一页包含参数值 0.9V？,Which page contains the specification value 0.9V?,fact_number_unit,(intel,975,15.76
+auto_00339,intel_realsense_d400_datasheet,23,semantic,哪一页介绍了overview相关内容？,Which page describes overview related information?,semantic_keyword,(intel) REALENSE,943,16.15
+auto_00340,intel_realsense_d400_datasheet,23,semantic,这页主要讲的是哪方面的overview内容？,What overview topic is mainly explained on this page?,semantic_topic,(intel) REALENSE,943,16.15
+auto_00341,intel_realsense_d400_datasheet,29,generic,哪一页讨论了“3.3.4”？,Which page discusses '3.3.4'?,generic_heading,3.3.4,902,19.65
+auto_00342,intel_realsense_d400_datasheet,29,generic,哪一页包含这一主题的说明内容？,Which page contains information about this topic?,generic_topic,3.3.4,902,19.65
+auto_00343,intel_realsense_d400_datasheet,31,fact,这页中关于力/力矩的参数是什么？,What specification about force is given on this page?,fact_keyword,Temperature (Short,1694,17.119999999999997
+auto_00344,intel_realsense_d400_datasheet,31,fact,哪一页提到了力/力矩相关参数？,Which page mentions force related specifications?,fact_page_lookup,Temperature (Short,1694,17.119999999999997
+auto_00345,intel_realsense_d400_datasheet,31,fact,哪一页介绍了“Temperature (Short”相关内容？,Which page discusses 'Temperature (Short'?,fact_heading,Temperature (Short,1694,17.119999999999997
+auto_00346,intel_realsense_d400_datasheet,32,fact,这页中关于传感器的参数是什么？,What specification about sensor is given on this page?,fact_keyword,Other Components,829,18.000000000000004
+auto_00347,intel_realsense_d400_datasheet,32,fact,哪一页提到了传感器相关参数？,Which page mentions sensor related specifications?,fact_page_lookup,Other Components,829,18.000000000000004
+auto_00348,intel_realsense_d400_datasheet,32,fact,哪一页包含参数值 55mm？,Which page contains the specification value 55mm?,fact_number_unit,Other Components,829,18.000000000000004
+auto_00349,intel_realsense_d400_datasheet,33,layout,哪一页包含尺寸图或尺寸示意？,Which page contains the dimensions diagram?,layout_dimensions,Module,1240,20.35
+auto_00350,intel_realsense_d400_datasheet,33,layout,哪一页展示了“Module”的图示页面？,Which page visually presents 'Module'?,layout_heading,Module,1240,20.35
+auto_00351,intel_realsense_d400_datasheet,34,fact,这页中关于传感器的参数是什么？,What specification about sensor is given on this page?,fact_keyword,Camera Sensor Properties,1283,17.5
+auto_00352,intel_realsense_d400_datasheet,34,fact,哪一页提到了传感器相关参数？,Which page mentions sensor related specifications?,fact_page_lookup,Camera Sensor Properties,1283,17.5
+auto_00353,intel_realsense_d400_datasheet,34,fact,哪一页包含参数值 1.93mm？,Which page contains the specification value 1.93mm?,fact_number_unit,Camera Sensor Properties,1283,17.5
+auto_00354,intel_realsense_d400_datasheet,35,fact,这页中关于传感器的参数是什么？,What specification about sensor is given on this page?,fact_keyword,Properties,1115,15.7
+auto_00355,intel_realsense_d400_datasheet,35,fact,哪一页提到了传感器相关参数？,Which page mentions sensor related specifications?,fact_page_lookup,Properties,1115,15.7
+auto_00356,intel_realsense_d400_datasheet,35,fact,哪一页包含参数值 4.25W？,Which page contains the specification value 4.25W?,fact_number_unit,Properties,1115,15.7
+auto_00357,intel_realsense_d400_datasheet,36,layout,哪一页包含尺寸图或尺寸示意？,Which page contains the dimensions diagram?,layout_dimensions,3.6.4,1033,16.8
+auto_00358,intel_realsense_d400_datasheet,36,layout,哪一页展示了“3.6.4”的图示页面？,Which page visually presents '3.6.4'?,layout_heading,3.6.4,1033,16.8
+auto_00359,intel_realsense_d400_datasheet,37,fact,这页中关于传感器的参数是什么？,What specification about sensor is given on this page?,fact_keyword,(intel,1657,17.36
+auto_00360,intel_realsense_d400_datasheet,37,fact,哪一页提到了传感器相关参数？,Which page mentions sensor related specifications?,fact_page_lookup,(intel,1657,17.36
+auto_00361,intel_realsense_d400_datasheet,37,fact,哪一页介绍了“(intel”相关内容？,Which page discusses '(intel'?,fact_heading,(intel,1657,17.36
+auto_00362,intel_realsense_d400_datasheet,39,layout,哪一页包含尺寸图或尺寸示意？,Which page contains the dimensions diagram?,layout_dimensions,Table 3-26. Intel® RealSense Depth Module D430 Mechanical Dimensions,993,19.0
+auto_00363,intel_realsense_d400_datasheet,39,layout,哪一页展示了“Table 3-26. Intel® RealSense Depth Modul”的图示页面？,Which page visually presents 'Table 3-26. Intel® RealSense Depth Modul'?,layout_heading,Table 3-26. Intel® RealSense Depth Module D430 Mechanical Dimensions,993,19.0
+auto_00364,intel_realsense_d400_datasheet,40,fact,这页中关于传感器的参数是什么？,What specification about sensor is given on this page?,fact_keyword,Intel® RealSense Vision Processor D4 Board,1123,16.64
+auto_00365,intel_realsense_d400_datasheet,40,fact,哪一页提到了传感器相关参数？,Which page mentions sensor related specifications?,fact_page_lookup,Intel® RealSense Vision Processor D4 Board,1123,16.64
+auto_00366,intel_realsense_d400_datasheet,40,fact,哪一页介绍了“Intel® RealSense Vision Processor D4 Boa”相关内容？,Which page discusses 'Intel® RealSense Vision Processor D4 Boa'?,fact_heading,Intel® RealSense Vision Processor D4 Board,1123,16.64
+auto_00367,intel_realsense_d400_datasheet,41,layout,哪一页包含尺寸图或尺寸示意？,Which page contains the dimensions diagram?,layout_dimensions,3.7.1,942,17.799999999999997
+auto_00368,intel_realsense_d400_datasheet,41,layout,哪一页展示了“3.7.1”的图示页面？,Which page visually presents '3.7.1'?,layout_heading,3.7.1,942,17.799999999999997
+auto_00369,intel_realsense_d400_datasheet,46,layout,哪一页展示了“(0) +44 (0) 1444 461620”的图示页面？,Which page visually presents '(0) +44 (0) 1444 461620'?,layout_heading,(0) +44 (0) 1444 461620,1189,18.4
+auto_00370,intel_realsense_d400_datasheet,47,generic,哪一页讨论了“Figure 3-12. USB Type-C Receptacle Pin M”？,Which page discusses 'Figure 3-12. USB Type-C Receptacle Pin M'?,generic_heading,Figure 3-12. USB Type-C Receptacle Pin Map,904,15.079999999999998
+auto_00371,intel_realsense_d400_datasheet,47,generic,哪一页包含这一主题的说明内容？,Which page contains information about this topic?,generic_topic,Figure 3-12. USB Type-C Receptacle Pin Map,904,15.079999999999998
+auto_00372,intel_realsense_d400_datasheet,48,fact,这页中关于传感器的参数是什么？,What specification about sensor is given on this page?,fact_keyword,(intel REALSENSE,1547,19.36
+auto_00373,intel_realsense_d400_datasheet,48,fact,哪一页提到了传感器相关参数？,Which page mentions sensor related specifications?,fact_page_lookup,(intel REALSENSE,1547,19.36
+auto_00374,intel_realsense_d400_datasheet,48,fact,哪一页包含参数值 1M？,Which page contains the specification value 1M?,fact_number_unit,(intel REALSENSE,1547,19.36
+auto_00375,intel_realsense_d400_datasheet,50,layout,哪一页包含尺寸图或尺寸示意？,Which page contains the dimensions diagram?,layout_dimensions,Figure 3-14. Intel® RealSense Depth Camera D435/D435i,795,17.200000000000003
+auto_00376,intel_realsense_d400_datasheet,50,layout,哪一页展示了“Figure 3-14. Intel® RealSense Depth Came”的图示页面？,Which page visually presents 'Figure 3-14. Intel® RealSense Depth Came'?,layout_heading,Figure 3-14. Intel® RealSense Depth Camera D435/D435i,795,17.200000000000003
+auto_00377,intel_realsense_d400_datasheet,59,fact,哪一页介绍了“Minimum-Z Depth”相关内容？,Which page discusses 'Minimum-Z Depth'?,fact_heading,Minimum-Z Depth,1226,15.44
+auto_00378,intel_realsense_d400_datasheet,67,fact,这页中关于自由度的参数是什么？,What specification about degrees of freedom is given on this page?,fact_keyword,Control,809,17.84
+auto_00379,intel_realsense_d400_datasheet,67,fact,哪一页提到了自由度相关参数？,Which page mentions degrees of freedom related specifications?,fact_page_lookup,Control,809,17.84
+auto_00380,intel_realsense_d400_datasheet,67,fact,哪一页包含参数值 4g？,Which page contains the specification value 4g?,fact_number_unit,Control,809,17.84
+auto_00381,intel_realsense_d400_datasheet,70,layout,哪一页展示了“The small size of the stereo depth modul”的图示页面？,Which page visually presents 'The small size of the stereo depth modul'?,layout_heading,The small size of the stereo depth module and the separate placement of Vision,1372,16.48
+auto_00382,intel_realsense_d400_datasheet,71,semantic,哪一页介绍了组成部件相关内容？,Which page describes components related information?,semantic_keyword,Figure 7-2. Intel® RealSense Vision Processor D4 Board,795,15.04
+auto_00383,intel_realsense_d400_datasheet,71,semantic,这页主要讲的是哪方面的组成部件内容？,What components topic is mainly explained on this page?,semantic_topic,Figure 7-2. Intel® RealSense Vision Processor D4 Board,795,15.04
+auto_00384,intel_realsense_d400_datasheet,72,semantic,哪一页介绍了组成部件相关内容？,Which page describes components related information?,semantic_keyword,1. Pre-program SPI flash chip with firmware before assembly on to motherboard,1301,18.12
+auto_00385,intel_realsense_d400_datasheet,72,semantic,这页主要讲的是哪方面的组成部件内容？,What components topic is mainly explained on this page?,semantic_topic,1. Pre-program SPI flash chip with firmware before assembly on to motherboard,1301,18.12
+auto_00386,intel_realsense_d400_datasheet,73,layout,哪一页展示了“Vision Processor D4 Board for Integrated”的图示页面？,Which page visually presents 'Vision Processor D4 Board for Integrated'?,layout_heading,Vision Processor D4 Board for Integrated,1090,18.4
+auto_00387,intel_realsense_d400_datasheet,75,semantic,哪一页介绍了module相关内容？,Which page describes module related information?,semantic_keyword,7.4.4,1012,18.4
+auto_00388,intel_realsense_d400_datasheet,75,semantic,这页主要讲的是哪方面的module内容？,What module topic is mainly explained on this page?,semantic_topic,7.4.4,1012,18.4
+auto_00389,intel_realsense_d400_datasheet,76,fact,这页中关于传感器的参数是什么？,What specification about sensor is given on this page?,fact_keyword,Table 7-7. Vision Processor D4 Board - Component Power and TDP at Max Operating,885,17.2
+auto_00390,intel_realsense_d400_datasheet,76,fact,哪一页提到了传感器相关参数？,Which page mentions sensor related specifications?,fact_page_lookup,Table 7-7. Vision Processor D4 Board - Component Power and TDP at Max Operating,885,17.2
+auto_00391,intel_realsense_d400_datasheet,76,fact,哪一页介绍了“Table 7-7. Vision Processor D4 Board - C”相关内容？,Which page discusses 'Table 7-7. Vision Processor D4 Board - C'?,fact_heading,Table 7-7. Vision Processor D4 Board - Component Power and TDP at Max Operating,885,17.2
+auto_00392,intel_realsense_d400_datasheet,77,fact,这页中关于力矩的参数是什么？,What specification about torque is given on this page?,fact_keyword,the thermocouple test location is any point on bottom metal stiffener,1610,16.4
+auto_00393,intel_realsense_d400_datasheet,77,fact,哪一页提到了力矩相关参数？,Which page mentions torque related specifications?,fact_page_lookup,the thermocouple test location is any point on bottom metal stiffener,1610,16.4
+auto_00394,intel_realsense_d400_datasheet,77,fact,哪一页介绍了“the thermocouple test location is any po”相关内容？,Which page discusses 'the thermocouple test location is any po'?,fact_heading,the thermocouple test location is any point on bottom metal stiffener,1610,16.4
+auto_00395,intel_realsense_d400_datasheet,80,semantic,哪一页介绍了组成部件相关内容？,Which page describes components related information?,semantic_keyword,7.7.3,2169,18.28
+auto_00396,intel_realsense_d400_datasheet,80,semantic,这页主要讲的是哪方面的组成部件内容？,What components topic is mainly explained on this page?,semantic_topic,7.7.3,2169,18.28
+auto_00397,intel_realsense_d400_datasheet,81,fact,这页中关于最大工作半径的参数是什么？,What specification about reach is given on this page?,fact_keyword,should be used.,1999,18.0
+auto_00398,intel_realsense_d400_datasheet,81,fact,哪一页提到了最大工作半径相关参数？,Which page mentions reach related specifications?,fact_page_lookup,should be used.,1999,18.0
+auto_00399,intel_realsense_d400_datasheet,81,fact,哪一页包含参数值 850nm？,Which page contains the specification value 850nm?,fact_number_unit,should be used.,1999,18.0
+auto_00400,intel_realsense_d400_datasheet,84,layout,哪一页展示了“Figure 7-16. Firmware Recovery Sequence”的图示页面？,Which page visually presents 'Figure 7-16. Firmware Recovery Sequence'?,layout_heading,Figure 7-16. Firmware Recovery Sequence,1150,16.919999999999998
+auto_00401,intel_realsense_d400_datasheet,91,semantic,哪一页介绍了module相关内容？,Which page describes module related information?,semantic_keyword,Platform Design Guidelines,1700,15.05
+auto_00402,intel_realsense_d400_datasheet,91,semantic,这页主要讲的是哪方面的module内容？,What module topic is mainly explained on this page?,semantic_topic,Platform Design Guidelines,1700,15.05
+auto_00403,intel_realsense_d400_datasheet,93,fact,这页中关于接口的参数是什么？,What specification about interface is given on this page?,fact_keyword,Platform Design Guidelines,1992,17.96
+auto_00404,intel_realsense_d400_datasheet,93,fact,哪一页提到了接口相关参数？,Which page mentions interface related specifications?,fact_page_lookup,Platform Design Guidelines,1992,17.96
+auto_00405,intel_realsense_d400_datasheet,93,fact,哪一页介绍了“Platform Design Guidelines”相关内容？,Which page discusses 'Platform Design Guidelines'?,fact_heading,Platform Design Guidelines,1992,17.96
+auto_00406,intel_realsense_d400_datasheet,103,layout,哪一页包含尺寸图或尺寸示意？,Which page contains the dimensions diagram?,layout_dimensions,Mechanical Drawings,527,15.4
+auto_00407,intel_realsense_d400_datasheet,103,layout,哪一页展示了“Mechanical Drawings”的图示页面？,Which page visually presents 'Mechanical Drawings'?,layout_heading,Mechanical Drawings,527,15.4
+auto_00408,intel_realsense_d400_datasheet,107,semantic,哪一页介绍了module相关内容？,Which page describes module related information?,semantic_keyword,Connector Drawings,1176,15.2
+auto_00409,intel_realsense_d400_datasheet,107,semantic,这页主要讲的是哪方面的module内容？,What module topic is mainly explained on this page?,semantic_topic,Connector Drawings,1176,15.2
+auto_00410,intel_realsense_d400_datasheet,112,layout,哪一页包含结构/原理示意图？,Which page contains the schematic diagram?,layout_schematic,Connection,1604,16.6
+auto_00411,intel_realsense_d400_datasheet,112,layout,哪一页展示了“Connection”的图示页面？,Which page visually presents 'Connection'?,layout_heading,Connection,1604,16.6
+auto_00412,intel_realsense_d400_datasheet,115,layout,哪一页包含结构/原理示意图？,Which page contains the schematic diagram?,layout_schematic,Figure 12-1. Vision Processor D4 Laser PWM Reference Platform Schematic,745,17.44
+auto_00413,intel_realsense_d400_datasheet,115,layout,哪一页展示了“Figure 12-1. Vision Processor D4 Laser P”的图示页面？,Which page visually presents 'Figure 12-1. Vision Processor D4 Laser P'?,layout_heading,Figure 12-1. Vision Processor D4 Laser PWM Reference Platform Schematic,745,17.44
+auto_00414,intel_realsense_d400_datasheet,117,layout,哪一页包含结构/原理示意图？,Which page contains the schematic diagram?,layout_schematic,Figure 12-4. Vision Processor D4 VDD_PG and AVDD Reference Platform Schematic,507,15.04
+auto_00415,intel_realsense_d400_datasheet,117,layout,哪一页展示了“Figure 12-4. Vision Processor D4 VDD_PG ”的图示页面？,Which page visually presents 'Figure 12-4. Vision Processor D4 VDD_PG '?,layout_heading,Figure 12-4. Vision Processor D4 VDD_PG and AVDD Reference Platform Schematic,507,15.04
+auto_00416,intel_realsense_d400_datasheet,118,fact,这页中关于传感器的参数是什么？,What specification about sensor is given on this page?,fact_keyword,Appendix B- Cover Material,879,15.12
+auto_00417,intel_realsense_d400_datasheet,118,fact,哪一页提到了传感器相关参数？,Which page mentions sensor related specifications?,fact_page_lookup,Appendix B- Cover Material,879,15.12
+auto_00418,intel_realsense_d400_datasheet,118,fact,哪一页包含参数值 0.005mm？,Which page contains the specification value 0.005mm?,fact_number_unit,Appendix B- Cover Material,879,15.12
+auto_00419,kinova_gen3_user_guide,2,layout,哪一页是工作空间示意图页面？,Which page shows the workspace diagram?,layout_workspace,Home and retract positions.,1739,17.2
+auto_00420,kinova_gen3_user_guide,2,layout,哪一页包含尺寸图或尺寸示意？,Which page contains the dimensions diagram?,layout_dimensions,Home and retract positions.,1739,17.2
+auto_00421,kinova_gen3_user_guide,2,layout,哪一页包含结构/原理示意图？,Which page contains the schematic diagram?,layout_schematic,Home and retract positions.,1739,17.2
+auto_00422,kinova_gen3_user_guide,3,semantic,哪一页介绍了安全说明相关内容？,Which page describes safety related information?,semantic_keyword,Low-level control implementation,1167,17.2
+auto_00423,kinova_gen3_user_guide,3,semantic,这页主要讲的是哪方面的安全说明内容？,What safety topic is mainly explained on this page?,semantic_topic,Low-level control implementation,1167,17.2
+auto_00424,kinova_gen3_user_guide,12,semantic,哪一页介绍了安全说明相关内容？,Which page describes safety related information?,semantic_keyword,Description and identifi cation of the devices:,1821,16.73
+auto_00425,kinova_gen3_user_guide,12,semantic,这页主要讲的是哪方面的安全说明内容？,What safety topic is mainly explained on this page?,semantic_topic,Description and identifi cation of the devices:,1821,16.73
+auto_00426,kinova_gen3_user_guide,13,fact,这页中关于额定负载的参数是什么？,What specification about payload is given on this page?,fact_keyword,"– risk assessment, before integration of the robot into a given",2526,16.28
+auto_00427,kinova_gen3_user_guide,13,fact,哪一页提到了额定负载相关参数？,Which page mentions payload related specifications?,fact_page_lookup,"– risk assessment, before integration of the robot into a given",2526,16.28
+auto_00428,kinova_gen3_user_guide,13,fact,哪一页包含参数值 20 cm？,Which page contains the specification value 20 cm?,fact_number_unit,"– risk assessment, before integration of the robot into a given",2526,16.28
+auto_00429,kinova_gen3_user_guide,14,fact,这页中关于力矩的参数是什么？,What specification about torque is given on this page?,fact_keyword,torque control.,2193,15.76
+auto_00430,kinova_gen3_user_guide,14,fact,哪一页提到了力矩相关参数？,Which page mentions torque related specifications?,fact_page_lookup,torque control.,2193,15.76
+auto_00431,kinova_gen3_user_guide,14,fact,哪一页介绍了“torque control.”相关内容？,Which page discusses 'torque control.'?,fact_heading,torque control.,2193,15.76
+auto_00432,kinova_gen3_user_guide,16,fact,这页中关于最大工作半径的参数是什么？,What specification about reach is given on this page?,fact_keyword,• everyday robot operation,2466,17.200000000000003
+auto_00433,kinova_gen3_user_guide,16,fact,哪一页提到了最大工作半径相关参数？,Which page mentions reach related specifications?,fact_page_lookup,• everyday robot operation,2466,17.200000000000003
+auto_00434,kinova_gen3_user_guide,16,fact,哪一页包含参数值 4.0 kg？,Which page contains the specification value 4.0 kg?,fact_number_unit,• everyday robot operation,2466,17.200000000000003
+auto_00435,kinova_gen3_user_guide,18,fact,这页中关于自由度的参数是什么？,What specification about degrees of freedom is given on this page?,fact_keyword,Robot components,920,17.58
+auto_00436,kinova_gen3_user_guide,18,fact,哪一页提到了自由度相关参数？,Which page mentions degrees of freedom related specifications?,fact_page_lookup,Robot components,920,17.58
+auto_00437,kinova_gen3_user_guide,18,fact,哪一页介绍了“Robot components”相关内容？,Which page discusses 'Robot components'?,fact_heading,Robot components,920,17.58
+auto_00438,kinova_gen3_user_guide,19,fact,这页中关于自由度的参数是什么？,What specification about dof is given on this page?,fact_keyword,Wrist,1412,17.57
+auto_00439,kinova_gen3_user_guide,19,fact,哪一页提到了自由度相关参数？,Which page mentions dof related specifications?,fact_page_lookup,Wrist,1412,17.57
+auto_00440,kinova_gen3_user_guide,19,fact,哪一页介绍了“Wrist”相关内容？,Which page discusses 'Wrist'?,fact_heading,Wrist,1412,17.57
+auto_00441,kinova_gen3_user_guide,20,fact,这页中关于自由度的参数是什么？,What specification about degrees of freedom is given on this page?,fact_keyword,Table 6: Base options,1511,16.259999999999998
+auto_00442,kinova_gen3_user_guide,20,fact,哪一页提到了自由度相关参数？,Which page mentions degrees of freedom related specifications?,fact_page_lookup,Table 6: Base options,1511,16.259999999999998
+auto_00443,kinova_gen3_user_guide,20,fact,哪一页介绍了“Table 6: Base options”相关内容？,Which page discusses 'Table 6: Base options'?,fact_heading,Table 6: Base options,1511,16.259999999999998
+auto_00444,kinova_gen3_user_guide,22,generic,哪一页讨论了“comes to mounting and dismounting the ro”？,Which page discusses 'comes to mounting and dismounting the ro'?,generic_heading,comes to mounting and dismounting the robot.,1492,18.69
+auto_00445,kinova_gen3_user_guide,22,generic,哪一页包含这一主题的说明内容？,Which page contains information about this topic?,generic_topic,comes to mounting and dismounting the robot.,1492,18.69
+auto_00446,kinova_gen3_user_guide,23,generic,哪一页讨论了“Red / green”？,Which page discusses 'Red / green'?,generic_heading,Red / green,1032,16.17
+auto_00447,kinova_gen3_user_guide,23,generic,哪一页包含这一主题的说明内容？,Which page contains information about this topic?,generic_topic,Red / green,1032,16.17
+auto_00448,kinova_gen3_user_guide,25,fact,这页中关于力矩的参数是什么？,What specification about torque is given on this page?,fact_keyword,Actuators,1943,21.36
+auto_00449,kinova_gen3_user_guide,25,fact,哪一页提到了力矩相关参数？,Which page mentions torque related specifications?,fact_page_lookup,Actuators,1943,21.36
+auto_00450,kinova_gen3_user_guide,25,fact,哪一页包含参数值 100 Mbps？,Which page contains the specification value 100 Mbps?,fact_number_unit,Actuators,1943,21.36
+auto_00451,kinova_gen3_user_guide,26,semantic,哪一页介绍了组成部件相关内容？,Which page describes components related information?,semantic_keyword,components and connectivity as the standard interface module.,1761,16.0
+auto_00452,kinova_gen3_user_guide,26,semantic,这页主要讲的是哪方面的组成部件内容？,What components topic is mainly explained on this page?,semantic_topic,components and connectivity as the standard interface module.,1761,16.0
+auto_00453,kinova_gen3_user_guide,27,semantic,哪一页介绍了module相关内容？,Which page describes module related information?,semantic_keyword,It features:,735,16.16
+auto_00454,kinova_gen3_user_guide,27,semantic,这页主要讲的是哪方面的module内容？,What module topic is mainly explained on this page?,semantic_topic,It features:,735,16.16
+auto_00455,kinova_gen3_user_guide,28,fact,这页中关于传感器的参数是什么？,What specification about sensor is given on this page?,fact_keyword,vision module (if present) and any connected tool (e.g. gripper).,1746,15.92
+auto_00456,kinova_gen3_user_guide,28,fact,哪一页提到了传感器相关参数？,Which page mentions sensor related specifications?,fact_page_lookup,vision module (if present) and any connected tool (e.g. gripper).,1746,15.92
+auto_00457,kinova_gen3_user_guide,28,fact,哪一页介绍了“vision module (if present) and any conne”相关内容？,Which page discusses 'vision module (if present) and any conne'?,fact_heading,vision module (if present) and any connected tool (e.g. gripper).,1746,15.92
+auto_00458,kinova_gen3_user_guide,29,fact,这页中关于传感器的参数是什么？,What specification about sensor is given on this page?,fact_keyword,Depth sensor,1427,17.1
+auto_00459,kinova_gen3_user_guide,29,fact,哪一页提到了传感器相关参数？,Which page mentions sensor related specifications?,fact_page_lookup,Depth sensor,1427,17.1
+auto_00460,kinova_gen3_user_guide,29,fact,哪一页包含参数值 30 cm？,Which page contains the specification value 30 cm?,fact_number_unit,Depth sensor,1427,17.1
+auto_00461,kinova_gen3_user_guide,30,semantic,哪一页介绍了module相关内容？,Which page describes module related information?,semantic_keyword,"resolution,framerates (fps), and fields of view (FOV):",2308,19.25
+auto_00462,kinova_gen3_user_guide,30,semantic,这页主要讲的是哪方面的module内容？,What module topic is mainly explained on this page?,semantic_topic,"resolution,framerates (fps), and fields of view (FOV):",2308,19.25
+auto_00463,kinova_gen3_user_guide,31,layout,哪一页包含 7 自由度相关尺寸图？,Which page contains the 7 DoF dimensions figure?,layout_7dof,addresses:,1122,18.55
+auto_00464,kinova_gen3_user_guide,31,layout,哪一页展示了“addresses:”的图示页面？,Which page visually presents 'addresses:'?,layout_heading,addresses:,1122,18.55
+auto_00465,kinova_gen3_user_guide,34,fact,这页中关于力矩的参数是什么？,What specification about torque is given on this page?,fact_keyword,•Mounting plate alone (fixed base option),2500,18.11
+auto_00466,kinova_gen3_user_guide,34,fact,哪一页提到了力矩相关参数？,Which page mentions torque related specifications?,fact_page_lookup,•Mounting plate alone (fixed base option),2500,18.11
+auto_00467,kinova_gen3_user_guide,34,fact,哪一页包含参数值 5 mm？,Which page contains the specification value 5 mm?,fact_number_unit,•Mounting plate alone (fixed base option),2500,18.11
+auto_00468,kinova_gen3_user_guide,35,fact,这页中关于额定负载的参数是什么？,What specification about payload is given on this page?,fact_keyword,Before you begin,2235,16.09
+auto_00469,kinova_gen3_user_guide,35,fact,哪一页提到了额定负载相关参数？,Which page mentions payload related specifications?,fact_page_lookup,Before you begin,2235,16.09
+auto_00470,kinova_gen3_user_guide,35,fact,哪一页介绍了“Before you begin”相关内容？,Which page discusses 'Before you begin'?,fact_heading,Before you begin,2235,16.09
+auto_00471,kinova_gen3_user_guide,37,fact,这页中关于额定负载的参数是什么？,What specification about payload is given on this page?,fact_keyword,Mounting the robot on a horizontal surface without the table clamp,2298,16.42
+auto_00472,kinova_gen3_user_guide,37,fact,哪一页提到了额定负载相关参数？,Which page mentions payload related specifications?,fact_page_lookup,Mounting the robot on a horizontal surface without the table clamp,2298,16.42
+auto_00473,kinova_gen3_user_guide,37,fact,哪一页介绍了“Mounting the robot on a horizontal surfa”相关内容？,Which page discusses 'Mounting the robot on a horizontal surfa'?,fact_heading,Mounting the robot on a horizontal surface without the table clamp,2298,16.42
+auto_00474,kinova_gen3_user_guide,41,layout,哪一页展示了“diagram.”的图示页面？,Which page visually presents 'diagram.'?,layout_heading,diagram.,2958,16.52
+auto_00475,kinova_gen3_user_guide,43,semantic,哪一页介绍了安全说明相关内容？,Which page describes safety related information?,semantic_keyword,Robot power adapter and E-stop,2347,16.439999999999998
+auto_00476,kinova_gen3_user_guide,43,semantic,这页主要讲的是哪方面的安全说明内容？,What safety topic is mainly explained on this page?,semantic_topic,Robot power adapter and E-stop,2347,16.439999999999998
+auto_00477,kinova_gen3_user_guide,44,generic,哪一页讨论了“Length: 1.9m +/- 0.1m”？,Which page discusses 'Length: 1.9m +/- 0.1m'?,generic_heading,Length: 1.9m +/- 0.1m,841,15.8
+auto_00478,kinova_gen3_user_guide,44,generic,哪一页包含这一主题的说明内容？,Which page contains information about this topic?,generic_topic,Length: 1.9m +/- 0.1m,841,15.8
+auto_00479,kinova_gen3_user_guide,46,semantic,哪一页介绍了状态说明相关内容？,Which page describes status related information?,semantic_keyword,Sequence step,1925,16.49
+auto_00480,kinova_gen3_user_guide,46,semantic,这页主要讲的是哪方面的状态说明内容？,What status topic is mainly explained on this page?,semantic_topic,Sequence step,1925,16.49
+auto_00481,kinova_gen3_user_guide,47,fact,这页中关于最大工作半径的参数是什么？,What specification about reach is given on this page?,fact_keyword,Connecting an Xbox gamepad to the robot,2431,16.91
+auto_00482,kinova_gen3_user_guide,47,fact,哪一页提到了最大工作半径相关参数？,Which page mentions reach related specifications?,fact_page_lookup,Connecting an Xbox gamepad to the robot,2431,16.91
+auto_00483,kinova_gen3_user_guide,47,fact,哪一页介绍了“Connecting an Xbox gamepad to the robot”相关内容？,Which page discusses 'Connecting an Xbox gamepad to the robot'?,fact_heading,Connecting an Xbox gamepad to the robot,2431,16.91
+auto_00484,kinova_gen3_user_guide,54,fact,这页中关于最大工作半径的参数是什么？,What specification about reach is given on this page?,fact_keyword,Table 16: Joint - general controls plus:,712,15.84
+auto_00485,kinova_gen3_user_guide,54,fact,哪一页提到了最大工作半径相关参数？,Which page mentions reach related specifications?,fact_page_lookup,Table 16: Joint - general controls plus:,712,15.84
+auto_00486,kinova_gen3_user_guide,54,fact,哪一页介绍了“Table 16: Joint - general controls plus:”相关内容？,Which page discusses 'Table 16: Joint - general controls plus:'?,fact_heading,Table 16: Joint - general controls plus:,712,15.84
+auto_00487,kinova_gen3_user_guide,55,fact,这页中关于力矩的参数是什么？,What specification about torque is given on this page?,fact_keyword,Previous control mapping,706,15.76
+auto_00488,kinova_gen3_user_guide,55,fact,哪一页提到了力矩相关参数？,Which page mentions torque related specifications?,fact_page_lookup,Previous control mapping,706,15.76
+auto_00489,kinova_gen3_user_guide,55,fact,哪一页介绍了“Previous control mapping”相关内容？,Which page discusses 'Previous control mapping'?,fact_heading,Previous control mapping,706,15.76
+auto_00490,kinova_gen3_user_guide,56,fact,这页中关于最大工作半径的参数是什么？,What specification about reach is given on this page?,fact_keyword,Previous control mapping,1206,15.76
+auto_00491,kinova_gen3_user_guide,56,fact,哪一页提到了最大工作半径相关参数？,Which page mentions reach related specifications?,fact_page_lookup,Previous control mapping,1206,15.76
+auto_00492,kinova_gen3_user_guide,56,fact,哪一页介绍了“Previous control mapping”相关内容？,Which page discusses 'Previous control mapping'?,fact_heading,Previous control mapping,1206,15.76
+auto_00493,kinova_gen3_user_guide,57,fact,这页中关于自由度的参数是什么？,What specification about degrees of freedom is given on this page?,fact_keyword,The two interface module buttons each offer access to one admittance mode.,2144,16.88
+auto_00494,kinova_gen3_user_guide,57,fact,哪一页提到了自由度相关参数？,Which page mentions degrees of freedom related specifications?,fact_page_lookup,The two interface module buttons each offer access to one admittance mode.,2144,16.88
+auto_00495,kinova_gen3_user_guide,57,fact,哪一页介绍了“The two interface module buttons each of”相关内容？,Which page discusses 'The two interface module buttons each of'?,fact_heading,The two interface module buttons each offer access to one admittance mode.,2144,16.88
+auto_00496,kinova_gen3_user_guide,61,fact,这页中关于力矩的参数是什么？,What specification about torque is given on this page?,fact_keyword,Monitering,1354,20.0
+auto_00497,kinova_gen3_user_guide,61,fact,哪一页提到了力矩相关参数？,Which page mentions torque related specifications?,fact_page_lookup,Monitering,1354,20.0
+auto_00498,kinova_gen3_user_guide,61,fact,哪一页包含参数值 2Nm？,Which page contains the specification value 2Nm?,fact_number_unit,Monitering,1354,20.0
+auto_00499,kinova_gen3_user_guide,66,layout,哪一页包含尺寸图或尺寸示意？,Which page contains the dimensions diagram?,layout_dimensions,"Dimensions, specifications, and capabilities",1095,17.799999999999997
+auto_00500,kinova_gen3_user_guide,66,layout,哪一页包含结构/原理示意图？,Which page contains the schematic diagram?,layout_schematic,"Dimensions, specifications, and capabilities",1095,17.799999999999997
+auto_00501,kinova_gen3_user_guide,66,layout,哪一页包含 7 自由度相关尺寸图？,Which page contains the 7 DoF dimensions figure?,layout_7dof,"Dimensions, specifications, and capabilities",1095,17.799999999999997
+auto_00502,kinova_gen3_user_guide,67,layout,哪一页包含尺寸图或尺寸示意？,Which page contains the dimensions diagram?,layout_dimensions,Length (mm),576,17.2
+auto_00503,kinova_gen3_user_guide,67,layout,哪一页包含结构/原理示意图？,Which page contains the schematic diagram?,layout_schematic,Length (mm),576,17.2
+auto_00504,kinova_gen3_user_guide,67,layout,哪一页展示了“Length (mm)”的图示页面？,Which page visually presents 'Length (mm)'?,layout_heading,Length (mm),576,17.2
+auto_00505,kinova_gen3_user_guide,68,layout,哪一页包含尺寸图或尺寸示意？,Which page contains the dimensions diagram?,layout_dimensions,Figure 32: 6 DoF spherical wrist frames definition and dimensions,1365,19.0
+auto_00506,kinova_gen3_user_guide,68,layout,哪一页展示了“Figure 32: 6 DoF spherical wrist frames ”的图示页面？,Which page visually presents 'Figure 32: 6 DoF spherical wrist frames '?,layout_heading,Figure 32: 6 DoF spherical wrist frames definition and dimensions,1365,19.0
+auto_00507,kinova_gen3_user_guide,69,fact,这页中关于额定负载的参数是什么？,What specification about payload is given on this page?,fact_keyword,Parameter,1153,21.2
+auto_00508,kinova_gen3_user_guide,69,fact,哪一页提到了额定负载相关参数？,Which page mentions payload related specifications?,fact_page_lookup,Parameter,1153,21.2
+auto_00509,kinova_gen3_user_guide,69,fact,哪一页包含参数值 60Hz？,Which page contains the specification value 60Hz?,fact_number_unit,Parameter,1153,21.2
+auto_00510,kinova_gen3_user_guide,70,fact,这页中关于传感器的参数是什么？,What specification about sensor is given on this page?,fact_keyword,Parameter,959,20.8
+auto_00511,kinova_gen3_user_guide,70,fact,哪一页提到了传感器相关参数？,Which page mentions sensor related specifications?,fact_page_lookup,Parameter,959,20.8
+auto_00512,kinova_gen3_user_guide,70,fact,哪一页包含参数值 100 Mbps？,Which page contains the specification value 100 Mbps?,fact_number_unit,Parameter,959,20.8
+auto_00513,kinova_gen3_user_guide,71,fact,这页中关于力矩的参数是什么？,What specification about torque is given on this page?,fact_keyword,Feature,1316,19.05
+auto_00514,kinova_gen3_user_guide,71,fact,哪一页提到了力矩相关参数？,Which page mentions torque related specifications?,fact_page_lookup,Feature,1316,19.05
+auto_00515,kinova_gen3_user_guide,71,fact,哪一页包含参数值 30 cm？,Which page contains the specification value 30 cm?,fact_number_unit,Feature,1316,19.05
+auto_00516,kinova_gen3_user_guide,72,layout,哪一页是工作空间示意图页面？,Which page shows the workspace diagram?,layout_workspace,• Actuators,1241,16.09
+auto_00517,kinova_gen3_user_guide,72,layout,哪一页包含尺寸图或尺寸示意？,Which page contains the dimensions diagram?,layout_dimensions,• Actuators,1241,16.09
+auto_00518,kinova_gen3_user_guide,72,layout,哪一页包含 7 自由度相关尺寸图？,Which page contains the 7 DoF dimensions figure?,layout_7dof,• Actuators,1241,16.09
+auto_00519,kinova_gen3_user_guide,76,fact,这页中关于额定负载的参数是什么？,What specification about payload is given on this page?,fact_keyword,to avoid hindering the effectiveness of the vision module depth sensors.,2008,15.92
+auto_00520,kinova_gen3_user_guide,76,fact,哪一页提到了额定负载相关参数？,Which page mentions payload related specifications?,fact_page_lookup,to avoid hindering the effectiveness of the vision module depth sensors.,2008,15.92
+auto_00521,kinova_gen3_user_guide,76,fact,哪一页介绍了“to avoid hindering the effectiveness of ”相关内容？,Which page discusses 'to avoid hindering the effectiveness of '?,fact_heading,to avoid hindering the effectiveness of the vision module depth sensors.,2008,15.92
+auto_00522,kinova_gen3_user_guide,77,semantic,哪一页介绍了module相关内容？,Which page describes module related information?,semantic_keyword,in itself provide ingress or EMl protection.,1060,19.93
+auto_00523,kinova_gen3_user_guide,77,semantic,这页主要讲的是哪方面的module内容？,What module topic is mainly explained on this page?,semantic_topic,in itself provide ingress or EMl protection.,1060,19.93
+auto_00524,kinova_gen3_user_guide,79,fact,这页中关于额定负载的参数是什么？,What specification about payload is given on this page?,fact_keyword,mass of mechanical interface + end effector tool,2352,16.86
+auto_00525,kinova_gen3_user_guide,79,fact,哪一页提到了额定负载相关参数？,Which page mentions payload related specifications?,fact_page_lookup,mass of mechanical interface + end effector tool,2352,16.86
+auto_00526,kinova_gen3_user_guide,79,fact,哪一页包含参数值 3 mm？,Which page contains the specification value 3 mm?,fact_number_unit,mass of mechanical interface + end effector tool,2352,16.86
+auto_00527,kinova_gen3_user_guide,80,semantic,哪一页介绍了安装说明相关内容？,Which page describes installation related information?,semantic_keyword,O-ring,1900,18.1
+auto_00528,kinova_gen3_user_guide,80,semantic,这页主要讲的是哪方面的安装说明内容？,What installation topic is mainly explained on this page?,semantic_topic,O-ring,1900,18.1
+auto_00529,kinova_gen3_user_guide,81,semantic,哪一页介绍了module相关内容？,Which page describes module related information?,semantic_keyword,ROBOTIQ,436,15.88
+auto_00530,kinova_gen3_user_guide,81,semantic,这页主要讲的是哪方面的module内容？,What module topic is mainly explained on this page?,semantic_topic,ROBOTIQ,436,15.88
+auto_00531,kinova_gen3_user_guide,82,semantic,哪一页介绍了操作说明相关内容？,Which page describes operation related information?,semantic_keyword,module face.,1285,16.24
+auto_00532,kinova_gen3_user_guide,82,semantic,这页主要讲的是哪方面的操作说明内容？,What operation topic is mainly explained on this page?,semantic_topic,module face.,1285,16.24
+auto_00533,kinova_gen3_user_guide,84,semantic,哪一页介绍了安全说明相关内容？,Which page describes safety related information?,semantic_keyword,What to do next,1499,19.12
+auto_00534,kinova_gen3_user_guide,84,semantic,这页主要讲的是哪方面的安全说明内容？,What safety topic is mainly explained on this page?,semantic_topic,What to do next,1499,19.12
+auto_00535,kinova_gen3_user_guide,85,layout,哪一页包含尺寸图或尺寸示意？,Which page contains the dimensions diagram?,layout_dimensions,Setting,1390,19.6
+auto_00536,kinova_gen3_user_guide,85,layout,哪一页展示了“Setting”的图示页面？,Which page visually presents 'Setting'?,layout_heading,Setting,1390,19.6
+auto_00537,kinova_gen3_user_guide,86,fact,这页中关于传感器的参数是什么？,What specification about sensor is given on this page?,fact_keyword,pin 20,552,19.84
+auto_00538,kinova_gen3_user_guide,86,fact,哪一页提到了传感器相关参数？,Which page mentions sensor related specifications?,fact_page_lookup,pin 20,552,19.84
+auto_00539,kinova_gen3_user_guide,86,fact,哪一页包含参数值 24V？,Which page contains the specification value 24V?,fact_number_unit,pin 20,552,19.84
+auto_00540,kinova_gen3_user_guide,87,semantic,哪一页介绍了module相关内容？,Which page describes module related information?,semantic_keyword,Name,1084,16.24
+auto_00541,kinova_gen3_user_guide,87,semantic,这页主要讲的是哪方面的module内容？,What module topic is mainly explained on this page?,semantic_topic,Name,1084,16.24
+auto_00542,kinova_gen3_user_guide,88,fact,这页中关于传感器的参数是什么？,What specification about sensor is given on this page?,fact_keyword,pin1,665,18.37
+auto_00543,kinova_gen3_user_guide,88,fact,哪一页提到了传感器相关参数？,Which page mentions sensor related specifications?,fact_page_lookup,pin1,665,18.37
+auto_00544,kinova_gen3_user_guide,88,fact,哪一页包含参数值 24V？,Which page contains the specification value 24V?,fact_number_unit,pin1,665,18.37
+auto_00545,kinova_gen3_user_guide,89,fact,这页中关于传感器的参数是什么？,What specification about sensor is given on this page?,fact_keyword,• depth,1290,16.74
+auto_00546,kinova_gen3_user_guide,89,fact,哪一页提到了传感器相关参数？,Which page mentions sensor related specifications?,fact_page_lookup,• depth,1290,16.74
+auto_00547,kinova_gen3_user_guide,89,fact,哪一页介绍了“• depth”相关内容？,Which page discusses '• depth'?,fact_heading,• depth,1290,16.74
+auto_00548,kinova_gen3_user_guide,90,fact,这页中关于最大工作半径的参数是什么？,What specification about reach is given on this page?,fact_keyword,Concepts and terminology,1853,16.1
+auto_00549,kinova_gen3_user_guide,90,fact,哪一页提到了最大工作半径相关参数？,Which page mentions reach related specifications?,fact_page_lookup,Concepts and terminology,1853,16.1
+auto_00550,kinova_gen3_user_guide,90,fact,哪一页介绍了“Concepts and terminology”相关内容？,Which page discusses 'Concepts and terminology'?,fact_heading,Concepts and terminology,1853,16.1
+auto_00551,kinova_gen3_user_guide,91,layout,哪一页包含尺寸图或尺寸示意？,Which page contains the dimensions diagram?,layout_dimensions,Cartesian space,1877,15.85
+auto_00552,kinova_gen3_user_guide,91,layout,哪一页包含 7 自由度相关尺寸图？,Which page contains the 7 DoF dimensions figure?,layout_7dof,Cartesian space,1877,15.85
+auto_00553,kinova_gen3_user_guide,91,layout,哪一页展示了“Cartesian space”的图示页面？,Which page visually presents 'Cartesian space'?,layout_heading,Cartesian space,1877,15.85
+auto_00554,kinova_gen3_user_guide,94,fact,这页中关于自由度的参数是什么？,What specification about degrees of freedom is given on this page?,fact_keyword,Protection zone,2038,17.34
+auto_00555,kinova_gen3_user_guide,94,fact,哪一页提到了自由度相关参数？,Which page mentions degrees of freedom related specifications?,fact_page_lookup,Protection zone,2038,17.34
+auto_00556,kinova_gen3_user_guide,94,fact,哪一页介绍了“Protection zone”相关内容？,Which page discusses 'Protection zone'?,fact_heading,Protection zone,2038,17.34
+auto_00557,kinova_gen3_user_guide,99,fact,这页中关于力矩的参数是什么？,What specification about torque is given on this page?,fact_keyword,should exercise caution.,1696,17.6
+auto_00558,kinova_gen3_user_guide,99,fact,哪一页提到了力矩相关参数？,Which page mentions torque related specifications?,fact_page_lookup,should exercise caution.,1696,17.6
+auto_00559,kinova_gen3_user_guide,99,fact,哪一页包含参数值 1 ms？,Which page contains the specification value 1 ms?,fact_number_unit,should exercise caution.,1696,17.6
+auto_00560,kinova_gen3_user_guide,100,fact,这页中关于力矩的参数是什么？,What specification about torque is given on this page?,fact_keyword,Method,2703,15.85
+auto_00561,kinova_gen3_user_guide,100,fact,哪一页提到了力矩相关参数？,Which page mentions torque related specifications?,fact_page_lookup,Method,2703,15.85
+auto_00562,kinova_gen3_user_guide,100,fact,哪一页介绍了“Method”相关内容？,Which page discusses 'Method'?,fact_heading,Method,2703,15.85
+auto_00563,kinova_gen3_user_guide,101,layout,哪一页包含尺寸图或尺寸示意？,Which page contains the dimensions diagram?,layout_dimensions,Protection zones,2917,16.17
+auto_00564,kinova_gen3_user_guide,101,layout,哪一页展示了“Protection zones”的图示页面？,Which page visually presents 'Protection zones'?,layout_heading,Protection zones,2917,16.17
+auto_00565,kinova_gen3_user_guide,102,fact,这页中关于自由度的参数是什么？,What specification about dof is given on this page?,fact_keyword,confi gurable.,1264,18.21
+auto_00566,kinova_gen3_user_guide,102,fact,哪一页提到了自由度相关参数？,Which page mentions dof related specifications?,fact_page_lookup,confi gurable.,1264,18.21
+auto_00567,kinova_gen3_user_guide,102,fact,哪一页介绍了“confi gurable.”相关内容？,Which page discusses 'confi gurable.'?,fact_heading,confi gurable.,1264,18.21
+auto_00568,kinova_gen3_user_guide,103,fact,这页中关于自由度的参数是什么？,What specification about dof is given on this page?,fact_keyword,Table 41: Joint speed limits (admittance and force control modes),755,17.2
+auto_00569,kinova_gen3_user_guide,103,fact,哪一页提到了自由度相关参数？,Which page mentions dof related specifications?,fact_page_lookup,Table 41: Joint speed limits (admittance and force control modes),755,17.2
+auto_00570,kinova_gen3_user_guide,103,fact,哪一页介绍了“Table 41: Joint speed limits (admittance”相关内容？,Which page discusses 'Table 41: Joint speed limits (admittance'?,fact_heading,Table 41: Joint speed limits (admittance and force control modes),755,17.2
+auto_00571,kinova_gen3_user_guide,104,fact,这页中关于最大工作半径的参数是什么？,What specification about reach is given on this page?,fact_keyword,Table 47: joint speed limits (admittance and force control modes),1218,17.2
+auto_00572,kinova_gen3_user_guide,104,fact,哪一页提到了最大工作半径相关参数？,Which page mentions reach related specifications?,fact_page_lookup,Table 47: joint speed limits (admittance and force control modes),1218,17.2
+auto_00573,kinova_gen3_user_guide,104,fact,哪一页介绍了“Table 47: joint speed limits (admittance”相关内容？,Which page discusses 'Table 47: joint speed limits (admittance'?,fact_heading,Table 47: joint speed limits (admittance and force control modes),1218,17.2
+auto_00574,kinova_gen3_user_guide,105,fact,这页中关于最大工作半径的参数是什么？,What specification about reach is given on this page?,fact_keyword,Limit,1828,17.85
+auto_00575,kinova_gen3_user_guide,105,fact,哪一页提到了最大工作半径相关参数？,Which page mentions reach related specifications?,fact_page_lookup,Limit,1828,17.85
+auto_00576,kinova_gen3_user_guide,105,fact,哪一页包含参数值 0.5 m？,Which page contains the specification value 0.5 m?,fact_number_unit,Limit,1828,17.85
+auto_00577,kinova_gen3_user_guide,107,fact,这页中关于最大工作半径的参数是什么？,What specification about reach is given on this page?,fact_keyword,Trajectory control modes,3188,16.009999999999998
+auto_00578,kinova_gen3_user_guide,107,fact,哪一页提到了最大工作半径相关参数？,Which page mentions reach related specifications?,fact_page_lookup,Trajectory control modes,3188,16.009999999999998
+auto_00579,kinova_gen3_user_guide,107,fact,哪一页介绍了“Trajectory control modes”相关内容？,Which page discusses 'Trajectory control modes'?,fact_heading,Trajectory control modes,3188,16.009999999999998
+auto_00580,kinova_gen3_user_guide,109,layout,哪一页是工作空间示意图页面？,Which page shows the workspace diagram?,layout_workspace,individually or together.,2774,15.68
+auto_00581,kinova_gen3_user_guide,109,layout,哪一页展示了“individually or together.”的图示页面？,Which page visually presents 'individually or together.'?,layout_heading,individually or together.,2774,15.68
+auto_00582,kinova_gen3_user_guide,110,fact,这页中关于最大工作半径的参数是什么？,What specification about reach is given on this page?,fact_keyword,will be applied to the tool until:,2772,17.839999999999996
+auto_00583,kinova_gen3_user_guide,110,fact,哪一页提到了最大工作半径相关参数？,Which page mentions reach related specifications?,fact_page_lookup,will be applied to the tool until:,2772,17.839999999999996
+auto_00584,kinova_gen3_user_guide,110,fact,哪一页包含参数值 1 ms？,Which page contains the specification value 1 ms?,fact_number_unit,will be applied to the tool until:,2772,17.839999999999996
+auto_00585,kinova_gen3_user_guide,111,fact,这页中关于力矩的参数是什么？,What specification about torque is given on this page?,fact_keyword,• Joint position,1777,17.759999999999998
+auto_00586,kinova_gen3_user_guide,111,fact,哪一页提到了力矩相关参数？,Which page mentions torque related specifications?,fact_page_lookup,• Joint position,1777,17.759999999999998
+auto_00587,kinova_gen3_user_guide,111,fact,哪一页介绍了“• Joint position”相关内容？,Which page discusses '• Joint position'?,fact_heading,• Joint position,1777,17.759999999999998
+auto_00588,kinova_gen3_user_guide,114,semantic,哪一页介绍了组成部件相关内容？,Which page describes components related information?,semantic_keyword,temperature_core,1507,16.08
+auto_00589,kinova_gen3_user_guide,114,semantic,这页主要讲的是哪方面的组成部件内容？,What components topic is mainly explained on this page?,semantic_topic,temperature_core,1507,16.08
+auto_00590,kinova_gen3_user_guide,115,fact,这页中关于最大工作半径的参数是什么？,What specification about reach is given on this page?,fact_keyword,flags,2080,16.0
+auto_00591,kinova_gen3_user_guide,115,fact,哪一页提到了最大工作半径相关参数？,Which page mentions reach related specifications?,fact_page_lookup,flags,2080,16.0
+auto_00592,kinova_gen3_user_guide,115,fact,哪一页介绍了“flags”相关内容？,Which page discusses 'flags'?,fact_heading,flags,2080,16.0
+auto_00593,kinova_gen3_user_guide,120,fact,这页中关于力矩的参数是什么？,What specification about torque is given on this page?,fact_keyword,Confi gurable item,1277,15.85
+auto_00594,kinova_gen3_user_guide,120,fact,哪一页提到了力矩相关参数？,Which page mentions torque related specifications?,fact_page_lookup,Confi gurable item,1277,15.85
+auto_00595,kinova_gen3_user_guide,120,fact,哪一页介绍了“Confi gurable item”相关内容？,Which page discusses 'Confi gurable item'?,fact_heading,Confi gurable item,1277,15.85
+auto_00596,kinova_gen3_user_guide,122,fact,这页中关于传感器的参数是什么？,What specification about sensor is given on this page?,fact_keyword,Confi gurable item,1332,15.76
+auto_00597,kinova_gen3_user_guide,122,fact,哪一页提到了传感器相关参数？,Which page mentions sensor related specifications?,fact_page_lookup,Confi gurable item,1332,15.76
+auto_00598,kinova_gen3_user_guide,122,fact,哪一页介绍了“Confi gurable item”相关内容？,Which page discusses 'Confi gurable item'?,fact_heading,Confi gurable item,1332,15.76
+auto_00599,kinova_gen3_user_guide,124,fact,这页中关于传感器的参数是什么？,What specification about sensor is given on this page?,fact_keyword,Confi gurable item,1586,17.1
+auto_00600,kinova_gen3_user_guide,124,fact,哪一页提到了传感器相关参数？,Which page mentions sensor related specifications?,fact_page_lookup,Confi gurable item,1586,17.1
+auto_00601,kinova_gen3_user_guide,124,fact,哪一页介绍了“Confi gurable item”相关内容？,Which page discusses 'Confi gurable item'?,fact_heading,Confi gurable item,1586,17.1
+auto_00602,kinova_gen3_user_guide,125,semantic,哪一页介绍了安全说明相关内容？,Which page describes safety related information?,semantic_keyword,Table 69: Base Safety items,1043,20.56
+auto_00603,kinova_gen3_user_guide,125,semantic,这页主要讲的是哪方面的安全说明内容？,What safety topic is mainly explained on this page?,semantic_topic,Table 69: Base Safety items,1043,20.56
+auto_00604,kinova_gen3_user_guide,126,fact,这页中关于传感器的参数是什么？,What specification about sensor is given on this page?,fact_keyword,lower,1161,16.64
+auto_00605,kinova_gen3_user_guide,126,fact,哪一页提到了传感器相关参数？,Which page mentions sensor related specifications?,fact_page_lookup,lower,1161,16.64
+auto_00606,kinova_gen3_user_guide,126,fact,哪一页介绍了“lower”相关内容？,Which page discusses 'lower'?,fact_heading,lower,1161,16.64
+auto_00607,kinova_gen3_user_guide,127,semantic,哪一页介绍了安全说明相关内容？,Which page describes safety related information?,semantic_keyword,lower,901,15.9
+auto_00608,kinova_gen3_user_guide,127,semantic,这页主要讲的是哪方面的安全说明内容？,What safety topic is mainly explained on this page?,semantic_topic,lower,901,15.9
+auto_00609,kinova_gen3_user_guide,128,fact,这页中关于力矩的参数是什么？,What specification about torque is given on this page?,fact_keyword,lower,779,20.8
+auto_00610,kinova_gen3_user_guide,128,fact,哪一页提到了力矩相关参数？,Which page mentions torque related specifications?,fact_page_lookup,lower,779,20.8
+auto_00611,kinova_gen3_user_guide,128,fact,哪一页包含参数值 0.0A？,Which page contains the specification value 0.0A?,fact_number_unit,lower,779,20.8
+auto_00612,kinova_gen3_user_guide,129,semantic,哪一页介绍了安全说明相关内容？,Which page describes safety related information?,semantic_keyword,Table 73: Interface Safety items,749,16.48
+auto_00613,kinova_gen3_user_guide,129,semantic,这页主要讲的是哪方面的安全说明内容？,What safety topic is mainly explained on this page?,semantic_topic,Table 73: Interface Safety items,749,16.48
+auto_00614,kinova_gen3_user_guide,131,semantic,哪一页介绍了overview相关内容？,Which page describes overview related information?,semantic_keyword,Kinova® KortexT Web App User Guide,1126,20.17
+auto_00615,kinova_gen3_user_guide,131,semantic,这页主要讲的是哪方面的overview内容？,What overview topic is mainly explained on this page?,semantic_topic,Kinova® KortexT Web App User Guide,1126,20.17
+auto_00616,kinova_gen3_user_guide,138,navigation,哪一页提到了紧急停止相关条目？,Which page mentions the emergency stop entry?,navigation_emstop,the mode / state:,1439,14.4
+auto_00617,kinova_gen3_user_guide,138,navigation,哪一页包含“the mode / state:”这类导航信息？,Which page contains navigation information about 'the mode / state:'?,navigation_heading,the mode / state:,1439,14.4
+auto_00618,kinova_gen3_user_guide,140,generic,哪一页讨论了“Figure 49: Pose joystick panel”？,Which page discusses 'Figure 49: Pose joystick panel'?,generic_heading,Figure 49: Pose joystick panel,2139,16.869999999999997
+auto_00619,kinova_gen3_user_guide,140,generic,哪一页包含这一主题的说明内容？,Which page contains information about this topic?,generic_topic,Figure 49: Pose joystick panel,2139,16.869999999999997
+auto_00620,kinova_gen3_user_guide,141,fact,这页中关于最大工作半径的参数是什么？,What specification about reach is given on this page?,fact_keyword,•Tool - linear and angular in tool reference frame,2054,16.97
+auto_00621,kinova_gen3_user_guide,141,fact,哪一页提到了最大工作半径相关参数？,Which page mentions reach related specifications?,fact_page_lookup,•Tool - linear and angular in tool reference frame,2054,16.97
+auto_00622,kinova_gen3_user_guide,141,fact,哪一页介绍了“•Tool - linear and angular in tool refer”相关内容？,Which page discusses '•Tool - linear and angular in tool refer'?,fact_heading,•Tool - linear and angular in tool reference frame,2054,16.97
+auto_00623,kinova_gen3_user_guide,144,fact,这页中关于自由度的参数是什么？,What specification about dof is given on this page?,fact_keyword,Admittance modes panel,2325,16.43
+auto_00624,kinova_gen3_user_guide,144,fact,哪一页提到了自由度相关参数？,Which page mentions dof related specifications?,fact_page_lookup,Admittance modes panel,2325,16.43
+auto_00625,kinova_gen3_user_guide,144,fact,哪一页介绍了“Admittance modes panel”相关内容？,Which page discusses 'Admittance modes panel'?,fact_heading,Admittance modes panel,2325,16.43
+auto_00626,kinova_gen3_user_guide,146,fact,这页中关于额定负载的参数是什么？,What specification about payload is given on this page?,fact_keyword,Robot,1107,16.93
+auto_00627,kinova_gen3_user_guide,146,fact,哪一页提到了额定负载相关参数？,Which page mentions payload related specifications?,fact_page_lookup,Robot,1107,16.93
+auto_00628,kinova_gen3_user_guide,146,fact,哪一页介绍了“Robot”相关内容？,Which page discusses 'Robot'?,fact_heading,Robot,1107,16.93
+auto_00629,kinova_gen3_user_guide,151,semantic,哪一页介绍了安全说明相关内容？,Which page describes safety related information?,semantic_keyword,Functions,1118,15.85
+auto_00630,kinova_gen3_user_guide,151,semantic,这页主要讲的是哪方面的安全说明内容？,What safety topic is mainly explained on this page?,semantic_topic,Functions,1118,15.85
+auto_00631,kinova_gen3_user_guide,158,semantic,哪一页介绍了安全说明相关内容？,Which page describes safety related information?,semantic_keyword,to available Wi-Fi networks.,1177,16.009999999999998
+auto_00632,kinova_gen3_user_guide,158,semantic,这页主要讲的是哪方面的安全说明内容？,What safety topic is mainly explained on this page?,semantic_topic,to available Wi-Fi networks.,1177,16.009999999999998
+auto_00633,kinova_gen3_user_guide,162,fact,这页中关于最大工作半径的参数是什么？,What specification about reach is given on this page?,fact_keyword,effector.,1719,16.08
+auto_00634,kinova_gen3_user_guide,162,fact,哪一页提到了最大工作半径相关参数？,Which page mentions reach related specifications?,fact_page_lookup,effector.,1719,16.08
+auto_00635,kinova_gen3_user_guide,162,fact,哪一页介绍了“effector.”相关内容？,Which page discusses 'effector.'?,fact_heading,effector.,1719,16.08
+auto_00636,kinova_gen3_user_guide,165,semantic,哪一页介绍了module相关内容？,Which page describes module related information?,semantic_keyword,Actions > New Sequence,1452,15.74
+auto_00637,kinova_gen3_user_guide,165,semantic,这页主要讲的是哪方面的module内容？,What module topic is mainly explained on this page?,semantic_topic,Actions > New Sequence,1452,15.74
+auto_00638,kinova_gen3_user_guide,166,semantic,哪一页介绍了组成部件相关内容？,Which page describes components related information?,semantic_keyword,Creating a new sequence in teaching mode,1922,16.24
+auto_00639,kinova_gen3_user_guide,166,semantic,这页主要讲的是哪方面的组成部件内容？,What components topic is mainly explained on this page?,semantic_topic,Creating a new sequence in teaching mode,1922,16.24
+auto_00640,kinova_gen3_user_guide,171,layout,哪一页包含尺寸图或尺寸示意？,Which page contains the dimensions diagram?,layout_dimensions,Properties,1705,19.36
+auto_00641,kinova_gen3_user_guide,171,layout,哪一页展示了“Properties”的图示页面？,Which page visually presents 'Properties'?,layout_heading,Properties,1705,19.36
+auto_00642,kinova_gen3_user_guide,174,fact,这页中关于自由度的参数是什么？,What specification about degrees of freedom is given on this page?,fact_keyword,System Information,1058,17.18
+auto_00643,kinova_gen3_user_guide,174,fact,哪一页提到了自由度相关参数？,Which page mentions degrees of freedom related specifications?,fact_page_lookup,System Information,1058,17.18
+auto_00644,kinova_gen3_user_guide,174,fact,哪一页介绍了“System Information”相关内容？,Which page discusses 'System Information'?,fact_heading,System Information,1058,17.18
+auto_00645,kinova_gen3_user_guide,175,fact,这页中关于力矩的参数是什么？,What specification about torque is given on this page?,fact_keyword,tngie nn,1087,16.93
+auto_00646,kinova_gen3_user_guide,175,fact,哪一页提到了力矩相关参数？,Which page mentions torque related specifications?,fact_page_lookup,tngie nn,1087,16.93
+auto_00647,kinova_gen3_user_guide,175,fact,哪一页包含参数值 3M？,Which page contains the specification value 3M?,fact_number_unit,tngie nn,1087,16.93
+auto_00648,kinova_gen3_user_guide,177,semantic,哪一页介绍了错误说明相关内容？,Which page describes error related information?,semantic_keyword,Robot upgrade fi les are bundled as a package (.swu fi le).,1741,17.22
+auto_00649,kinova_gen3_user_guide,177,semantic,这页主要讲的是哪方面的错误说明内容？,What error topic is mainly explained on this page?,semantic_topic,Robot upgrade fi les are bundled as a package (.swu fi le).,1741,17.22
+auto_00650,kinova_gen3_user_guide,181,semantic,哪一页介绍了module相关内容？,Which page describes module related information?,semantic_keyword,Kinova® KortexT Developer Guide,2001,17.1
+auto_00651,kinova_gen3_user_guide,181,semantic,这页主要讲的是哪方面的module内容？,What module topic is mainly explained on this page?,semantic_topic,Kinova® KortexT Developer Guide,2001,17.1
+auto_00652,kinova_gen3_user_guide,182,generic,哪一页讨论了“Actuators”？,Which page discusses 'Actuators'?,generic_heading,Actuators,1228,15.93
+auto_00653,kinova_gen3_user_guide,182,generic,哪一页包含这一主题的说明内容？,Which page contains information about this topic?,generic_topic,Actuators,1228,15.93
+auto_00654,kinova_gen3_user_guide,183,semantic,哪一页介绍了module相关内容？,Which page describes module related information?,semantic_keyword,control loop via a UDPTransportClient on port 10001.,2207,17.09
+auto_00655,kinova_gen3_user_guide,183,semantic,这页主要讲的是哪方面的module内容？,What module topic is mainly explained on this page?,semantic_topic,control loop via a UDPTransportClient on port 10001.,2207,17.09
+auto_00656,kinova_gen3_user_guide,194,fact,这页中关于额定负载的参数是什么？,What specification about payload is given on this page?,fact_keyword,kinovarobotics/matlab kortex.,2008,19.05
+auto_00657,kinova_gen3_user_guide,194,fact,哪一页提到了额定负载相关参数？,Which page mentions payload related specifications?,fact_page_lookup,kinovarobotics/matlab kortex.,2008,19.05
+auto_00658,kinova_gen3_user_guide,194,fact,哪一页包含参数值 30 ms？,Which page contains the specification value 30 ms?,fact_number_unit,kinovarobotics/matlab kortex.,2008,19.05
+auto_00659,kinova_gen3_user_guide,198,layout,哪一页包含尺寸图或尺寸示意？,Which page contains the dimensions diagram?,layout_dimensions,Interface module frame,541,17.2
+auto_00660,kinova_gen3_user_guide,198,layout,哪一页包含 7 自由度相关尺寸图？,Which page contains the 7 DoF dimensions figure?,layout_7dof,Interface module frame,541,17.2
+auto_00661,kinova_gen3_user_guide,198,layout,哪一页展示了“Interface module frame”的图示页面？,Which page visually presents 'Interface module frame'?,layout_heading,Interface module frame,541,17.2
+auto_00662,kinova_gen3_user_guide,200,layout,哪一页包含尺寸图或尺寸示意？,Which page contains the dimensions diagram?,layout_dimensions,Interface module frame,469,17.2
+auto_00663,kinova_gen3_user_guide,200,layout,哪一页展示了“Interface module frame”的图示页面？,Which page visually presents 'Interface module frame'?,layout_heading,Interface module frame,469,17.2
+auto_00664,kinova_gen3_user_guide,201,fact,这页中关于传感器的参数是什么？,What specification about sensor is given on this page?,fact_keyword,Transformation,905,17.7
+auto_00665,kinova_gen3_user_guide,201,fact,哪一页提到了传感器相关参数？,Which page mentions sensor related specifications?,fact_page_lookup,Transformation,905,17.7
+auto_00666,kinova_gen3_user_guide,201,fact,哪一页介绍了“Transformation”相关内容？,Which page discusses 'Transformation'?,fact_heading,Transformation,905,17.7
+auto_00667,kinova_gen3_user_guide,206,fact,这页中关于最大工作半径的参数是什么？,What specification about reach is given on this page?,fact_keyword,7 DoF singular configurations,1878,17.799999999999997
+auto_00668,kinova_gen3_user_guide,206,fact,哪一页提到了最大工作半径相关参数？,Which page mentions reach related specifications?,fact_page_lookup,7 DoF singular configurations,1878,17.799999999999997
+auto_00669,kinova_gen3_user_guide,206,fact,哪一页包含参数值 90°？,Which page contains the specification value 90°?,fact_number_unit,7 DoF singular configurations,1878,17.799999999999997
+auto_00670,kinova_gen3_user_guide,207,fact,这页中关于最大工作半径的参数是什么？,What specification about reach is given on this page?,fact_keyword,Singularity,1845,17.2
+auto_00671,kinova_gen3_user_guide,207,fact,哪一页提到了最大工作半径相关参数？,Which page mentions reach related specifications?,fact_page_lookup,Singularity,1845,17.2
+auto_00672,kinova_gen3_user_guide,207,fact,哪一页介绍了“Singularity”相关内容？,Which page discusses 'Singularity'?,fact_heading,Singularity,1845,17.2
+auto_00673,kinova_gen3_user_guide,215,semantic,哪一页介绍了组成部件相关内容？,Which page describes components related information?,semantic_keyword,Maintenance and troubleshooting,610,16.09
+auto_00674,kinova_gen3_user_guide,215,semantic,这页主要讲的是哪方面的组成部件内容？,What components topic is mainly explained on this page?,semantic_topic,Maintenance and troubleshooting,610,16.09
+auto_00675,kinova_gen3_user_guide,216,fact,这页中关于力/力矩的参数是什么？,What specification about force is given on this page?,fact_keyword,screw which can be adjusted to tighten the clamp as needed.,1440,16.04
+auto_00676,kinova_gen3_user_guide,216,fact,哪一页提到了力/力矩相关参数？,Which page mentions force related specifications?,fact_page_lookup,screw which can be adjusted to tighten the clamp as needed.,1440,16.04
+auto_00677,kinova_gen3_user_guide,216,fact,哪一页包含参数值 2 mm？,Which page contains the specification value 2 mm?,fact_number_unit,screw which can be adjusted to tighten the clamp as needed.,1440,16.04
+auto_00678,kinova_gen3_user_guide,217,fact,这页中关于传感器的参数是什么？,What specification about sensor is given on this page?,fact_keyword,kinovarobotics.com/knowledge-hub/gen3-ultra-lightweight-robot,2158,17.65
+auto_00679,kinova_gen3_user_guide,217,fact,哪一页提到了传感器相关参数？,Which page mentions sensor related specifications?,fact_page_lookup,kinovarobotics.com/knowledge-hub/gen3-ultra-lightweight-robot,2158,17.65
+auto_00680,kinova_gen3_user_guide,217,fact,哪一页介绍了“kinovarobotics.com/knowledge-hub/gen3-ul”相关内容？,Which page discusses 'kinovarobotics.com/knowledge-hub/gen3-ul'?,fact_heading,kinovarobotics.com/knowledge-hub/gen3-ultra-lightweight-robot,2158,17.65
+auto_00681,kinova_gen3_user_guide,218,semantic,哪一页介绍了安全说明相关内容？,Which page describes safety related information?,semantic_keyword,handling.,1327,15.93
+auto_00682,kinova_gen3_user_guide,218,semantic,这页主要讲的是哪方面的安全说明内容？,What safety topic is mainly explained on this page?,semantic_topic,handling.,1327,15.93
+auto_00683,kinova_gen3_user_guide,219,fact,这页中关于额定负载的参数是什么？,What specification about payload is given on this page?,fact_keyword,Table 115: LED interpretation,1150,15.84
+auto_00684,kinova_gen3_user_guide,219,fact,哪一页提到了额定负载相关参数？,Which page mentions payload related specifications?,fact_page_lookup,Table 115: LED interpretation,1150,15.84
+auto_00685,kinova_gen3_user_guide,219,fact,哪一页介绍了“Table 115: LED interpretation”相关内容？,Which page discusses 'Table 115: LED interpretation'?,fact_heading,Table 115: LED interpretation,1150,15.84
+auto_00686,robotiq_2f_manual,1,semantic,哪一页介绍了安装说明相关内容？,Which page describes installation related information?,semantic_keyword,Revisions,923,16.0
+auto_00687,robotiq_2f_manual,1,semantic,这页主要讲的是哪方面的安装说明内容？,What installation topic is mainly explained on this page?,semantic_topic,Revisions,923,16.0
+auto_00688,robotiq_2f_manual,3,layout,哪一页包含尺寸图或尺寸示意？,Which page contains the dimensions diagram?,layout_dimensions,4.8.4. Gripper Node,808,17.2
+auto_00689,robotiq_2f_manual,3,layout,哪一页展示了“4.8.4. Gripper Node”的图示页面？,Which page visually presents '4.8.4. Gripper Node'?,layout_heading,4.8.4. Gripper Node,808,17.2
+auto_00690,robotiq_2f_manual,5,fact,这页中关于夹爪的参数是什么？,What specification about gripper is given on this page?,fact_keyword,Revisions,1307,18.0
+auto_00691,robotiq_2f_manual,5,fact,哪一页提到了夹爪相关参数？,Which page mentions gripper related specifications?,fact_page_lookup,Revisions,1307,18.0
+auto_00692,robotiq_2f_manual,5,fact,哪一页介绍了“Revisions”相关内容？,Which page discusses 'Revisions'?,fact_heading,Revisions,1307,18.0
+auto_00693,robotiq_2f_manual,8,layout,哪一页包含尺寸图或尺寸示意？,Which page contains the dimensions diagram?,layout_dimensions,1. General Presentation,1278,17.84
+auto_00694,robotiq_2f_manual,8,layout,哪一页展示了“1. General Presentation”的图示页面？,Which page visually presents '1. General Presentation'?,layout_heading,1. General Presentation,1278,17.84
+auto_00695,robotiq_2f_manual,9,generic,哪一页讨论了“1.1. Gripper nomenclature”？,Which page discusses '1.1. Gripper nomenclature'?,generic_heading,1.1. Gripper nomenclature,1046,14.6
+auto_00696,robotiq_2f_manual,9,generic,哪一页包含这一主题的说明内容？,Which page contains information about this topic?,generic_topic,1.1. Gripper nomenclature,1046,14.6
+auto_00697,robotiq_2f_manual,10,layout,哪一页包含尺寸图或尺寸示意？,Which page contains the dimensions diagram?,layout_dimensions,1.2. 2F-85 vs. 2F-140,565,19.4
+auto_00698,robotiq_2f_manual,10,layout,哪一页展示了“1.2. 2F-85 vs. 2F-140”的图示页面？,Which page visually presents '1.2. 2F-85 vs. 2F-140'?,layout_heading,1.2. 2F-85 vs. 2F-140,565,19.4
+auto_00699,robotiq_2f_manual,14,fact,这页中关于感知能力的参数是什么？,What specification about sensing is given on this page?,fact_keyword,1.4. Setup and control,1149,15.84
+auto_00700,robotiq_2f_manual,14,fact,哪一页提到了感知能力相关参数？,Which page mentions sensing related specifications?,fact_page_lookup,1.4. Setup and control,1149,15.84
+auto_00701,robotiq_2f_manual,14,fact,哪一页包含参数值 24V？,Which page contains the specification value 24V?,fact_number_unit,1.4. Setup and control,1149,15.84
+auto_00702,robotiq_2f_manual,15,semantic,哪一页介绍了组成部件相关内容？,Which page describes components related information?,semantic_keyword,2.Safety,707,16.17
+auto_00703,robotiq_2f_manual,15,semantic,这页主要讲的是哪方面的组成部件内容？,What components topic is mainly explained on this page?,semantic_topic,2.Safety,707,16.17
+auto_00704,robotiq_2f_manual,16,fact,这页中关于额定负载的参数是什么？,What specification about payload is given on this page?,fact_keyword,2.1. Warning,1463,14.42
+auto_00705,robotiq_2f_manual,16,fact,哪一页提到了额定负载相关参数？,Which page mentions payload related specifications?,fact_page_lookup,2.1. Warning,1463,14.42
+auto_00706,robotiq_2f_manual,16,fact,哪一页介绍了“2.1. Warning”相关内容？,Which page discusses '2.1. Warning'?,fact_heading,2.1. Warning,1463,14.42
+auto_00707,robotiq_2f_manual,18,semantic,哪一页介绍了安装说明相关内容？,Which page describes installation related information?,semantic_keyword,3. Installation,939,15.44
+auto_00708,robotiq_2f_manual,18,semantic,这页主要讲的是哪方面的安装说明内容？,What installation topic is mainly explained on this page?,semantic_topic,3. Installation,939,15.44
+auto_00709,robotiq_2f_manual,19,generic,哪一页讨论了“3.1. Scope of Delivery”？,Which page discusses '3.1. Scope of Delivery'?,generic_heading,3.1. Scope of Delivery,1454,17.199999999999996
+auto_00710,robotiq_2f_manual,19,generic,哪一页包含这一主题的说明内容？,Which page contains information about this topic?,generic_topic,3.1. Scope of Delivery,1454,17.199999999999996
+auto_00711,robotiq_2f_manual,20,semantic,哪一页介绍了安装说明相关内容？,Which page describes installation related information?,semantic_keyword,CONDITION,1430,18.6
+auto_00712,robotiq_2f_manual,20,semantic,这页主要讲的是哪方面的安装说明内容？,What installation topic is mainly explained on this page?,semantic_topic,CONDITION,1430,18.6
+auto_00713,robotiq_2f_manual,25,generic,哪一页讨论了“3.5. Electrical Setup”？,Which page discusses '3.5. Electrical Setup'?,generic_heading,3.5. Electrical Setup,1155,16.18
+auto_00714,robotiq_2f_manual,25,generic,哪一页包含这一主题的说明内容？,Which page contains information about this topic?,generic_topic,3.5. Electrical Setup,1155,16.18
+auto_00715,robotiq_2f_manual,26,layout,哪一页包含结构/原理示意图？,Which page contains the schematic diagram?,layout_schematic,3.5.1. Pinout Interface,676,16.28
+auto_00716,robotiq_2f_manual,26,layout,哪一页展示了“3.5.1. Pinout Interface”的图示页面？,Which page visually presents '3.5.1. Pinout Interface'?,layout_heading,3.5.1. Pinout Interface,676,16.28
+auto_00717,robotiq_2f_manual,27,layout,哪一页包含结构/原理示意图？,Which page contains the schematic diagram?,layout_schematic,2-Finger Gripper,521,16.919999999999998
+auto_00718,robotiq_2f_manual,27,layout,哪一页展示了“2-Finger Gripper”的图示页面？,Which page visually presents '2-Finger Gripper'?,layout_heading,2-Finger Gripper,521,16.919999999999998
+auto_00719,robotiq_2f_manual,28,fact,这页中关于额定负载的参数是什么？,What specification about payload is given on this page?,fact_keyword,robot:,1454,18.04
+auto_00720,robotiq_2f_manual,28,fact,哪一页提到了额定负载相关参数？,Which page mentions payload related specifications?,fact_page_lookup,robot:,1454,18.04
+auto_00721,robotiq_2f_manual,28,fact,哪一页介绍了“robot:”相关内容？,Which page discusses 'robot:'?,fact_heading,robot:,1454,18.04
+auto_00722,robotiq_2f_manual,31,semantic,哪一页介绍了安装说明相关内容？,Which page describes installation related information?,semantic_keyword,3.7.1. Installing URCap Package,1778,14.32
+auto_00723,robotiq_2f_manual,31,semantic,这页主要讲的是哪方面的安装说明内容？,What installation topic is mainly explained on this page?,semantic_topic,3.7.1. Installing URCap Package,1778,14.32
+auto_00724,robotiq_2f_manual,37,semantic,哪一页介绍了状态说明相关内容？,Which page describes status related information?,semantic_keyword,4.Control,1665,15.05
+auto_00725,robotiq_2f_manual,37,semantic,这页主要讲的是哪方面的状态说明内容？,What status topic is mainly explained on this page?,semantic_topic,4.Control,1665,15.05
+auto_00726,robotiq_2f_manual,39,generic,哪一页讨论了“4.2. Gripper Register Mapping”？,Which page discusses '4.2. Gripper Register Mapping'?,generic_heading,4.2. Gripper Register Mapping,405,14.64
+auto_00727,robotiq_2f_manual,39,generic,哪一页包含这一主题的说明内容？,Which page contains information about this topic?,generic_topic,4.2. Gripper Register Mapping,405,14.64
+auto_00728,robotiq_2f_manual,40,fact,这页中关于最大工作半径的参数是什么？,What specification about reach is given on this page?,fact_keyword,4.3. Robot Output Registers & Functionalities,1669,17.58
+auto_00729,robotiq_2f_manual,40,fact,哪一页提到了最大工作半径相关参数？,Which page mentions reach related specifications?,fact_page_lookup,4.3. Robot Output Registers & Functionalities,1669,17.58
+auto_00730,robotiq_2f_manual,40,fact,哪一页介绍了“4.3. Robot Output Registers & Functional”相关内容？,Which page discusses '4.3. Robot Output Registers & Functional'?,fact_heading,4.3. Robot Output Registers & Functionalities,1669,17.58
+auto_00731,robotiq_2f_manual,41,fact,这页中关于夹爪的参数是什么？,What specification about gripper is given on this page?,fact_keyword,• Ox0 - Closing auto-release,1186,18.05
+auto_00732,robotiq_2f_manual,41,fact,哪一页提到了夹爪相关参数？,Which page mentions gripper related specifications?,fact_page_lookup,• Ox0 - Closing auto-release,1186,18.05
+auto_00733,robotiq_2f_manual,41,fact,哪一页包含参数值 85 mm？,Which page contains the specification value 85 mm?,fact_number_unit,• Ox0 - Closing auto-release,1186,18.05
+auto_00734,robotiq_2f_manual,42,generic,哪一页讨论了“Symbol”？,Which page discusses 'Symbol'?,generic_heading,Symbol,689,15.8
+auto_00735,robotiq_2f_manual,42,generic,哪一页包含这一主题的说明内容？,Which page contains information about this topic?,generic_topic,Symbol,689,15.8
+auto_00736,robotiq_2f_manual,44,generic,哪一页讨论了“Register: RESERVED”？,Which page discusses 'Register: RESERVED'?,generic_heading,Register: RESERVED,1175,17.84
+auto_00737,robotiq_2f_manual,44,generic,哪一页包含这一主题的说明内容？,Which page contains information about this topic?,generic_topic,Register: RESERVED,1175,17.84
+auto_00738,robotiq_2f_manual,46,fact,这页中关于额定负载的参数是什么？,What specification about payload is given on this page?,fact_keyword,4.5. Picking Features,1072,17.439999999999998
+auto_00739,robotiq_2f_manual,46,fact,哪一页提到了额定负载相关参数？,Which page mentions payload related specifications?,fact_page_lookup,4.5. Picking Features,1072,17.439999999999998
+auto_00740,robotiq_2f_manual,46,fact,哪一页介绍了“4.5. Picking Features”相关内容？,Which page discusses '4.5. Picking Features'?,fact_heading,4.5. Picking Features,1072,17.439999999999998
+auto_00741,robotiq_2f_manual,51,fact,这页中关于最大工作半径的参数是什么？,What specification about reach is given on this page?,fact_keyword,4.5.2. Re-Grasp,917,14.64
+auto_00742,robotiq_2f_manual,51,fact,哪一页提到了最大工作半径相关参数？,Which page mentions reach related specifications?,fact_page_lookup,4.5.2. Re-Grasp,917,14.64
+auto_00743,robotiq_2f_manual,51,fact,哪一页介绍了“4.5.2. Re-Grasp”相关内容？,Which page discusses '4.5.2. Re-Grasp'?,fact_heading,4.5.2. Re-Grasp,917,14.64
+auto_00744,robotiq_2f_manual,52,fact,这页中关于额定负载的参数是什么？,What specification about payload is given on this page?,fact_keyword,4.5.3. Object detection,1420,15.079999999999998
+auto_00745,robotiq_2f_manual,52,fact,哪一页提到了额定负载相关参数？,Which page mentions payload related specifications?,fact_page_lookup,4.5.3. Object detection,1420,15.079999999999998
+auto_00746,robotiq_2f_manual,52,fact,哪一页介绍了“4.5.3. Object detection”相关内容？,Which page discusses '4.5.3. Object detection'?,fact_heading,4.5.3. Object detection,1420,15.079999999999998
+auto_00747,robotiq_2f_manual,53,fact,这页中关于最大工作半径的参数是什么？,What specification about reach is given on this page?,fact_keyword,4.6. Control Logic,755,15.279999999999998
+auto_00748,robotiq_2f_manual,53,fact,哪一页提到了最大工作半径相关参数？,Which page mentions reach related specifications?,fact_page_lookup,4.6. Control Logic,755,15.279999999999998
+auto_00749,robotiq_2f_manual,53,fact,哪一页介绍了“4.6. Control Logic”相关内容？,Which page discusses '4.6. Control Logic'?,fact_heading,4.6. Control Logic,755,15.279999999999998
+auto_00750,robotiq_2f_manual,55,generic,哪一页讨论了“4.7.1. Connection Setup”？,Which page discusses '4.7.1. Connection Setup'?,generic_heading,4.7.1. Connection Setup,1202,16.8
+auto_00751,robotiq_2f_manual,55,generic,哪一页包含这一主题的说明内容？,Which page contains information about this topic?,generic_topic,4.7.1. Connection Setup,1202,16.8
+auto_00752,robotiq_2f_manual,71,semantic,哪一页介绍了安装说明相关内容？,Which page describes installation related information?,semantic_keyword,4.8.1. Gripper Dashboard,1201,16.4
+auto_00753,robotiq_2f_manual,71,semantic,这页主要讲的是哪方面的安装说明内容？,What installation topic is mainly explained on this page?,semantic_topic,4.8.1. Gripper Dashboard,1201,16.4
+auto_00754,robotiq_2f_manual,72,semantic,哪一页介绍了安装说明相关内容？,Which page describes installation related information?,semantic_keyword,Multiple Grippers,1625,15.36
+auto_00755,robotiq_2f_manual,72,semantic,这页主要讲的是哪方面的安装说明内容？,What installation topic is mainly explained on this page?,semantic_topic,Multiple Grippers,1625,15.36
+auto_00756,robotiq_2f_manual,76,layout,哪一页包含尺寸图或尺寸示意？,Which page contains the dimensions diagram?,layout_dimensions,Dashboard,997,13.68
+auto_00757,robotiq_2f_manual,76,layout,哪一页展示了“Dashboard”的图示页面？,Which page visually presents 'Dashboard'?,layout_heading,Dashboard,997,13.68
+auto_00758,robotiq_2f_manual,78,semantic,哪一页介绍了安装说明相关内容？,Which page describes installation related information?,semantic_keyword,4.8.3. Gripper Toolbar,1342,16.08
+auto_00759,robotiq_2f_manual,78,semantic,这页主要讲的是哪方面的安装说明内容？,What installation topic is mainly explained on this page?,semantic_topic,4.8.3. Gripper Toolbar,1342,16.08
+auto_00760,robotiq_2f_manual,82,generic,哪一页讨论了“Gripper operation window”？,Which page discusses 'Gripper operation window'?,generic_heading,Gripper operation window,971,13.65
+auto_00761,robotiq_2f_manual,82,generic,哪一页包含这一主题的说明内容？,Which page contains information about this topic?,generic_topic,Gripper operation window,971,13.65
+auto_00762,robotiq_2f_manual,88,generic,哪一页讨论了“Edit action screen”？,Which page discusses 'Edit action screen'?,generic_heading,Edit action screen,951,14.36
+auto_00763,robotiq_2f_manual,88,generic,哪一页包含这一主题的说明内容？,Which page contains information about this topic?,generic_topic,Edit action screen,951,14.36
+auto_00764,robotiq_2f_manual,91,generic,哪一页讨论了“Warning”？,Which page discusses 'Warning'?,generic_heading,Warning,1194,15.92
+auto_00765,robotiq_2f_manual,91,generic,哪一页包含这一主题的说明内容？,Which page contains information about this topic?,generic_topic,Warning,1194,15.92
+auto_00766,robotiq_2f_manual,92,semantic,哪一页介绍了安装说明相关内容？,Which page describes installation related information?,semantic_keyword,Grip Check,668,14.599999999999998
+auto_00767,robotiq_2f_manual,92,semantic,这页主要讲的是哪方面的安装说明内容？,What installation topic is mainly explained on this page?,semantic_topic,Grip Check,668,14.599999999999998
+auto_00768,robotiq_2f_manual,93,semantic,哪一页介绍了错误说明相关内容？,Which page describes error related information?,semantic_keyword,Dashboard,1328,14.8
+auto_00769,robotiq_2f_manual,93,semantic,这页主要讲的是哪方面的错误说明内容？,What error topic is mainly explained on this page?,semantic_topic,Dashboard,1328,14.8
+auto_00770,robotiq_2f_manual,96,generic,哪一页讨论了“Advanced Gripper Functions”？,Which page discusses 'Advanced Gripper Functions'?,generic_heading,Advanced Gripper Functions,2581,13.68
+auto_00771,robotiq_2f_manual,96,generic,哪一页包含这一主题的说明内容？,Which page contains information about this topic?,generic_topic,Advanced Gripper Functions,2581,13.68
+auto_00772,robotiq_2f_manual,97,generic,哪一页讨论了“Name”？,Which page discusses 'Name'?,generic_heading,Name,2358,13.84
+auto_00773,robotiq_2f_manual,97,generic,哪一页包含这一主题的说明内容？,Which page contains information about this topic?,generic_topic,Name,2358,13.84
+auto_00774,robotiq_2f_manual,102,layout,哪一页包含尺寸图或尺寸示意？,Which page contains the dimensions diagram?,layout_dimensions,6.Specifications,585,14.51
+auto_00775,robotiq_2f_manual,102,layout,哪一页展示了“6.Specifications”的图示页面？,Which page visually presents '6.Specifications'?,layout_heading,6.Specifications,585,14.51
+auto_00776,robotiq_2f_manual,111,generic,哪一页讨论了“Coupling for PCD 56 with 8 x M4”？,Which page discusses 'Coupling for PCD 56 with 8 x M4'?,generic_heading,Coupling for PCD 56 with 8 x M4,584,14.5
+auto_00777,robotiq_2f_manual,111,generic,哪一页包含这一主题的说明内容？,Which page contains information about this topic?,generic_topic,Coupling for PCD 56 with 8 x M4,584,14.5
+auto_00778,robotiq_2f_manual,115,fact,这页中关于力/力矩的参数是什么？,What specification about force is given on this page?,fact_keyword,6.1.2. Fingertips,1313,17.0
+auto_00779,robotiq_2f_manual,115,fact,哪一页提到了力/力矩相关参数？,Which page mentions force related specifications?,fact_page_lookup,6.1.2. Fingertips,1313,17.0
+auto_00780,robotiq_2f_manual,115,fact,哪一页包含参数值 100 mm？,Which page contains the specification value 100 mm?,fact_number_unit,6.1.2. Fingertips,1313,17.0
+auto_00781,robotiq_2f_manual,118,fact,这页中关于力/力矩的参数是什么？,What specification about force is given on this page?,fact_keyword,6.2. Mechanical specifications,1202,21.6
+auto_00782,robotiq_2f_manual,118,fact,哪一页提到了力/力矩相关参数？,Which page mentions force related specifications?,fact_page_lookup,6.2. Mechanical specifications,1202,21.6
+auto_00783,robotiq_2f_manual,118,fact,哪一页包含参数值 85 mm？,Which page contains the specification value 85 mm?,fact_number_unit,6.2. Mechanical specifications,1202,21.6
+auto_00784,robotiq_2f_manual,119,fact,这页中关于额定负载的参数是什么？,What specification about payload is given on this page?,fact_keyword,6.2.1. Payload and force,577,16.16
+auto_00785,robotiq_2f_manual,119,fact,哪一页提到了额定负载相关参数？,Which page mentions payload related specifications?,fact_page_lookup,6.2.1. Payload and force,577,16.16
+auto_00786,robotiq_2f_manual,119,fact,哪一页介绍了“6.2.1. Payload and force”相关内容？,Which page discusses '6.2.1. Payload and force'?,fact_heading,6.2.1. Payload and force,577,16.16
+auto_00787,robotiq_2f_manual,120,fact,这页中关于额定负载的参数是什么？,What specification about payload is given on this page?,fact_keyword,The Gripper is self-locking.,1389,18.15
+auto_00788,robotiq_2f_manual,120,fact,哪一页提到了额定负载相关参数？,Which page mentions payload related specifications?,fact_page_lookup,The Gripper is self-locking.,1389,18.15
+auto_00789,robotiq_2f_manual,120,fact,哪一页包含参数值 5 kg？,Which page contains the specification value 5 kg?,fact_number_unit,The Gripper is self-locking.,1389,18.15
+auto_00790,robotiq_2f_manual,125,fact,这页中关于额定负载的参数是什么？,What specification about payload is given on this page?,fact_keyword,6.2.4. Moment and force limits,961,19.62
+auto_00791,robotiq_2f_manual,125,fact,哪一页提到了额定负载相关参数？,Which page mentions payload related specifications?,fact_page_lookup,6.2.4. Moment and force limits,961,19.62
+auto_00792,robotiq_2f_manual,125,fact,哪一页包含参数值 5 Nm？,Which page contains the specification value 5 Nm?,fact_number_unit,6.2.4. Moment and force limits,961,19.62
+auto_00793,robotiq_2f_manual,126,fact,哪一页包含参数值 1W？,Which page contains the specification value 1W?,fact_number_unit,6.3. Electrical specifications,188,15.160000000000002
+auto_00794,robotiq_2f_manual,126,fact,哪一页介绍了“6.3. Electrical specifications”相关内容？,Which page discusses '6.3. Electrical specifications'?,fact_heading,6.3. Electrical specifications,188,15.160000000000002
+auto_00795,robotiq_2f_manual,128,semantic,哪一页介绍了维护说明相关内容？,Which page describes maintenance related information?,semantic_keyword,Semiannually,1144,19.12
+auto_00796,robotiq_2f_manual,128,semantic,这页主要讲的是哪方面的维护说明内容？,What maintenance topic is mainly explained on this page?,semantic_topic,Semiannually,1144,19.12
+auto_00797,robotiq_2f_manual,129,semantic,哪一页介绍了维护说明相关内容？,Which page describes maintenance related information?,semantic_keyword,"Note that each screw uses a tooth lock washer, do not lose them.",1286,13.84
+auto_00798,robotiq_2f_manual,129,semantic,这页主要讲的是哪方面的维护说明内容？,What maintenance topic is mainly explained on this page?,semantic_topic,"Note that each screw uses a tooth lock washer, do not lose them.",1286,13.84
+auto_00799,robotiq_2f_manual,130,semantic,哪一页介绍了维护说明相关内容？,Which page describes maintenance related information?,semantic_keyword,7.2. Periodic inspection,1114,17.08
+auto_00800,robotiq_2f_manual,130,semantic,这页主要讲的是哪方面的维护说明内容？,What maintenance topic is mainly explained on this page?,semantic_topic,7.2. Periodic inspection,1114,17.08
+auto_00801,robotiq_2f_manual,131,semantic,哪一页介绍了维护说明相关内容？,Which page describes maintenance related information?,semantic_keyword,7.3. Fingertip replacement,1072,17.31
+auto_00802,robotiq_2f_manual,131,semantic,这页主要讲的是哪方面的维护说明内容？,What maintenance topic is mainly explained on this page?,semantic_topic,7.3. Fingertip replacement,1072,17.31
+auto_00803,robotiq_2f_manual,132,fact,这页中关于最大工作半径的参数是什么？,What specification about reach is given on this page?,fact_keyword,7.4. Overhaul,654,15.920000000000002
+auto_00804,robotiq_2f_manual,132,fact,哪一页提到了最大工作半径相关参数？,Which page mentions reach related specifications?,fact_page_lookup,7.4. Overhaul,654,15.920000000000002
+auto_00805,robotiq_2f_manual,132,fact,哪一页介绍了“7.4. Overhaul”相关内容？,Which page discusses '7.4. Overhaul'?,fact_heading,7.4. Overhaul,654,15.920000000000002
+auto_00806,robotiq_2f_manual,133,generic,"哪一页讨论了“8. Spare Parts, Kits and Accessories”？","Which page discusses '8. Spare Parts, Kits and Accessories'?",generic_heading,"8. Spare Parts, Kits and Accessories",1630,14.95
+auto_00807,robotiq_2f_manual,133,generic,哪一页包含这一主题的说明内容？,Which page contains information about this topic?,generic_topic,"8. Spare Parts, Kits and Accessories",1630,14.95
+auto_00808,robotiq_2f_manual,134,generic,哪一页讨论了“Ordering”？,Which page discusses 'Ordering'?,generic_heading,Ordering,1860,19.0
+auto_00809,robotiq_2f_manual,134,generic,哪一页包含这一主题的说明内容？,Which page contains information about this topic?,generic_topic,Ordering,1860,19.0
+auto_00810,robotiq_2f_manual,135,generic,哪一页讨论了“Ordering”？,Which page discusses 'Ordering'?,generic_heading,Ordering,1022,15.0
+auto_00811,robotiq_2f_manual,135,generic,哪一页包含这一主题的说明内容？,Which page contains information about this topic?,generic_topic,Ordering,1022,15.0
+auto_00812,robotiq_2f_manual,136,generic,哪一页讨论了“9.Troubleshooting”？,Which page discusses '9.Troubleshooting'?,generic_heading,9.Troubleshooting,1445,16.99
+auto_00813,robotiq_2f_manual,136,generic,哪一页包含这一主题的说明内容？,Which page contains information about this topic?,generic_topic,9.Troubleshooting,1445,16.99
+auto_00814,robotiq_2f_manual,137,semantic,哪一页介绍了安装说明相关内容？,Which page describes installation related information?,semantic_keyword,When using 2-Finger with Universal Robots package:,856,13.8
+auto_00815,robotiq_2f_manual,137,semantic,这页主要讲的是哪方面的安装说明内容？,What installation topic is mainly explained on this page?,semantic_topic,When using 2-Finger with Universal Robots package:,856,13.8
+auto_00816,robotiq_2f_manual,139,fact,这页中关于额定负载的参数是什么？,What specification about payload is given on this page?,fact_keyword,10. Warranty and Patent,2243,17.22
+auto_00817,robotiq_2f_manual,139,fact,哪一页提到了额定负载相关参数？,Which page mentions payload related specifications?,fact_page_lookup,10. Warranty and Patent,2243,17.22
+auto_00818,robotiq_2f_manual,139,fact,哪一页介绍了“10. Warranty and Patent”相关内容？,Which page discusses '10. Warranty and Patent'?,fact_heading,10. Warranty and Patent,2243,17.22
+auto_00819,robotiq_2f_manual,144,semantic,哪一页介绍了安装说明相关内容？,Which page describes installation related information?,semantic_keyword,12.2. Applied standards,960,14.0
+auto_00820,robotiq_2f_manual,144,semantic,这页主要讲的是哪方面的安装说明内容？,What installation topic is mainly explained on this page?,semantic_topic,12.2. Applied standards,960,14.0
+auto_00821,robotiq_hande_manual,3,semantic,哪一页介绍了操作说明相关内容？,Which page describes operation related information?,semantic_keyword,4.Control,890,17.2
+auto_00822,robotiq_hande_manual,3,semantic,这页主要讲的是哪方面的操作说明内容？,What operation topic is mainly explained on this page?,semantic_topic,4.Control,890,17.2
+auto_00823,robotiq_hande_manual,4,layout,哪一页包含尺寸图或尺寸示意？,Which page contains the dimensions diagram?,layout_dimensions,Command window,885,17.2
+auto_00824,robotiq_hande_manual,4,layout,哪一页展示了“Command window”的图示页面？,Which page visually presents 'Command window'?,layout_heading,Command window,885,17.2
+auto_00825,robotiq_hande_manual,12,layout,哪一页包含尺寸图或尺寸示意？,Which page contains the dimensions diagram?,layout_dimensions,1.3. Setup and control,1270,15.52
+auto_00826,robotiq_hande_manual,12,layout,哪一页展示了“1.3. Setup and control”的图示页面？,Which page visually presents '1.3. Setup and control'?,layout_heading,1.3. Setup and control,1270,15.52
+auto_00827,robotiq_hande_manual,13,fact,这页中关于额定负载的参数是什么？,What specification about payload is given on this page?,fact_keyword,2.Safety,1491,16.259999999999998
+auto_00828,robotiq_hande_manual,13,fact,哪一页提到了额定负载相关参数？,Which page mentions payload related specifications?,fact_page_lookup,2.Safety,1491,16.259999999999998
+auto_00829,robotiq_hande_manual,13,fact,哪一页介绍了“2.Safety”相关内容？,Which page discusses '2.Safety'?,fact_heading,2.Safety,1491,16.259999999999998
+auto_00830,robotiq_hande_manual,14,semantic,哪一页介绍了安装说明相关内容？,Which page describes installation related information?,semantic_keyword,• Do not use the Gripper on people or animals.,1333,15.18
+auto_00831,robotiq_hande_manual,14,semantic,这页主要讲的是哪方面的安装说明内容？,What installation topic is mainly explained on this page?,semantic_topic,• Do not use the Gripper on people or animals.,1333,15.18
+auto_00832,robotiq_hande_manual,18,generic,哪一页讨论了“3.3. Environmental and Operating Conditi”？,Which page discusses '3.3. Environmental and Operating Conditi'?,generic_heading,3.3. Environmental and Operating Conditions,339,14.2
+auto_00833,robotiq_hande_manual,18,generic,哪一页包含这一主题的说明内容？,Which page contains information about this topic?,generic_topic,3.3. Environmental and Operating Conditions,339,14.2
+auto_00834,robotiq_hande_manual,19,semantic,哪一页介绍了安装说明相关内容？,Which page describes installation related information?,semantic_keyword,3.4. Mechanical Installation,366,14.08
+auto_00835,robotiq_hande_manual,19,semantic,这页主要讲的是哪方面的安装说明内容？,What installation topic is mainly explained on this page?,semantic_topic,3.4. Mechanical Installation,366,14.08
+auto_00836,robotiq_hande_manual,24,generic,哪一页讨论了“3.5. Electrical Setup”？,Which page discusses '3.5. Electrical Setup'?,generic_heading,3.5. Electrical Setup,992,19.2
+auto_00837,robotiq_hande_manual,24,generic,哪一页包含这一主题的说明内容？,Which page contains information about this topic?,generic_topic,3.5. Electrical Setup,992,19.2
+auto_00838,robotiq_hande_manual,26,layout,哪一页包含结构/原理示意图？,Which page contains the schematic diagram?,layout_schematic,3.5.3. Coupling to wrist,504,16.919999999999998
+auto_00839,robotiq_hande_manual,26,layout,哪一页展示了“3.5.3. Coupling to wrist”的图示页面？,Which page visually presents '3.5.3. Coupling to wrist'?,layout_heading,3.5.3. Coupling to wrist,504,16.919999999999998
+auto_00840,robotiq_hande_manual,28,fact,这页中关于额定负载的参数是什么？,What specification about payload is given on this page?,fact_keyword,3.6. Installation for Universal Robots,1037,14.16
+auto_00841,robotiq_hande_manual,28,fact,哪一页提到了额定负载相关参数？,Which page mentions payload related specifications?,fact_page_lookup,3.6. Installation for Universal Robots,1037,14.16
+auto_00842,robotiq_hande_manual,28,fact,哪一页介绍了“3.6. Installation for Universal Robots”相关内容？,Which page discusses '3.6. Installation for Universal Robots'?,fact_heading,3.6. Installation for Universal Robots,1037,14.16
+auto_00843,robotiq_hande_manual,30,semantic,哪一页介绍了安装说明相关内容？,Which page describes installation related information?,semantic_keyword,3.7.1. Installing URCap Package,1696,15.52
+auto_00844,robotiq_hande_manual,30,semantic,这页主要讲的是哪方面的安装说明内容？,What installation topic is mainly explained on this page?,semantic_topic,3.7.1. Installing URCap Package,1696,15.52
+auto_00845,robotiq_hande_manual,37,semantic,哪一页介绍了状态说明相关内容？,Which page describes status related information?,semantic_keyword,4.Control,1693,14.72
+auto_00846,robotiq_hande_manual,37,semantic,这页主要讲的是哪方面的状态说明内容？,What status topic is mainly explained on this page?,semantic_topic,4.Control,1693,14.72
+auto_00847,robotiq_hande_manual,39,generic,哪一页讨论了“4.2. Gripper Register Mapping”？,Which page discusses '4.2. Gripper Register Mapping'?,generic_heading,4.2. Gripper Register Mapping,446,14.48
+auto_00848,robotiq_hande_manual,39,generic,哪一页包含这一主题的说明内容？,Which page contains information about this topic?,generic_topic,4.2. Gripper Register Mapping,446,14.48
+auto_00849,robotiq_hande_manual,40,fact,这页中关于最大工作半径的参数是什么？,What specification about reach is given on this page?,fact_keyword,4.3. Robot Output Registers & Functionalities,1443,17.66
+auto_00850,robotiq_hande_manual,40,fact,哪一页提到了最大工作半径相关参数？,Which page mentions reach related specifications?,fact_page_lookup,4.3. Robot Output Registers & Functionalities,1443,17.66
+auto_00851,robotiq_hande_manual,40,fact,哪一页介绍了“4.3. Robot Output Registers & Functional”相关内容？,Which page discusses '4.3. Robot Output Registers & Functional'?,fact_heading,4.3. Robot Output Registers & Functionalities,1443,17.66
+auto_00852,robotiq_hande_manual,41,fact,这页中关于夹爪的参数是什么？,What specification about gripper is given on this page?,fact_keyword,rARD,1106,16.89
+auto_00853,robotiq_hande_manual,41,fact,哪一页提到了夹爪相关参数？,Which page mentions gripper related specifications?,fact_page_lookup,rARD,1106,16.89
+auto_00854,robotiq_hande_manual,41,fact,哪一页包含参数值 50 mm？,Which page contains the specification value 50 mm?,fact_number_unit,rARD,1106,16.89
+auto_00855,robotiq_hande_manual,42,generic,哪一页讨论了“Register: SPEED”？,Which page discusses 'Register: SPEED'?,generic_heading,Register: SPEED,905,14.68
+auto_00856,robotiq_hande_manual,42,generic,哪一页包含这一主题的说明内容？,Which page contains information about this topic?,generic_topic,Register: SPEED,905,14.68
+auto_00857,robotiq_hande_manual,44,generic,哪一页讨论了“Register: RESERVED”？,Which page discusses 'Register: RESERVED'?,generic_heading,Register: RESERVED,1382,18.32
+auto_00858,robotiq_hande_manual,44,generic,哪一页包含这一主题的说明内容？,Which page contains information about this topic?,generic_topic,Register: RESERVED,1382,18.32
+auto_00859,robotiq_hande_manual,46,fact,这页中关于力矩的参数是什么？,What specification about torque is given on this page?,fact_keyword,4.5. Picking Features,769,14.68
+auto_00860,robotiq_hande_manual,46,fact,哪一页提到了力矩相关参数？,Which page mentions torque related specifications?,fact_page_lookup,4.5. Picking Features,769,14.68
+auto_00861,robotiq_hande_manual,46,fact,哪一页介绍了“4.5. Picking Features”相关内容？,Which page discusses '4.5. Picking Features'?,fact_heading,4.5. Picking Features,769,14.68
+auto_00862,robotiq_hande_manual,47,fact,这页中关于最大工作半径的参数是什么？,What specification about reach is given on this page?,fact_keyword,Measured grip force for steel of specific hardness (Vickers),1093,15.64
+auto_00863,robotiq_hande_manual,47,fact,哪一页提到了最大工作半径相关参数？,Which page mentions reach related specifications?,fact_page_lookup,Measured grip force for steel of specific hardness (Vickers),1093,15.64
+auto_00864,robotiq_hande_manual,47,fact,哪一页介绍了“Measured grip force for steel of specifi”相关内容？,Which page discusses 'Measured grip force for steel of specifi'?,fact_heading,Measured grip force for steel of specific hardness (Vickers),1093,15.64
+auto_00865,robotiq_hande_manual,48,fact,这页中关于额定负载的参数是什么？,What specification about payload is given on this page?,fact_keyword,4.5.3. Object detection,1867,15.16
+auto_00866,robotiq_hande_manual,48,fact,哪一页提到了额定负载相关参数？,Which page mentions payload related specifications?,fact_page_lookup,4.5.3. Object detection,1867,15.16
+auto_00867,robotiq_hande_manual,48,fact,哪一页介绍了“4.5.3. Object detection”相关内容？,Which page discusses '4.5.3. Object detection'?,fact_heading,4.5.3. Object detection,1867,15.16
+auto_00868,robotiq_hande_manual,49,fact,这页中关于最大工作半径的参数是什么？,What specification about reach is given on this page?,fact_keyword,4.6. Control Logic Example,780,15.2
+auto_00869,robotiq_hande_manual,49,fact,哪一页提到了最大工作半径相关参数？,Which page mentions reach related specifications?,fact_page_lookup,4.6. Control Logic Example,780,15.2
+auto_00870,robotiq_hande_manual,49,fact,哪一页介绍了“4.6. Control Logic Example”相关内容？,Which page discusses '4.6. Control Logic Example'?,fact_heading,4.6. Control Logic Example,780,15.2
+auto_00871,robotiq_hande_manual,50,fact,这页中关于夹爪的参数是什么？,What specification about gripper is given on this page?,fact_keyword,4.7. Modbus RTU Communication,1190,13.56
+auto_00872,robotiq_hande_manual,50,fact,哪一页提到了夹爪相关参数？,Which page mentions gripper related specifications?,fact_page_lookup,4.7. Modbus RTU Communication,1190,13.56
+auto_00873,robotiq_hande_manual,50,fact,哪一页介绍了“4.7. Modbus RTU Communication”相关内容？,Which page discusses '4.7. Modbus RTU Communication'?,fact_heading,4.7. Modbus RTU Communication,1190,13.56
+auto_00874,robotiq_hande_manual,51,generic,哪一页讨论了“4.7.1. Connection Setup”？,Which page discusses '4.7.1. Connection Setup'?,generic_heading,4.7.1. Connection Setup,1376,17.2
+auto_00875,robotiq_hande_manual,51,generic,哪一页包含这一主题的说明内容？,Which page contains information about this topic?,generic_topic,4.7.1. Connection Setup,1376,17.2
+auto_00876,robotiq_hande_manual,55,generic,哪一页讨论了“4.7.5. Master read & write multiple regi”？,Which page discusses '4.7.5. Master read & write multiple regi'?,generic_heading,4.7.5. Master read & write multiple registers FC23,1239,13.6
+auto_00877,robotiq_hande_manual,55,generic,哪一页包含这一主题的说明内容？,Which page contains information about this topic?,generic_topic,4.7.5. Master read & write multiple registers FC23,1239,13.6
+auto_00878,robotiq_hande_manual,68,semantic,哪一页介绍了安装说明相关内容？,Which page describes installation related information?,semantic_keyword,4.8.1. Gripper Dashboard,1171,16.48
+auto_00879,robotiq_hande_manual,68,semantic,这页主要讲的是哪方面的安装说明内容？,What installation topic is mainly explained on this page?,semantic_topic,4.8.1. Gripper Dashboard,1171,16.48
+auto_00880,robotiq_hande_manual,70,semantic,哪一页介绍了安装说明相关内容？,Which page describes installation related information?,semantic_keyword,Multiple Grippers,1632,15.36
+auto_00881,robotiq_hande_manual,70,semantic,这页主要讲的是哪方面的安装说明内容？,What installation topic is mainly explained on this page?,semantic_topic,Multiple Grippers,1632,15.36
+auto_00882,robotiq_hande_manual,74,layout,哪一页包含尺寸图或尺寸示意？,Which page contains the dimensions diagram?,layout_dimensions,Dashboard,1002,14.88
+auto_00883,robotiq_hande_manual,74,layout,哪一页展示了“Dashboard”的图示页面？,Which page visually presents 'Dashboard'?,layout_heading,Dashboard,1002,14.88
+auto_00884,robotiq_hande_manual,76,semantic,哪一页介绍了安装说明相关内容？,Which page describes installation related information?,semantic_keyword,4.8.3. Gripper Toolbar,1550,14.88
+auto_00885,robotiq_hande_manual,76,semantic,这页主要讲的是哪方面的安装说明内容？,What installation topic is mainly explained on this page?,semantic_topic,4.8.3. Gripper Toolbar,1550,14.88
+auto_00886,robotiq_hande_manual,80,generic,哪一页讨论了“Gripper operation window”？,Which page discusses 'Gripper operation window'?,generic_heading,Gripper operation window,956,13.65
+auto_00887,robotiq_hande_manual,80,generic,哪一页包含这一主题的说明内容？,Which page contains information about this topic?,generic_topic,Gripper operation window,956,13.65
+auto_00888,robotiq_hande_manual,86,generic,哪一页讨论了“Edit action screen”？,Which page discusses 'Edit action screen'?,generic_heading,Edit action screen,957,14.36
+auto_00889,robotiq_hande_manual,86,generic,哪一页包含这一主题的说明内容？,Which page contains information about this topic?,generic_topic,Edit action screen,957,14.36
+auto_00890,robotiq_hande_manual,87,generic,哪一页讨论了“Multiple Grippers”？,Which page discusses 'Multiple Grippers'?,generic_heading,Multiple Grippers,1056,15.85
+auto_00891,robotiq_hande_manual,87,generic,哪一页包含这一主题的说明内容？,Which page contains information about this topic?,generic_topic,Multiple Grippers,1056,15.85
+auto_00892,robotiq_hande_manual,90,generic,哪一页讨论了“Warning”？,Which page discusses 'Warning'?,generic_heading,Warning,1220,16.0
+auto_00893,robotiq_hande_manual,90,generic,哪一页包含这一主题的说明内容？,Which page contains information about this topic?,generic_topic,Warning,1220,16.0
+auto_00894,robotiq_hande_manual,92,semantic,哪一页介绍了安装说明相关内容？,Which page describes installation related information?,semantic_keyword,About,1446,16.8
+auto_00895,robotiq_hande_manual,92,semantic,这页主要讲的是哪方面的安装说明内容？,What installation topic is mainly explained on this page?,semantic_topic,About,1446,16.8
+auto_00896,robotiq_hande_manual,94,generic,哪一页讨论了“Advanced Gripper Functions”？,Which page discusses 'Advanced Gripper Functions'?,generic_heading,Advanced Gripper Functions,2779,13.52
+auto_00897,robotiq_hande_manual,94,generic,哪一页包含这一主题的说明内容？,Which page contains information about this topic?,generic_topic,Advanced Gripper Functions,2779,13.52
+auto_00898,robotiq_hande_manual,95,generic,哪一页讨论了“Name”？,Which page discusses 'Name'?,generic_heading,Name,2405,14.0
+auto_00899,robotiq_hande_manual,95,generic,哪一页包含这一主题的说明内容？,Which page contains information about this topic?,generic_topic,Name,2405,14.0
+auto_00900,robotiq_hande_manual,98,generic,哪一页讨论了“for the Gripper to complete its operatio”？,Which page discusses 'for the Gripper to complete its operatio'?,generic_heading,for the Gripper to complete its operation before going to the next step.,3170,13.68
+auto_00901,robotiq_hande_manual,98,generic,哪一页包含这一主题的说明内容？,Which page contains information about this topic?,generic_topic,for the Gripper to complete its operation before going to the next step.,3170,13.68
+auto_00902,robotiq_hande_manual,108,generic,哪一页讨论了“Coupling for PCD 56 with 8 xM4”？,Which page discusses 'Coupling for PCD 56 with 8 xM4'?,generic_heading,Coupling for PCD 56 with 8 xM4,587,13.9
+auto_00903,robotiq_hande_manual,108,generic,哪一页包含这一主题的说明内容？,Which page contains information about this topic?,generic_topic,Coupling for PCD 56 with 8 xM4,587,13.9
+auto_00904,robotiq_hande_manual,112,fact,这页中关于力/力矩的参数是什么？,What specification about force is given on this page?,fact_keyword,6.1.2. Fingers and fingertips,1324,14.66
+auto_00905,robotiq_hande_manual,112,fact,哪一页提到了力/力矩相关参数？,Which page mentions force related specifications?,fact_page_lookup,6.1.2. Fingers and fingertips,1324,14.66
+auto_00906,robotiq_hande_manual,112,fact,哪一页介绍了“6.1.2. Fingers and fingertips”相关内容？,Which page discusses '6.1.2. Fingers and fingertips'?,fact_heading,6.1.2. Fingers and fingertips,1324,14.66
+auto_00907,robotiq_hande_manual,116,fact,这页中关于额定负载的参数是什么？,What specification about payload is given on this page?,fact_keyword,6.2. Mechanical specifications,577,20.8
+auto_00908,robotiq_hande_manual,116,fact,哪一页提到了额定负载相关参数？,Which page mentions payload related specifications?,fact_page_lookup,6.2. Mechanical specifications,577,20.8
+auto_00909,robotiq_hande_manual,116,fact,哪一页包含参数值 50mm？,Which page contains the specification value 50mm?,fact_number_unit,6.2. Mechanical specifications,577,20.8
+auto_00910,robotiq_hande_manual,117,fact,这页中关于额定负载的参数是什么？,What specification about payload is given on this page?,fact_keyword,Payload and force,1300,18.25
+auto_00911,robotiq_hande_manual,117,fact,哪一页提到了额定负载相关参数？,Which page mentions payload related specifications?,fact_page_lookup,Payload and force,1300,18.25
+auto_00912,robotiq_hande_manual,117,fact,哪一页包含参数值 3.3 kg？,Which page contains the specification value 3.3 kg?,fact_number_unit,Payload and force,1300,18.25
+auto_00913,robotiq_hande_manual,119,fact,这页中关于额定负载的参数是什么？,What specification about payload is given on this page?,fact_keyword,(payload force + external force).,761,15.68
+auto_00914,robotiq_hande_manual,119,fact,哪一页提到了额定负载相关参数？,Which page mentions payload related specifications?,fact_page_lookup,(payload force + external force).,761,15.68
+auto_00915,robotiq_hande_manual,119,fact,哪一页包含参数值 3kg？,Which page contains the specification value 3kg?,fact_number_unit,(payload force + external force).,761,15.68
+auto_00916,robotiq_hande_manual,122,fact,这页中关于额定负载的参数是什么？,What specification about payload is given on this page?,fact_keyword,6.2.3. Moment and force limits,1047,18.1
+auto_00917,robotiq_hande_manual,122,fact,哪一页提到了额定负载相关参数？,Which page mentions payload related specifications?,fact_page_lookup,6.2.3. Moment and force limits,1047,18.1
+auto_00918,robotiq_hande_manual,122,fact,哪一页包含参数值 2.65 Nm？,Which page contains the specification value 2.65 Nm?,fact_number_unit,6.2.3. Moment and force limits,1047,18.1
+auto_00919,robotiq_hande_manual,123,fact,哪一页包含参数值 1W？,Which page contains the specification value 1W?,fact_number_unit,6.3. Electrical specifications,152,15.320000000000002
+auto_00920,robotiq_hande_manual,123,fact,哪一页介绍了“6.3. Electrical specifications”相关内容？,Which page discusses '6.3. Electrical specifications'?,fact_heading,6.3. Electrical specifications,152,15.320000000000002
+auto_00921,robotiq_hande_manual,124,semantic,哪一页介绍了维护说明相关内容？,Which page describes maintenance related information?,semantic_keyword,7. Maintenance,1157,16.340000000000003
+auto_00922,robotiq_hande_manual,124,semantic,这页主要讲的是哪方面的维护说明内容？,What maintenance topic is mainly explained on this page?,semantic_topic,7. Maintenance,1157,16.340000000000003
+auto_00923,robotiq_hande_manual,125,semantic,哪一页介绍了维护说明相关内容？,Which page describes maintenance related information?,semantic_keyword,7.1. Gripper cleaning,1102,17.31
+auto_00924,robotiq_hande_manual,125,semantic,这页主要讲的是哪方面的维护说明内容？,What maintenance topic is mainly explained on this page?,semantic_topic,7.1. Gripper cleaning,1102,17.31
+auto_00925,robotiq_hande_manual,127,semantic,哪一页介绍了维护说明相关内容？,Which page describes maintenance related information?,semantic_keyword,7.2. Periodic inspection,931,17.15
+auto_00926,robotiq_hande_manual,127,semantic,这页主要讲的是哪方面的维护说明内容？,What maintenance topic is mainly explained on this page?,semantic_topic,7.2. Periodic inspection,931,17.15
+auto_00927,robotiq_hande_manual,128,semantic,哪一页介绍了维护说明相关内容？,Which page describes maintenance related information?,semantic_keyword,7.3. Rack & pinion mechanism cleaning,2052,20.200000000000003
+auto_00928,robotiq_hande_manual,128,semantic,这页主要讲的是哪方面的维护说明内容？,What maintenance topic is mainly explained on this page?,semantic_topic,7.3. Rack & pinion mechanism cleaning,2052,20.200000000000003
+auto_00929,robotiq_hande_manual,129,generic,"哪一页讨论了“8. Spare Parts, Kits and Accessories”？","Which page discusses '8. Spare Parts, Kits and Accessories'?",generic_heading,"8. Spare Parts, Kits and Accessories",1269,15.52
+auto_00930,robotiq_hande_manual,129,generic,哪一页包含这一主题的说明内容？,Which page contains information about this topic?,generic_topic,"8. Spare Parts, Kits and Accessories",1269,15.52
+auto_00931,robotiq_hande_manual,130,generic,哪一页讨论了“ltem”？,Which page discusses 'ltem'?,generic_heading,ltem,1940,20.0
+auto_00932,robotiq_hande_manual,130,generic,哪一页包含这一主题的说明内容？,Which page contains information about this topic?,generic_topic,ltem,1940,20.0
+auto_00933,robotiq_hande_manual,131,generic,哪一页讨论了“ltem”？,Which page discusses 'ltem'?,generic_heading,ltem,1574,16.099999999999998
+auto_00934,robotiq_hande_manual,131,generic,哪一页包含这一主题的说明内容？,Which page contains information about this topic?,generic_topic,ltem,1574,16.099999999999998
+auto_00935,robotiq_hande_manual,132,generic,哪一页讨论了“9.Troubleshooting”？,Which page discusses '9.Troubleshooting'?,generic_heading,9.Troubleshooting,1482,16.99
+auto_00936,robotiq_hande_manual,132,generic,哪一页包含这一主题的说明内容？,Which page contains information about this topic?,generic_topic,9.Troubleshooting,1482,16.99
+auto_00937,robotiq_hande_manual,134,fact,这页中关于额定负载的参数是什么？,What specification about payload is given on this page?,fact_keyword,10. Warranty and Patent,2804,16.5
+auto_00938,robotiq_hande_manual,134,fact,哪一页提到了额定负载相关参数？,Which page mentions payload related specifications?,fact_page_lookup,10. Warranty and Patent,2804,16.5
+auto_00939,robotiq_hande_manual,134,fact,哪一页介绍了“10. Warranty and Patent”相关内容？,Which page discusses '10. Warranty and Patent'?,fact_heading,10. Warranty and Patent,2804,16.5
+auto_00940,robotiq_hande_manual,137,semantic,哪一页介绍了安装说明相关内容？,Which page describes installation related information?,semantic_keyword,12.2. Applied standards,1040,15.2
+auto_00941,robotiq_hande_manual,137,semantic,这页主要讲的是哪方面的安装说明内容？,What installation topic is mainly explained on this page?,semantic_topic,12.2. Applied standards,1040,15.2
+auto_00942,ur5e_user_manual,4,layout,哪一页是工作空间示意图页面？,Which page shows the workspace diagram?,layout_workspace,Contents,1060,15.7
+auto_00943,ur5e_user_manual,4,layout,哪一页包含尺寸图或尺寸示意？,Which page contains the dimensions diagram?,layout_dimensions,Contents,1060,15.7
+auto_00944,ur5e_user_manual,4,layout,哪一页展示了“Contents”的图示页面？,Which page visually presents 'Contents'?,layout_heading,Contents,1060,15.7
+auto_00945,ur5e_user_manual,5,fact,这页中关于额定负载的参数是什么？,What specification about payload is given on this page?,fact_keyword,6.4. Starting the Robot Arm,1181,17.2
+auto_00946,ur5e_user_manual,5,fact,哪一页提到了额定负载相关参数？,Which page mentions payload related specifications?,fact_page_lookup,6.4. Starting the Robot Arm,1181,17.2
+auto_00947,ur5e_user_manual,5,fact,哪一页介绍了“6.4. Starting the Robot Arm”相关内容？,Which page discusses '6.4. Starting the Robot Arm'?,fact_heading,6.4. Starting the Robot Arm,1181,17.2
+auto_00948,ur5e_user_manual,12,semantic,哪一页介绍了安装说明相关内容？,Which page describes installation related information?,semantic_keyword,2.Your Robot,1000,17.009999999999998
+auto_00949,ur5e_user_manual,12,semantic,这页主要讲的是哪方面的安装说明内容？,What installation topic is mainly explained on this page?,semantic_topic,2.Your Robot,1000,17.009999999999998
+auto_00950,ur5e_user_manual,16,fact,这页中关于额定负载的参数是什么？,What specification about payload is given on this page?,fact_keyword,2.Your Robot,1727,20.8
+auto_00951,ur5e_user_manual,16,fact,哪一页提到了额定负载相关参数？,Which page mentions payload related specifications?,fact_page_lookup,2.Your Robot,1727,20.8
+auto_00952,ur5e_user_manual,16,fact,哪一页包含参数值 5 kg？,Which page contains the specification value 5 kg?,fact_number_unit,2.Your Robot,1727,20.8
+auto_00953,ur5e_user_manual,17,fact,这页中关于额定负载的参数是什么？,What specification about payload is given on this page?,fact_keyword,2.Your Robot,1193,16.65
+auto_00954,ur5e_user_manual,17,fact,哪一页提到了额定负载相关参数？,Which page mentions payload related specifications?,fact_page_lookup,2.Your Robot,1193,16.65
+auto_00955,ur5e_user_manual,17,fact,哪一页介绍了“2.Your Robot”相关内容？,Which page discusses '2.Your Robot'?,fact_heading,2.Your Robot,1193,16.65
+auto_00956,ur5e_user_manual,25,semantic,哪一页介绍了安装说明相关内容？,Which page describes installation related information?,semantic_keyword,2.3. PolyScope Overview,1366,15.47
+auto_00957,ur5e_user_manual,25,semantic,这页主要讲的是哪方面的安装说明内容？,What installation topic is mainly explained on this page?,semantic_topic,2.3. PolyScope Overview,1366,15.47
+auto_00958,ur5e_user_manual,26,semantic,哪一页介绍了安装说明相关内容？,Which page describes installation related information?,semantic_keyword,2.3.1. Icons/Tabs On PolyScope,1377,15.76
+auto_00959,ur5e_user_manual,26,semantic,这页主要讲的是哪方面的安装说明内容？,What installation topic is mainly explained on this page?,semantic_topic,2.3.1. Icons/Tabs On PolyScope,1377,15.76
+auto_00960,ur5e_user_manual,30,fact,这页中关于最大工作半径的参数是什么？,What specification about reach is given on this page?,fact_keyword,3.Safety,1702,16.42
+auto_00961,ur5e_user_manual,30,fact,哪一页提到了最大工作半径相关参数？,Which page mentions reach related specifications?,fact_page_lookup,3.Safety,1702,16.42
+auto_00962,ur5e_user_manual,30,fact,哪一页介绍了“3.Safety”相关内容？,Which page discusses '3.Safety'?,fact_heading,3.Safety,1702,16.42
+auto_00963,ur5e_user_manual,31,fact,哪一页介绍了“3. Safety”相关内容？,Which page discusses '3. Safety'?,fact_heading,3. Safety,1225,15.98
+auto_00964,ur5e_user_manual,34,fact,这页中关于力矩的参数是什么？,What specification about torque is given on this page?,fact_keyword,5. Assembly and Mounting,766,16.24
+auto_00965,ur5e_user_manual,34,fact,哪一页提到了力矩相关参数？,Which page mentions torque related specifications?,fact_page_lookup,5. Assembly and Mounting,766,16.24
+auto_00966,ur5e_user_manual,34,fact,哪一页介绍了“5. Assembly and Mounting”相关内容？,Which page discusses '5. Assembly and Mounting'?,fact_heading,5. Assembly and Mounting,766,16.24
+auto_00967,ur5e_user_manual,35,layout,哪一页包含尺寸图或尺寸示意？,Which page contains the dimensions diagram?,layout_dimensions,5. Assembly and Mounting,815,15.82
+auto_00968,ur5e_user_manual,35,layout,哪一页展示了“5. Assembly and Mounting”的图示页面？,Which page visually presents '5. Assembly and Mounting'?,layout_heading,5. Assembly and Mounting,815,15.82
+auto_00969,ur5e_user_manual,37,fact,这页中关于力矩的参数是什么？,What specification about torque is given on this page?,fact_keyword,5. Assembly and Mounting,669,16.509999999999998
+auto_00970,ur5e_user_manual,37,fact,哪一页提到了力矩相关参数？,Which page mentions torque related specifications?,fact_page_lookup,5. Assembly and Mounting,669,16.509999999999998
+auto_00971,ur5e_user_manual,37,fact,哪一页介绍了“5. Assembly and Mounting”相关内容？,Which page discusses '5. Assembly and Mounting'?,fact_heading,5. Assembly and Mounting,669,16.509999999999998
+auto_00972,ur5e_user_manual,38,fact,这页中关于力矩的参数是什么？,What specification about torque is given on this page?,fact_keyword,5. Assembly and Mounting,2436,17.67
+auto_00973,ur5e_user_manual,38,fact,哪一页提到了力矩相关参数？,Which page mentions torque related specifications?,fact_page_lookup,5. Assembly and Mounting,2436,17.67
+auto_00974,ur5e_user_manual,38,fact,哪一页包含参数值 45 Hz？,Which page contains the specification value 45 Hz?,fact_number_unit,5. Assembly and Mounting,2436,17.67
+auto_00975,ur5e_user_manual,42,layout,哪一页是工作空间示意图页面？,Which page shows the workspace diagram?,layout_workspace,5. Assembly and Mounting,1101,16.689999999999998
+auto_00976,ur5e_user_manual,42,layout,哪一页展示了“5. Assembly and Mounting”的图示页面？,Which page visually presents '5. Assembly and Mounting'?,layout_heading,5. Assembly and Mounting,1101,16.689999999999998
+auto_00977,ur5e_user_manual,43,layout,哪一页是工作空间示意图页面？,Which page shows the workspace diagram?,layout_workspace,5. Assembly and Mounting,825,16.84
+auto_00978,ur5e_user_manual,43,layout,哪一页展示了“5. Assembly and Mounting”的图示页面？,Which page visually presents '5. Assembly and Mounting'?,layout_heading,5. Assembly and Mounting,825,16.84
+auto_00979,ur5e_user_manual,44,layout,哪一页是工作空间示意图页面？,Which page shows the workspace diagram?,layout_workspace,5. Assembly and Mounting,1377,16.0
+auto_00980,ur5e_user_manual,44,layout,哪一页展示了“5. Assembly and Mounting”的图示页面？,Which page visually presents '5. Assembly and Mounting'?,layout_heading,5. Assembly and Mounting,1377,16.0
+auto_00981,ur5e_user_manual,47,fact,这页中关于最大工作半径的参数是什么？,What specification about reach is given on this page?,fact_keyword,5. Assembly and Mounting,1769,17.97
+auto_00982,ur5e_user_manual,47,fact,哪一页提到了最大工作半径相关参数？,Which page mentions reach related specifications?,fact_page_lookup,5. Assembly and Mounting,1769,17.97
+auto_00983,ur5e_user_manual,47,fact,哪一页介绍了“5. Assembly and Mounting”相关内容？,Which page discusses '5. Assembly and Mounting'?,fact_heading,5. Assembly and Mounting,1769,17.97
+auto_00984,ur5e_user_manual,48,semantic,哪一页介绍了安装说明相关内容？,Which page describes installation related information?,semantic_keyword,5. Assembly and Mounting,1021,17.12
+auto_00985,ur5e_user_manual,48,semantic,这页主要讲的是哪方面的安装说明内容？,What installation topic is mainly explained on this page?,semantic_topic,5. Assembly and Mounting,1021,17.12
+auto_00986,ur5e_user_manual,54,fact,这页中关于额定负载的参数是什么？,What specification about payload is given on this page?,fact_keyword,6. First Boot,972,16.45
+auto_00987,ur5e_user_manual,54,fact,哪一页提到了额定负载相关参数？,Which page mentions payload related specifications?,fact_page_lookup,6. First Boot,972,16.45
+auto_00988,ur5e_user_manual,54,fact,哪一页包含参数值 45°？,Which page contains the specification value 45°?,fact_number_unit,6. First Boot,972,16.45
+auto_00989,ur5e_user_manual,59,semantic,哪一页介绍了安装说明相关内容？,Which page describes installation related information?,semantic_keyword,7.Installation,1640,15.84
+auto_00990,ur5e_user_manual,59,semantic,这页主要讲的是哪方面的安装说明内容？,What installation topic is mainly explained on this page?,semantic_topic,7.Installation,1640,15.84
+auto_00991,ur5e_user_manual,60,semantic,哪一页介绍了安装说明相关内容？,Which page describes installation related information?,semantic_keyword,7. Installation,1299,16.68
+auto_00992,ur5e_user_manual,60,semantic,这页主要讲的是哪方面的安装说明内容？,What installation topic is mainly explained on this page?,semantic_topic,7. Installation,1299,16.68
+auto_00993,ur5e_user_manual,61,semantic,哪一页介绍了安装说明相关内容？,Which page describes installation related information?,semantic_keyword,7.Installation,1460,17.93
+auto_00994,ur5e_user_manual,61,semantic,这页主要讲的是哪方面的安装说明内容？,What installation topic is mainly explained on this page?,semantic_topic,7.Installation,1460,17.93
+auto_00995,ur5e_user_manual,62,fact,这页中关于接口的参数是什么？,What specification about interface is given on this page?,fact_keyword,7. Installation,537,16.009999999999998
+auto_00996,ur5e_user_manual,62,fact,哪一页提到了接口相关参数？,Which page mentions interface related specifications?,fact_page_lookup,7. Installation,537,16.009999999999998
+auto_00997,ur5e_user_manual,62,fact,哪一页介绍了“7. Installation”相关内容？,Which page discusses '7. Installation'?,fact_heading,7. Installation,537,16.009999999999998
+auto_00998,ur5e_user_manual,66,semantic,哪一页介绍了安装说明相关内容？,Which page describes installation related information?,semantic_keyword,7.Installation,1089,16.36
+auto_00999,ur5e_user_manual,66,semantic,这页主要讲的是哪方面的安装说明内容？,What installation topic is mainly explained on this page?,semantic_topic,7.Installation,1089,16.36
+auto_01000,ur5e_user_manual,67,fact,哪一页包含参数值 24V？,Which page contains the specification value 24V?,fact_number_unit,7. Installation,997,17.63
+auto_01001,ur5e_user_manual,67,fact,哪一页介绍了“7. Installation”相关内容？,Which page discusses '7. Installation'?,fact_heading,7. Installation,997,17.63
+auto_01002,ur5e_user_manual,68,fact,哪一页包含参数值 10 A？,Which page contains the specification value 10 A?,fact_number_unit,7.Installation,697,18.48
+auto_01003,ur5e_user_manual,68,fact,哪一页介绍了“7.Installation”相关内容？,Which page discusses '7.Installation'?,fact_heading,7.Installation,697,18.48
+auto_01004,ur5e_user_manual,70,fact,这页中关于额定负载的参数是什么？,What specification about payload is given on this page?,fact_keyword,7. Installation,1520,18.08
+auto_01005,ur5e_user_manual,70,fact,哪一页提到了额定负载相关参数？,Which page mentions payload related specifications?,fact_page_lookup,7. Installation,1520,18.08
+auto_01006,ur5e_user_manual,70,fact,哪一页包含参数值 24V？,Which page contains the specification value 24V?,fact_number_unit,7. Installation,1520,18.08
+auto_01007,ur5e_user_manual,71,semantic,哪一页介绍了安装说明相关内容？,Which page describes installation related information?,semantic_keyword,7.Installation,1701,16.6
+auto_01008,ur5e_user_manual,71,semantic,这页主要讲的是哪方面的安装说明内容？,What installation topic is mainly explained on this page?,semantic_topic,7.Installation,1701,16.6
+auto_01009,ur5e_user_manual,75,semantic,哪一页介绍了安装说明相关内容？,Which page describes installation related information?,semantic_keyword,7.Installation,1438,16.130000000000003
+auto_01010,ur5e_user_manual,75,semantic,这页主要讲的是哪方面的安装说明内容？,What installation topic is mainly explained on this page?,semantic_topic,7.Installation,1438,16.130000000000003
+auto_01011,ur5e_user_manual,76,semantic,哪一页介绍了安装说明相关内容？,Which page describes installation related information?,semantic_keyword,7.Installation,1605,16.799999999999997
+auto_01012,ur5e_user_manual,76,semantic,这页主要讲的是哪方面的安装说明内容？,What installation topic is mainly explained on this page?,semantic_topic,7.Installation,1605,16.799999999999997
+auto_01013,ur5e_user_manual,83,fact,这页中关于额定负载的参数是什么？,What specification about payload is given on this page?,fact_keyword,7.7.2. I/O Setup,2069,16.0
+auto_01014,ur5e_user_manual,83,fact,哪一页提到了额定负载相关参数？,Which page mentions payload related specifications?,fact_page_lookup,7.7.2. I/O Setup,2069,16.0
+auto_01015,ur5e_user_manual,83,fact,哪一页介绍了“7.7.2. I/O Setup”相关内容？,Which page discusses '7.7.2. I/O Setup'?,fact_heading,7.7.2. I/O Setup,2069,16.0
+auto_01016,ur5e_user_manual,87,fact,这页中关于接口的参数是什么？,What specification about interface is given on this page?,fact_keyword,7.9. General Purpose Analog l/O,1031,16.939999999999998
+auto_01017,ur5e_user_manual,87,fact,哪一页提到了接口相关参数？,Which page mentions interface related specifications?,fact_page_lookup,7.9. General Purpose Analog l/O,1031,16.939999999999998
+auto_01018,ur5e_user_manual,87,fact,哪一页包含参数值 10V？,Which page contains the specification value 10V?,fact_number_unit,7.9. General Purpose Analog l/O,1031,16.939999999999998
+auto_01019,ur5e_user_manual,91,fact,哪一页包含参数值 12V？,Which page contains the specification value 12V?,fact_number_unit,7.11. Remote ON/OFF control,1200,16.759999999999998
+auto_01020,ur5e_user_manual,91,fact,哪一页介绍了“7.11. Remote ON/OFF control”相关内容？,Which page discusses '7.11. Remote ON/OFF control'?,fact_heading,7.11. Remote ON/OFF control,1200,16.759999999999998
+auto_01021,ur5e_user_manual,93,fact,这页中关于传感器的参数是什么？,What specification about sensor is given on this page?,fact_keyword,7.12.1. ToolI/O,633,18.8
+auto_01022,ur5e_user_manual,93,fact,哪一页提到了传感器相关参数？,Which page mentions sensor related specifications?,fact_page_lookup,7.12.1. ToolI/O,633,18.8
+auto_01023,ur5e_user_manual,93,fact,哪一页包含参数值 0V？,Which page contains the specification value 0V?,fact_number_unit,7.12.1. ToolI/O,633,18.8
+auto_01024,ur5e_user_manual,94,generic,哪一页讨论了“Tool Cable”？,Which page discusses 'Tool Cable'?,generic_heading,Tool Cable,846,17.53
+auto_01025,ur5e_user_manual,94,generic,哪一页包含这一主题的说明内容？,Which page contains information about this topic?,generic_topic,Tool Cable,846,17.53
+auto_01026,ur5e_user_manual,95,fact,这页中关于额定负载的参数是什么？,What specification about payload is given on this page?,fact_keyword,7.12.2. Maximum Payload,806,15.76
+auto_01027,ur5e_user_manual,95,fact,哪一页提到了额定负载相关参数？,Which page mentions payload related specifications?,fact_page_lookup,7.12.2. Maximum Payload,806,15.76
+auto_01028,ur5e_user_manual,95,fact,哪一页介绍了“7.12.2. Maximum Payload”相关内容？,Which page discusses '7.12.2. Maximum Payload'?,fact_heading,7.12.2. Maximum Payload,806,15.76
+auto_01029,ur5e_user_manual,97,layout,哪一页包含尺寸图或尺寸示意？,Which page contains the dimensions diagram?,layout_dimensions,7.12.3. Securing Tool,987,17.25
+auto_01030,ur5e_user_manual,97,layout,哪一页展示了“7.12.3. Securing Tool”的图示页面？,Which page visually presents '7.12.3. Securing Tool'?,layout_heading,7.12.3. Securing Tool,987,17.25
+auto_01031,ur5e_user_manual,98,fact,这页中关于额定负载的参数是什么？,What specification about payload is given on this page?,fact_keyword,7.12.4. Set Payload,1781,16.32
+auto_01032,ur5e_user_manual,98,fact,哪一页提到了额定负载相关参数？,Which page mentions payload related specifications?,fact_page_lookup,7.12.4. Set Payload,1781,16.32
+auto_01033,ur5e_user_manual,98,fact,哪一页包含参数值 0.05s？,Which page contains the specification value 0.05s?,fact_number_unit,7.12.4. Set Payload,1781,16.32
+auto_01034,ur5e_user_manual,100,fact,这页中关于额定负载的参数是什么？,What specification about payload is given on this page?,fact_keyword,Payload,1555,15.64
+auto_01035,ur5e_user_manual,100,fact,哪一页提到了额定负载相关参数？,Which page mentions payload related specifications?,fact_page_lookup,Payload,1555,15.64
+auto_01036,ur5e_user_manual,100,fact,哪一页包含参数值 0.000 kg？,Which page contains the specification value 0.000 kg?,fact_number_unit,Payload,1555,15.64
+auto_01037,ur5e_user_manual,103,fact,哪一页包含参数值 12V？,Which page contains the specification value 12V?,fact_number_unit,7.12.5. Tooll/O Installation Specifications,777,19.72
+auto_01038,ur5e_user_manual,103,fact,哪一页介绍了“7.12.5. Tooll/O Installation Specificati”相关内容？,Which page discusses '7.12.5. Tooll/O Installation Specificati'?,fact_heading,7.12.5. Tooll/O Installation Specifications,777,19.72
+auto_01039,ur5e_user_manual,105,fact,哪一页包含参数值 1A？,Which page contains the specification value 1A?,fact_number_unit,7.12.7.Tool Digital Outputs,1009,17.88
+auto_01040,ur5e_user_manual,105,fact,哪一页介绍了“7.12.7.Tool Digital Outputs”相关内容？,Which page discusses '7.12.7.Tool Digital Outputs'?,fact_heading,7.12.7.Tool Digital Outputs,1009,17.88
+auto_01041,ur5e_user_manual,106,fact,哪一页包含参数值 10V？,Which page contains the specification value 10V?,fact_number_unit,7.12.8. Tool Digital Inputs,1041,17.759999999999998
+auto_01042,ur5e_user_manual,106,fact,哪一页介绍了“7.12.8. Tool Digital Inputs”相关内容？,Which page discusses '7.12.8. Tool Digital Inputs'?,fact_heading,7.12.8. Tool Digital Inputs,1041,17.759999999999998
+auto_01043,ur5e_user_manual,107,fact,这页中关于传感器的参数是什么？,What specification about sensor is given on this page?,fact_keyword,Caution,1495,19.65
+auto_01044,ur5e_user_manual,107,fact,哪一页提到了传感器相关参数？,Which page mentions sensor related specifications?,fact_page_lookup,Caution,1495,19.65
+auto_01045,ur5e_user_manual,107,fact,哪一页包含参数值 2ms？,Which page contains the specification value 2ms?,fact_number_unit,Caution,1495,19.65
+auto_01046,ur5e_user_manual,108,layout,哪一页是工作空间示意图页面？,Which page shows the workspace diagram?,layout_workspace,8. First Time Use,1476,16.88
+auto_01047,ur5e_user_manual,108,layout,哪一页展示了“8. First Time Use”的图示页面？,Which page visually presents '8. First Time Use'?,layout_heading,8. First Time Use,1476,16.88
+auto_01048,ur5e_user_manual,130,semantic,哪一页介绍了安装说明相关内容？,Which page describes installation related information?,semantic_keyword,8.2.9. Using the Move Tab,1971,16.36
+auto_01049,ur5e_user_manual,130,semantic,这页主要讲的是哪方面的安装说明内容？,What installation topic is mainly explained on this page?,semantic_topic,8.2.9. Using the Move Tab,1971,16.36
+auto_01050,ur5e_user_manual,132,fact,这页中关于额定负载的参数是什么？,What specification about payload is given on this page?,fact_keyword,Using,1334,18.56
+auto_01051,ur5e_user_manual,132,fact,哪一页提到了额定负载相关参数？,Which page mentions payload related specifications?,fact_page_lookup,Using,1334,18.56
+auto_01052,ur5e_user_manual,132,fact,哪一页包含参数值 142.44 mm？,Which page contains the specification value 142.44 mm?,fact_number_unit,Using,1334,18.56
+auto_01053,ur5e_user_manual,135,semantic,哪一页介绍了安全说明相关内容？,Which page describes safety related information?,semantic_keyword,8.3. Safety-related Functions and Interfaces,1469,18.14
+auto_01054,ur5e_user_manual,135,semantic,这页主要讲的是哪方面的安全说明内容？,What safety topic is mainly explained on this page?,semantic_topic,8.3. Safety-related Functions and Interfaces,1469,18.14
+auto_01055,ur5e_user_manual,136,fact,这页中关于最大工作半径的参数是什么？,What specification about reach is given on this page?,fact_keyword,8.3.1. Configurable Safety Functions,2093,15.76
+auto_01056,ur5e_user_manual,136,fact,哪一页提到了最大工作半径相关参数？,Which page mentions reach related specifications?,fact_page_lookup,8.3.1. Configurable Safety Functions,2093,15.76
+auto_01057,ur5e_user_manual,136,fact,哪一页介绍了“8.3.1. Configurable Safety Functions”相关内容？,Which page discusses '8.3.1. Configurable Safety Functions'?,fact_heading,8.3.1. Configurable Safety Functions,2093,15.76
+auto_01058,ur5e_user_manual,137,semantic,哪一页介绍了安全说明相关内容？,Which page describes safety related information?,semantic_keyword,Safety Function,1102,20.0
+auto_01059,ur5e_user_manual,137,semantic,这页主要讲的是哪方面的安全说明内容？,What safety topic is mainly explained on this page?,semantic_topic,Safety Function,1102,20.0
+auto_01060,ur5e_user_manual,142,semantic,哪一页介绍了安装说明相关内容？,Which page describes installation related information?,semantic_keyword,Accessing,1254,17.68
+auto_01061,ur5e_user_manual,142,semantic,这页主要讲的是哪方面的安装说明内容？,What installation topic is mainly explained on this page?,semantic_topic,Accessing,1254,17.68
+auto_01062,ur5e_user_manual,147,semantic,哪一页介绍了安全说明相关内容？,Which page describes safety related information?,semantic_keyword,8.4.5. Software Safety Modes,1758,15.43
+auto_01063,ur5e_user_manual,147,semantic,这页主要讲的是哪方面的安全说明内容？,What safety topic is mainly explained on this page?,semantic_topic,8.4.5. Software Safety Modes,1758,15.43
+auto_01064,ur5e_user_manual,148,semantic,哪一页介绍了安装说明相关内容？,Which page describes installation related information?,semantic_keyword,8.4.6. Software Safety Limits,1348,16.84
+auto_01065,ur5e_user_manual,148,semantic,这页主要讲的是哪方面的安装说明内容？,What installation topic is mainly explained on this page?,semantic_topic,8.4.6. Software Safety Limits,1348,16.84
+auto_01066,ur5e_user_manual,149,fact,这页中关于额定负载的参数是什么？,What specification about payload is given on this page?,fact_keyword,Custom,962,15.760000000000002
+auto_01067,ur5e_user_manual,149,fact,哪一页提到了额定负载相关参数？,Which page mentions payload related specifications?,fact_page_lookup,Custom,962,15.760000000000002
+auto_01068,ur5e_user_manual,149,fact,哪一页包含参数值 300 ms？,Which page contains the specification value 300 ms?,fact_number_unit,Custom,962,15.760000000000002
+auto_01069,ur5e_user_manual,150,semantic,哪一页介绍了安装说明相关内容？,Which page describes installation related information?,semantic_keyword,UNIVERSΛL ROBOTS,1401,20.8
+auto_01070,ur5e_user_manual,150,semantic,这页主要讲的是哪方面的安装说明内容？,What installation topic is mainly explained on this page?,semantic_topic,UNIVERSΛL ROBOTS,1401,20.8
+auto_01071,ur5e_user_manual,155,semantic,哪一页介绍了安装说明相关内容？,Which page describes installation related information?,semantic_keyword,Configuring,1111,16.560000000000002
+auto_01072,ur5e_user_manual,155,semantic,这页主要讲的是哪方面的安装说明内容？,What installation topic is mainly explained on this page?,semantic_topic,Configuring,1111,16.560000000000002
+auto_01073,ur5e_user_manual,162,semantic,哪一页介绍了安装说明相关内容？,Which page describes installation related information?,semantic_keyword,8.5.2. Tool Position Restriction,872,15.86
+auto_01074,ur5e_user_manual,162,semantic,这页主要讲的是哪方面的安装说明内容？,What installation topic is mainly explained on this page?,semantic_topic,8.5.2. Tool Position Restriction,872,15.86
+auto_01075,ur5e_user_manual,163,semantic,哪一页介绍了安装说明相关内容？,Which page describes installation related information?,semantic_keyword,User,2247,17.88
+auto_01076,ur5e_user_manual,163,semantic,这页主要讲的是哪方面的安装说明内容？,What installation topic is mainly explained on this page?,semantic_topic,User,2247,17.88
+auto_01077,ur5e_user_manual,165,semantic,哪一页介绍了安装说明相关内容？,Which page describes installation related information?,semantic_keyword,Tool Position,869,16.2
+auto_01078,ur5e_user_manual,165,semantic,这页主要讲的是哪方面的安装说明内容？,What installation topic is mainly explained on this page?,semantic_topic,Tool Position,869,16.2
+auto_01079,ur5e_user_manual,179,semantic,哪一页介绍了安全说明相关内容？,Which page describes safety related information?,semantic_keyword,10. Communication Networks,1861,16.71
+auto_01080,ur5e_user_manual,179,semantic,这页主要讲的是哪方面的安全说明内容？,What safety topic is mainly explained on this page?,semantic_topic,10. Communication Networks,1861,16.71
+auto_01081,ur5e_user_manual,183,navigation,哪一页提到了紧急停止相关条目？,Which page mentions the emergency stop entry?,navigation_emstop,11. Emergency Events,1619,11.52
+auto_01082,ur5e_user_manual,183,navigation,哪一页包含“11. Emergency Events”这类导航信息？,Which page contains navigation information about '11. Emergency Events'?,navigation_heading,11. Emergency Events,1619,11.52
+auto_01083,ur5e_user_manual,184,fact,这页中关于力矩的参数是什么？,What specification about torque is given on this page?,fact_keyword,11. Emergency Events,1347,15.39
+auto_01084,ur5e_user_manual,184,fact,哪一页提到了力矩相关参数？,Which page mentions torque related specifications?,fact_page_lookup,11. Emergency Events,1347,15.39
+auto_01085,ur5e_user_manual,184,fact,哪一页介绍了“11. Emergency Events”相关内容？,Which page discusses '11. Emergency Events'?,fact_heading,11. Emergency Events,1347,15.39
+auto_01086,ur5e_user_manual,185,fact,这页中关于最大工作半径的参数是什么？,What specification about reach is given on this page?,fact_keyword,11.3. Modes,1858,16.36
+auto_01087,ur5e_user_manual,185,fact,哪一页提到了最大工作半径相关参数？,Which page mentions reach related specifications?,fact_page_lookup,11.3. Modes,1858,16.36
+auto_01088,ur5e_user_manual,185,fact,哪一页包含参数值 250 mm？,Which page contains the specification value 250 mm?,fact_number_unit,11.3. Modes,1858,16.36
+auto_01089,ur5e_user_manual,187,semantic,哪一页介绍了安全说明相关内容？,Which page describes safety related information?,semantic_keyword,11.3.1. Recovery Mode,1351,16.31
+auto_01090,ur5e_user_manual,187,semantic,这页主要讲的是哪方面的安全说明内容？,What safety topic is mainly explained on this page?,semantic_topic,11.3.1. Recovery Mode,1351,16.31
+auto_01091,ur5e_user_manual,190,fact,这页中关于额定负载的参数是什么？,What specification about payload is given on this page?,fact_keyword,Enable,1014,17.799999999999997
+auto_01092,ur5e_user_manual,190,fact,哪一页提到了额定负载相关参数？,Which page mentions payload related specifications?,fact_page_lookup,Enable,1014,17.799999999999997
+auto_01093,ur5e_user_manual,190,fact,哪一页包含参数值 0kg？,Which page contains the specification value 0kg?,fact_number_unit,Enable,1014,17.799999999999997
+auto_01094,ur5e_user_manual,195,semantic,哪一页介绍了安装说明相关内容？,Which page describes installation related information?,semantic_keyword,13. Maintenance and Repair,1458,17.45
+auto_01095,ur5e_user_manual,195,semantic,这页主要讲的是哪方面的安装说明内容？,What installation topic is mainly explained on this page?,semantic_topic,13. Maintenance and Repair,1458,17.45
+auto_01096,ur5e_user_manual,200,fact,这页中关于额定负载的参数是什么？,What specification about payload is given on this page?,fact_keyword,13. Maintenance and Repair,1037,15.48
+auto_01097,ur5e_user_manual,200,fact,哪一页提到了额定负载相关参数？,Which page mentions payload related specifications?,fact_page_lookup,13. Maintenance and Repair,1037,15.48
+auto_01098,ur5e_user_manual,200,fact,哪一页介绍了“13. Maintenance and Repair”相关内容？,Which page discusses '13. Maintenance and Repair'?,fact_heading,13. Maintenance and Repair,1037,15.48
+auto_01099,ur5e_user_manual,201,semantic,哪一页介绍了安装说明相关内容？,Which page describes installation related information?,semantic_keyword,13. Maintenance and Repair,1224,21.8
+auto_01100,ur5e_user_manual,201,semantic,这页主要讲的是哪方面的安装说明内容？,What installation topic is mainly explained on this page?,semantic_topic,13. Maintenance and Repair,1224,21.8
+auto_01101,ur5e_user_manual,202,semantic,哪一页介绍了安装说明相关内容？,Which page describes installation related information?,semantic_keyword,13. Maintenance and Repair,1549,17.009999999999998
+auto_01102,ur5e_user_manual,202,semantic,这页主要讲的是哪方面的安装说明内容？,What installation topic is mainly explained on this page?,semantic_topic,13. Maintenance and Repair,1549,17.009999999999998
+auto_01103,ur5e_user_manual,205,semantic,哪一页介绍了安装说明相关内容？,Which page describes installation related information?,semantic_keyword,13. Maintenance and Repair,1605,15.84
+auto_01104,ur5e_user_manual,205,semantic,这页主要讲的是哪方面的安装说明内容？,What installation topic is mainly explained on this page?,semantic_topic,13. Maintenance and Repair,1605,15.84
+auto_01105,ur5e_user_manual,209,semantic,哪一页介绍了组成部件相关内容？,Which page describes components related information?,semantic_keyword,14. Disposal and Environment,1627,16.43
+auto_01106,ur5e_user_manual,209,semantic,这页主要讲的是哪方面的组成部件内容？,What components topic is mainly explained on this page?,semantic_topic,14. Disposal and Environment,1627,16.43
+auto_01107,ur5e_user_manual,210,fact,这页中关于末端执行器的参数是什么？,What specification about end effector is given on this page?,fact_keyword,15. Risk Assessment,1290,16.75
+auto_01108,ur5e_user_manual,210,fact,哪一页提到了末端执行器相关参数？,Which page mentions end effector related specifications?,fact_page_lookup,15. Risk Assessment,1290,16.75
+auto_01109,ur5e_user_manual,210,fact,哪一页介绍了“15. Risk Assessment”相关内容？,Which page discusses '15. Risk Assessment'?,fact_heading,15. Risk Assessment,1290,16.75
+auto_01110,ur5e_user_manual,211,fact,这页中关于最大工作半径的参数是什么？,What specification about reach is given on this page?,fact_keyword,15. Risk Assessment,2578,16.68
+auto_01111,ur5e_user_manual,211,fact,哪一页提到了最大工作半径相关参数？,Which page mentions reach related specifications?,fact_page_lookup,15. Risk Assessment,2578,16.68
+auto_01112,ur5e_user_manual,211,fact,哪一页介绍了“15. Risk Assessment”相关内容？,Which page discusses '15. Risk Assessment'?,fact_heading,15. Risk Assessment,2578,16.68
+auto_01113,ur5e_user_manual,213,layout,哪一页是工作空间示意图页面？,Which page shows the workspace diagram?,layout_workspace,15. Risk Assessment,728,16.4
+auto_01114,ur5e_user_manual,213,layout,哪一页展示了“15. Risk Assessment”的图示页面？,Which page visually presents '15. Risk Assessment'?,layout_heading,15. Risk Assessment,728,16.4
+auto_01115,ur5e_user_manual,214,fact,这页中关于额定负载的参数是什么？,What specification about payload is given on this page?,fact_keyword,15. Risk Assessment,1025,19.15
+auto_01116,ur5e_user_manual,214,fact,哪一页提到了额定负载相关参数？,Which page mentions payload related specifications?,fact_page_lookup,15. Risk Assessment,1025,19.15
+auto_01117,ur5e_user_manual,214,fact,哪一页包含参数值 5kg？,Which page contains the specification value 5kg?,fact_number_unit,15. Risk Assessment,1025,19.15
+auto_01118,ur5e_user_manual,215,fact,这页中关于额定负载的参数是什么？,What specification about payload is given on this page?,fact_keyword,15. Risk Assessment,337,17.2
+auto_01119,ur5e_user_manual,215,fact,哪一页提到了额定负载相关参数？,Which page mentions payload related specifications?,fact_page_lookup,15. Risk Assessment,337,17.2
+auto_01120,ur5e_user_manual,215,fact,哪一页包含参数值 5kg？,Which page contains the specification value 5kg?,fact_number_unit,15. Risk Assessment,337,17.2
+auto_01121,ur5e_user_manual,216,fact,这页中关于额定负载的参数是什么？,What specification about payload is given on this page?,fact_keyword,15. Risk Assessment,332,15.8
+auto_01122,ur5e_user_manual,216,fact,哪一页提到了额定负载相关参数？,Which page mentions payload related specifications?,fact_page_lookup,15. Risk Assessment,332,15.8
+auto_01123,ur5e_user_manual,216,fact,哪一页包含参数值 5kg？,Which page contains the specification value 5kg?,fact_number_unit,15. Risk Assessment,332,15.8
+auto_01124,ur5e_user_manual,217,fact,这页中关于额定负载的参数是什么？,What specification about payload is given on this page?,fact_keyword,15. Risk Assessment,271,16.0
+auto_01125,ur5e_user_manual,217,fact,哪一页提到了额定负载相关参数？,Which page mentions payload related specifications?,fact_page_lookup,15. Risk Assessment,271,16.0
+auto_01126,ur5e_user_manual,217,fact,哪一页包含参数值 5kg？,Which page contains the specification value 5kg?,fact_number_unit,15. Risk Assessment,271,16.0
+auto_01127,ur5e_user_manual,233,fact,这页中关于力矩的参数是什么？,What specification about torque is given on this page?,fact_keyword,20. Safety Functions Table,2691,17.2
+auto_01128,ur5e_user_manual,233,fact,哪一页提到了力矩相关参数？,Which page mentions torque related specifications?,fact_page_lookup,20. Safety Functions Table,2691,17.2
+auto_01129,ur5e_user_manual,233,fact,哪一页介绍了“20. Safety Functions Table”相关内容？,Which page discusses '20. Safety Functions Table'?,fact_heading,20. Safety Functions Table,2691,17.2
+auto_01130,ur5e_user_manual,234,fact,这页中关于力矩的参数是什么？,What specification about torque is given on this page?,fact_keyword,20. Safety Functions Table,2817,17.72
+auto_01131,ur5e_user_manual,234,fact,哪一页提到了力矩相关参数？,Which page mentions torque related specifications?,fact_page_lookup,20. Safety Functions Table,2817,17.72
+auto_01132,ur5e_user_manual,234,fact,哪一页包含参数值 50 mm？,Which page contains the specification value 50 mm?,fact_number_unit,20. Safety Functions Table,2817,17.72
+auto_01133,ur5e_user_manual,238,semantic,哪一页介绍了安全说明相关内容？,Which page describes safety related information?,semantic_keyword,20. Safety Functions Table,2535,19.84
+auto_01134,ur5e_user_manual,238,semantic,这页主要讲的是哪方面的安全说明内容？,What safety topic is mainly explained on this page?,semantic_topic,20. Safety Functions Table,2535,19.84
+auto_01135,ur5e_user_manual,239,semantic,哪一页介绍了安全说明相关内容？,Which page describes safety related information?,semantic_keyword,20. Safety Functions Table,1680,17.0
+auto_01136,ur5e_user_manual,239,semantic,这页主要讲的是哪方面的安全说明内容？,What safety topic is mainly explained on this page?,semantic_topic,20. Safety Functions Table,1680,17.0

@@ -1,0 +1,41 @@
+{
+  "num_queries": 10,
+  "top1_exact_acc": 0.2,
+  "top5_exact_recall": 0.6,
+  "top1_doc_acc": 0.4,
+  "top5_doc_recall": 0.9,
+  "by_query_type": [
+    {
+      "query_type": "fact",
+      "num_queries": 4,
+      "top1_exact_acc": 0.0,
+      "top5_exact_recall": 0.5,
+      "top1_doc_acc": 0.0,
+      "top5_doc_recall": 0.75
+    },
+    {
+      "query_type": "layout",
+      "num_queries": 2,
+      "top1_exact_acc": 0.5,
+      "top5_exact_recall": 1.0,
+      "top1_doc_acc": 0.5,
+      "top5_doc_recall": 1.0
+    },
+    {
+      "query_type": "navigation",
+      "num_queries": 2,
+      "top1_exact_acc": 0.0,
+      "top5_exact_recall": 0.0,
+      "top1_doc_acc": 1.0,
+      "top5_doc_recall": 1.0
+    },
+    {
+      "query_type": "semantic",
+      "num_queries": 2,
+      "top1_exact_acc": 0.5,
+      "top5_exact_recall": 1.0,
+      "top1_doc_acc": 0.5,
+      "top5_doc_recall": 1.0
+    }
+  ]
+}

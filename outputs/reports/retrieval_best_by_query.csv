@@ -1,0 +1,11 @@
+run_name,query_id,query_type,query_en,gold_doc_id,gold_page_idx,top1_doc_id,top1_page_idx,top1_doc_hit,top1_exact_hit,top5_doc_hit,top5_exact_hit
+bm25,q001,fact,maximum reach 855 mm,fr3_datasheet,1,fr3_product_manual,51,False,False,True,False
+bm25,q002,fact,rated payload 3kg,fr3_datasheet,1,ur5e_user_manual,95,False,False,True,True
+two_stage,q003,fact,degrees of freedom 7,fr3_datasheet,1,fr3_datasheet,1,True,True,True,True
+two_stage,q004,fact,force torque sensing,fr3_datasheet,1,fr3_datasheet,1,True,True,True,True
+siglip_v1,q005,layout,workspace diagram,fr3_product_manual,51,fr3_product_manual,51,True,True,True,True
+siglip_v1,q006,semantic,maximum payload,ur5e_user_manual,95,ur5e_user_manual,95,True,True,True,True
+bm25,q007,navigation,emergency stop,ur5e_user_manual,7,ur5e_user_manual,183,True,False,True,False
+two_stage,q008,navigation,declaration of incorporation,ur5e_user_manual,221,fr3_product_manual,8,False,False,True,True
+bm25,q009,layout,7 dof dimensions,kinova_gen3_user_guide,66,kinova_gen3_user_guide,66,True,True,True,True
+bm25,q010,semantic,robot components,kinova_gen3_user_guide,18,kinova_gen3_user_guide,18,True,True,True,True

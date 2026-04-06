@@ -1,0 +1,8 @@
+{
+  "num_queries": 10,
+  "num_pages_in_smoke_corpus": 7,
+  "top1_exact_acc": 0.5,
+  "top5_exact_recall": 1.0,
+  "top1_doc_acc": 0.6,
+  "top5_doc_recall": 1.0
+}

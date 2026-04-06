@@ -1,0 +1,41 @@
+run_name,query_id,query_type,query_en,gold_doc_id,gold_page_idx,top1_doc_id,top1_page_idx,top1_doc_hit,top1_exact_hit,top5_doc_hit,top5_exact_hit
+bm25,q001,fact,maximum reach 855 mm,fr3_datasheet,1,fr3_product_manual,51,False,False,True,False
+siglip_v1,q001,fact,maximum reach 855 mm,fr3_datasheet,1,kinova_gen3_user_guide,131,False,False,False,False
+siglip_v2,q001,fact,maximum reach 855 mm,fr3_datasheet,1,robotiq_2f_manual,51,False,False,False,False
+two_stage,q001,fact,maximum reach 855 mm,fr3_datasheet,1,kinova_gen3_user_guide,66,False,False,False,False
+bm25,q002,fact,rated payload 3kg,fr3_datasheet,1,ur5e_user_manual,95,False,False,True,True
+siglip_v1,q002,fact,rated payload 3kg,fr3_datasheet,1,kinova_gen3_user_guide,128,False,False,False,False
+siglip_v2,q002,fact,rated payload 3kg,fr3_datasheet,1,ur5e_user_manual,176,False,False,False,False
+two_stage,q002,fact,rated payload 3kg,fr3_datasheet,1,fr3_product_manual,49,False,False,False,False
+bm25,q003,fact,degrees of freedom 7,fr3_datasheet,1,kinova_gen3_user_guide,18,False,False,False,False
+siglip_v1,q003,fact,degrees of freedom 7,fr3_datasheet,1,robotiq_hande_manual,120,False,False,True,True
+siglip_v2,q003,fact,degrees of freedom 7,fr3_datasheet,1,kinova_gen3_user_guide,12,False,False,False,False
+two_stage,q003,fact,degrees of freedom 7,fr3_datasheet,1,fr3_datasheet,1,True,True,True,True
+bm25,q004,fact,force torque sensing,fr3_datasheet,1,fr3_product_manual,49,False,False,True,True
+siglip_v1,q004,fact,force torque sensing,fr3_datasheet,1,ur5e_user_manual,183,False,False,False,False
+siglip_v2,q004,fact,force torque sensing,fr3_datasheet,1,ur5e_user_manual,66,False,False,False,False
+two_stage,q004,fact,force torque sensing,fr3_datasheet,1,fr3_datasheet,1,True,True,True,True
+bm25,q005,layout,workspace diagram,fr3_product_manual,51,kinova_gen3_user_guide,72,False,False,True,True
+siglip_v1,q005,layout,workspace diagram,fr3_product_manual,51,fr3_product_manual,51,True,True,True,True
+siglip_v2,q005,layout,workspace diagram,fr3_product_manual,51,fr3_product_manual,51,True,True,True,True
+two_stage,q005,layout,workspace diagram,fr3_product_manual,51,fr3_product_manual,51,True,True,True,True
+bm25,q006,semantic,maximum payload,ur5e_user_manual,95,robotiq_hande_manual,118,False,False,True,True
+siglip_v1,q006,semantic,maximum payload,ur5e_user_manual,95,ur5e_user_manual,95,True,True,True,True
+siglip_v2,q006,semantic,maximum payload,ur5e_user_manual,95,ur5e_user_manual,43,True,False,True,False
+two_stage,q006,semantic,maximum payload,ur5e_user_manual,95,kinova_gen3_user_guide,219,False,False,True,False
+bm25,q007,navigation,emergency stop,ur5e_user_manual,7,ur5e_user_manual,183,True,False,True,False
+siglip_v1,q007,navigation,emergency stop,ur5e_user_manual,7,ur5e_user_manual,201,True,False,True,False
+siglip_v2,q007,navigation,emergency stop,ur5e_user_manual,7,ur5e_user_manual,203,True,False,True,False
+two_stage,q007,navigation,emergency stop,ur5e_user_manual,7,kinova_gen3_user_guide,191,False,False,False,False
+bm25,q008,navigation,declaration of incorporation,ur5e_user_manual,221,ur5e_user_manual,220,True,False,True,False
+siglip_v1,q008,navigation,declaration of incorporation,ur5e_user_manual,221,intel_realsense_d400_datasheet,43,False,False,True,False
+siglip_v2,q008,navigation,declaration of incorporation,ur5e_user_manual,221,intel_realsense_d400_datasheet,58,False,False,True,False
+two_stage,q008,navigation,declaration of incorporation,ur5e_user_manual,221,fr3_product_manual,8,False,False,True,True
+bm25,q009,layout,7 dof dimensions,kinova_gen3_user_guide,66,kinova_gen3_user_guide,66,True,True,True,True
+siglip_v1,q009,layout,7 dof dimensions,kinova_gen3_user_guide,66,kinova_gen3_user_guide,53,True,False,True,True
+siglip_v2,q009,layout,7 dof dimensions,kinova_gen3_user_guide,66,kinova_gen3_user_guide,66,True,True,True,True
+two_stage,q009,layout,7 dof dimensions,kinova_gen3_user_guide,66,kinova_gen3_user_guide,66,True,True,True,True
+bm25,q010,semantic,robot components,kinova_gen3_user_guide,18,kinova_gen3_user_guide,18,True,True,True,True
+siglip_v1,q010,semantic,robot components,kinova_gen3_user_guide,18,kinova_gen3_user_guide,18,True,True,True,True
+siglip_v2,q010,semantic,robot components,kinova_gen3_user_guide,18,kinova_gen3_user_guide,203,True,False,True,False
+two_stage,q010,semantic,robot components,kinova_gen3_user_guide,18,kinova_gen3_user_guide,18,True,True,True,True

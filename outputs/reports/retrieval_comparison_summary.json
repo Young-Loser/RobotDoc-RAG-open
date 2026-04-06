@@ -1,0 +1,35 @@
+{
+  "available_runs": [
+    "bm25",
+    "siglip_v1",
+    "siglip_v2",
+    "two_stage"
+  ],
+  "num_queries": 10,
+  "run_metrics": {
+    "bm25": {
+      "top1_exact_acc": 0.2,
+      "top5_exact_recall": 0.6,
+      "top1_doc_acc": 0.4,
+      "top5_doc_recall": 0.9
+    },
+    "siglip_v1": {
+      "top1_exact_acc": 0.3,
+      "top5_exact_recall": 0.5,
+      "top1_doc_acc": 0.5,
+      "top5_doc_recall": 0.7
+    },
+    "siglip_v2": {
+      "top1_exact_acc": 0.2,
+      "top5_exact_recall": 0.2,
+      "top1_doc_acc": 0.5,
+      "top5_doc_recall": 0.6
+    },
+    "two_stage": {
+      "top1_exact_acc": 0.5,
+      "top5_exact_recall": 0.6,
+      "top1_doc_acc": 0.5,
+      "top5_doc_recall": 0.7
+    }
+  }
+}

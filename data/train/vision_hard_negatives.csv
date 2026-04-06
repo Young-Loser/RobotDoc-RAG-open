@@ -1,0 +1,575 @@
+query_id,query_en,query_zh,query_type,pos_doc_id,pos_page_idx,neg_doc_id,neg_page_idx,neg_source,neg_score
+auto_00024,Which page discusses '5 WORKING WITH FRANKA RESEARCH 3'?,哪一页介绍了“5 WORKING WITH FRANKA RESEARCH 3”相关内容？,fact,fr3_operating_manual,15,fr3_product_manual,4,vision_hard,18.25
+auto_00027,"Which page discusses 'can then be used, for example, to stop t'?","哪一页介绍了“can then be used, for example, to stop t”相关内容？",fact,fr3_operating_manual,16,ur5e_user_manual,136,vision_hard,13.8125
+auto_00029,Which page visually presents 'Exiting the Assist Mode:'?,哪一页展示了“Exiting the Assist Mode:”的图示页面？,layout,fr3_operating_manual,27,fr3_product_manual,136,vision_hard,15.625
+auto_00036,Which page visually presents 'Guiding Mode'?,哪一页展示了“Guiding Mode”的图示页面？,layout,fr3_operating_manual,33,fr3_product_manual,140,vision_hard,14.75
+auto_00041,Which page contains the specification value 1 s?,哪一页包含参数值 1 s？,fact,fr3_operating_manual,37,robotiq_hande_manual,4,vision_hard,10.5
+auto_00060,Which page discusses 'MANAGINGFRANKARESEARCH 3'?,哪一页介绍了“MANAGINGFRANKARESEARCH 3”相关内容？,fact,fr3_operating_manual,51,fr3_product_manual,164,vision_hard,15.0
+auto_00066,Which page visually presents '9.1.10'?,哪一页展示了“9.1.10”的图示页面？,layout,fr3_operating_manual,61,intel_realsense_d400_datasheet,4,vision_hard,13.0625
+auto_00069,Which page discusses 'Estimation of externally applied torques'?,哪一页介绍了“Estimation of externally applied torques”相关内容？,fact,fr3_operating_manual,62,fr3_product_manual,153,vision_hard,12.6875
+auto_00072,Which page discusses '10.3.3'?,哪一页介绍了“10.3.3”相关内容？,fact,fr3_operating_manual,67,fr3_product_manual,3,vision_hard,14.125
+auto_00077,Which page discusses 'depend on previous operation and ambient'?,哪一页介绍了“depend on previous operation and ambient”相关内容？,fact,fr3_operating_manual,76,fr3_product_manual,28,vision_hard,11.625
+auto_00097,Which page visually presents 'Description: Free editable description o'?,哪一页展示了“Description: Free editable description o”的图示页面？,layout,fr3_operating_manual,92,fr3_product_manual,114,vision_hard,13.3125
+auto_00104,Which page visually presents 'now displayed in green and shows the val'?,哪一页展示了“now displayed in green and shows the val”的图示页面？,layout,fr3_operating_manual,102,fr3_product_manual,123,vision_hard,11.625
+auto_00109,Which page discusses 'SERVICE AND SUPPORT'?,哪一页介绍了“SERVICE AND SUPPORT”相关内容？,fact,fr3_operating_manual,107,fr3_product_manual,5,vision_hard,13.5
+auto_00116,Which page shows the workspace diagram?,哪一页是工作空间示意图页面？,layout,fr3_product_manual,3,ur5e_user_manual,42,vision_hard,11.375
+auto_00117,Which page visually presents '10.2'?,哪一页展示了“10.2”的图示页面？,layout,fr3_product_manual,3,fr3_product_manual,60,vision_hard,12.8125
+auto_00121,Which page mentions reach related specifications?,哪一页提到了最大工作半径相关参数？,fact,fr3_product_manual,6,robotiq_2f_manual,4,vision_hard,8.9375
+auto_00123,Which page shows the workspace diagram?,哪一页是工作空间示意图页面？,layout,fr3_product_manual,18,ur5e_user_manual,42,vision_hard,11.375
+auto_00124,Which page visually presents 'DANGER'?,哪一页展示了“DANGER”的图示页面？,layout,fr3_product_manual,18,fr3_operating_manual,7,vision_hard,12.6875
+auto_00125,Which page shows the workspace diagram?,哪一页是工作空间示意图页面？,layout,fr3_product_manual,20,ur5e_user_manual,42,vision_hard,11.375
+auto_00126,Which page visually presents 'Unexpected motion'?,哪一页展示了“Unexpected motion”的图示页面？,layout,fr3_product_manual,20,fr3_operating_manual,12,vision_hard,12.75
+auto_00127,Which page shows the workspace diagram?,哪一页是工作空间示意图页面？,layout,fr3_product_manual,21,ur5e_user_manual,42,vision_hard,11.375
+auto_00128,Which page visually presents 'Unexpected movement of Arm'?,哪一页展示了“Unexpected movement of Arm”的图示页面？,layout,fr3_product_manual,21,fr3_product_manual,20,vision_hard,14.5
+auto_00130,Which page mentions reach related specifications?,哪一页提到了最大工作半径相关参数？,fact,fr3_product_manual,22,robotiq_2f_manual,4,vision_hard,8.9375
+auto_00132,Which page shows the workspace diagram?,哪一页是工作空间示意图页面？,layout,fr3_product_manual,23,ur5e_user_manual,42,vision_hard,11.375
+auto_00133,Which page visually presents 'Stopping time and distance'?,哪一页展示了“Stopping time and distance”的图示页面？,layout,fr3_product_manual,23,fr3_product_manual,5,vision_hard,14.3125
+auto_00137,Which page mentions reach related specifications?,哪一页提到了最大工作半径相关参数？,fact,fr3_product_manual,28,robotiq_2f_manual,4,vision_hard,8.875
+auto_00146,What components topic is mainly explained on this page?,这页主要讲的是哪方面的组成部件内容？,semantic,fr3_product_manual,39,kinova_gen3_user_guide,75,vision_hard,10.9375
+auto_00152,Which page visually presents 'Equipment Overview'?,哪一页展示了“Equipment Overview”的图示页面？,layout,fr3_product_manual,45,fr3_product_manual,44,vision_hard,12.5
+auto_00156,Which page shows the workspace diagram?,哪一页是工作空间示意图页面？,layout,fr3_product_manual,49,ur5e_user_manual,42,vision_hard,11.375
+auto_00158,Which page visually presents 'TECHNICAL SPECIFICATIONS'?,哪一页展示了“TECHNICAL SPECIFICATIONS”的图示页面？,layout,fr3_product_manual,49,fr3_product_manual,2,vision_hard,15.375
+auto_00160,Which page mentions interface related specifications?,哪一页提到了接口相关参数？,fact,fr3_product_manual,50,kinova_gen3_user_guide,122,vision_hard,9.875
+auto_00162,Which page shows the workspace diagram?,哪一页是工作空间示意图页面？,layout,fr3_product_manual,51,ur5e_user_manual,42,vision_hard,11.375
+auto_00164,Which page visually presents 'TECHNICAL SPECIFICATIONS'?,哪一页展示了“TECHNICAL SPECIFICATIONS”的图示页面？,layout,fr3_product_manual,51,fr3_product_manual,2,vision_hard,15.3125
+auto_00165,Which page shows the workspace diagram?,哪一页是工作空间示意图页面？,layout,fr3_product_manual,53,ur5e_user_manual,42,vision_hard,11.375
+auto_00166,Which page visually presents 'TRANSPORT AND HANDLING'?,哪一页展示了“TRANSPORT AND HANDLING”的图示页面？,layout,fr3_product_manual,53,fr3_product_manual,2,vision_hard,13.8125
+auto_00173,Which page discusses 'Adequate ventilation'?,哪一页介绍了“Adequate ventilation”相关内容？,fact,fr3_product_manual,62,fr3_product_manual,65,vision_hard,13.1875
+auto_00176,Which page contains the specification value 280 Nm?,哪一页包含参数值 280 Nm？,fact,fr3_product_manual,64,robotiq_hande_manual,122,vision_hard,13.0625
+auto_00178,What components topic is mainly explained on this page?,这页主要讲的是哪方面的组成部件内容？,semantic,fr3_product_manual,65,kinova_gen3_user_guide,75,vision_hard,10.9375
+auto_00184,Which page contains the specification value 30 Nm?,哪一页包含参数值 30 Nm？,fact,fr3_product_manual,67,robotiq_2f_manual,125,vision_hard,12.8125
+auto_00187,Which page shows the workspace diagram?,哪一页是工作空间示意图页面？,layout,fr3_product_manual,69,ur5e_user_manual,42,vision_hard,11.375
+auto_00188,Which page visually presents '10.6 Wiring and Electrical Installation'?,哪一页展示了“10.6 Wiring and Electrical Installation”的图示页面？,layout,fr3_product_manual,69,fr3_product_manual,3,vision_hard,14.4375
+auto_00189,Which page visually presents '10.6.1 Connection diagram'?,哪一页展示了“10.6.1 Connection diagram”的图示页面？,layout,fr3_product_manual,70,fr3_product_manual,3,vision_hard,15.1875
+auto_00194,Which page contains the specification value 48V?,哪一页包含参数值 48V？,fact,fr3_product_manual,72,robotiq_2f_manual,126,vision_hard,11.5625
+auto_00193,Which page mentions reach related specifications?,哪一页提到了最大工作半径相关参数？,fact,fr3_product_manual,72,robotiq_2f_manual,4,vision_hard,8.9375
+auto_00195,Which page mentions the emergency stop entry?,哪一页提到了紧急停止相关条目？,navigation,fr3_product_manual,74,ur5e_user_manual,183,vision_hard,13.0625
+auto_00196,Which page contains navigation information about '10.6.4 Wiring'?,哪一页包含“10.6.4 Wiring”这类导航信息？,navigation,fr3_product_manual,74,fr3_product_manual,3,vision_hard,15.0
+auto_00203,Which page shows the workspace diagram?,哪一页是工作空间示意图页面？,layout,fr3_product_manual,78,ur5e_user_manual,42,vision_hard,11.375
+auto_00204,Which page visually presents 'device to the X3 connector.'?,哪一页展示了“device to the X3 connector.”的图示页面？,layout,fr3_product_manual,78,fr3_product_manual,43,vision_hard,14.6875
+auto_00205,Which page shows the workspace diagram?,哪一页是工作空间示意图页面？,layout,fr3_product_manual,79,ur5e_user_manual,42,vision_hard,11.375
+auto_00206,Which page visually presents 'does not adhere to electrical ratings.'?,哪一页展示了“does not adhere to electrical ratings.”的图示页面？,layout,fr3_product_manual,79,fr3_product_manual,77,vision_hard,12.5
+auto_00207,Which page mentions the emergency stop entry?,哪一页提到了紧急停止相关条目？,navigation,fr3_product_manual,80,ur5e_user_manual,183,vision_hard,13.0625
+auto_00208,Which page contains navigation information about 'depends on the end effector and includes'?,哪一页包含“depends on the end effector and includes”这类导航信息？,navigation,fr3_product_manual,80,ur5e_user_manual,92,vision_hard,14.1875
+auto_00209,Which page shows the workspace diagram?,哪一页是工作空间示意图页面？,layout,fr3_product_manual,82,ur5e_user_manual,42,vision_hard,11.375
+auto_00210,Which page visually presents 'Fig. 10.27: Design of the workspace'?,哪一页展示了“Fig. 10.27: Design of the workspace”的图示页面？,layout,fr3_product_manual,82,fr3_product_manual,81,vision_hard,17.375
+auto_00211,Which page mentions the emergency stop entry?,哪一页提到了紧急停止相关条目？,navigation,fr3_product_manual,83,ur5e_user_manual,183,vision_hard,13.0625
+auto_00212,Which page contains navigation information about 'Greatest possible distance to the Arm'?,哪一页包含“Greatest possible distance to the Arm”这类导航信息？,navigation,fr3_product_manual,83,fr3_operating_manual,78,vision_hard,12.3125
+auto_00213,Which page shows the workspace diagram?,哪一页是工作空间示意图页面？,layout,fr3_product_manual,85,ur5e_user_manual,42,vision_hard,11.375
+auto_00214,Which page visually presents '10.9 Re-packing the Arm'?,哪一页展示了“10.9 Re-packing the Arm”的图示页面？,layout,fr3_product_manual,85,fr3_product_manual,3,vision_hard,13.9375
+auto_00238,Which page visually presents 'Safety configuration / Watchman'?,哪一页展示了“Safety configuration / Watchman”的图示页面？,layout,fr3_product_manual,115,fr3_operating_manual,4,vision_hard,15.5
+auto_00240,What components topic is mainly explained on this page?,这页主要讲的是哪方面的组成部件内容？,semantic,fr3_product_manual,117,kinova_gen3_user_guide,75,vision_hard,10.9375
+auto_00242,Which page mentions reach related specifications?,哪一页提到了最大工作半径相关参数？,fact,fr3_product_manual,118,robotiq_2f_manual,4,vision_hard,8.9375
+auto_00243,Which page discusses 'Safety configuration /Watchman'?,哪一页介绍了“Safety configuration /Watchman”相关内容？,fact,fr3_product_manual,118,fr3_operating_manual,4,vision_hard,15.5
+auto_00250,Which page discusses 'Generating forces'?,哪一页介绍了“Generating forces”相关内容？,fact,fr3_product_manual,125,fr3_operating_manual,16,vision_hard,13.3125
+auto_00253,Which page discusses '13.3.2 Execution'?,哪一页介绍了“13.3.2 Execution”相关内容？,fact,fr3_product_manual,130,fr3_product_manual,4,vision_hard,14.625
+auto_00254,Which page shows the workspace diagram?,哪一页是工作空间示意图页面？,layout,fr3_product_manual,131,ur5e_user_manual,42,vision_hard,11.375
+auto_00255,Which page visually presents 'Dangerous and uncontrolled motions of th'?,哪一页展示了“Dangerous and uncontrolled motions of th”的图示页面？,layout,fr3_product_manual,131,fr3_product_manual,18,vision_hard,16.875
+auto_00262,Which page shows the workspace diagram?,哪一页是工作空间示意图页面？,layout,fr3_product_manual,143,ur5e_user_manual,42,vision_hard,11.375
+auto_00263,Which page visually presents '13.6.1 Apps'?,哪一页展示了“13.6.1 Apps”的图示页面？,layout,fr3_product_manual,143,fr3_product_manual,4,vision_hard,14.6875
+auto_00266,Which page contains the specification value 0 mm?,哪一页包含参数值 0 mm？,fact,fr3_product_manual,146,robotiq_hande_manual,91,vision_hard,12.4375
+auto_00265,Which page mentions reach related specifications?,哪一页提到了最大工作半径相关参数？,fact,fr3_product_manual,146,robotiq_2f_manual,4,vision_hard,8.9375
+auto_00268,Which page mentions reach related specifications?,哪一页提到了最大工作半径相关参数？,fact,fr3_product_manual,150,robotiq_2f_manual,4,vision_hard,8.9375
+auto_00273,Which page visually presents '13.7 Franka Control Interface (FCl)'?,哪一页展示了“13.7 Franka Control Interface (FCl)”的图示页面？,layout,fr3_product_manual,153,fr3_product_manual,4,vision_hard,18.125
+auto_00279,Which page mentions reach related specifications?,哪一页提到了最大工作半径相关参数？,fact,fr3_product_manual,168,robotiq_2f_manual,4,vision_hard,8.9375
+auto_00280,Which page discusses 'MANAGING FRANKA RESEARCH 3'?,哪一页介绍了“MANAGING FRANKA RESEARCH 3”相关内容？,fact,fr3_product_manual,168,fr3_product_manual,164,vision_hard,17.75
+auto_00282,What components topic is mainly explained on this page?,这页主要讲的是哪方面的组成部件内容？,semantic,fr3_product_manual,170,kinova_gen3_user_guide,75,vision_hard,10.9375
+auto_00284,Which page mentions reach related specifications?,哪一页提到了最大工作半径相关参数？,fact,fr3_product_manual,172,robotiq_2f_manual,4,vision_hard,8.9375
+auto_00285,Which page discusses 'SERVICE AND SUPPORT'?,哪一页介绍了“SERVICE AND SUPPORT”相关内容？,fact,fr3_product_manual,172,fr3_product_manual,5,vision_hard,13.5
+auto_00292,Which page contains the specification value 42 ms?,哪一页包含参数值 42 ms？,fact,fr3_product_manual,196,ur5e_user_manual,107,vision_hard,10.9375
+auto_00295,Which page shows the workspace diagram?,哪一页是工作空间示意图页面？,layout,fr3_product_manual,199,ur5e_user_manual,42,vision_hard,11.375
+auto_00296,Which page visually presents 'GLOSSARY'?,哪一页展示了“GLOSSARY”的图示页面？,layout,fr3_product_manual,199,fr3_product_manual,5,vision_hard,12.25
+auto_00298,Which page mentions interface related specifications?,哪一页提到了接口相关参数？,fact,fr3_product_manual,203,fr3_product_manual,50,vision_hard,10.125
+auto_00300,Which page shows the workspace diagram?,哪一页是工作空间示意图页面？,layout,fr3_product_manual,205,ur5e_user_manual,42,vision_hard,11.375
+auto_00302,Which page visually presents 'TABLE OF FIGURES'?,哪一页展示了“TABLE OF FIGURES”的图示页面？,layout,fr3_product_manual,205,fr3_operating_manual,5,vision_hard,14.625
+auto_00304,Which page mentions reach related specifications?,哪一页提到了最大工作半径相关参数？,fact,fr3_product_manual,206,robotiq_2f_manual,4,vision_hard,8.9375
+auto_00305,Which page discusses 'TABLE OF FIGURES'?,哪一页介绍了“TABLE OF FIGURES”相关内容？,fact,fr3_product_manual,206,fr3_product_manual,5,vision_hard,14.875
+auto_00307,Which page visually presents 'Description and Features'?,哪一页展示了“Description and Features”的图示页面？,layout,intel_realsense_d400_datasheet,2,intel_realsense_d400_datasheet,9,vision_hard,13.5
+auto_00309,Which page visually presents '(intel)'?,哪一页展示了“(intel)”的图示页面？,layout,intel_realsense_d400_datasheet,3,intel_realsense_d400_datasheet,1,vision_hard,10.8125
+auto_00310,Which page visually presents '(intel)'?,哪一页展示了“(intel)”的图示页面？,layout,intel_realsense_d400_datasheet,5,intel_realsense_d400_datasheet,1,vision_hard,10.8125
+auto_00313,Which page visually presents 'Description and Features'?,哪一页展示了“Description and Features”的图示页面？,layout,intel_realsense_d400_datasheet,6,intel_realsense_d400_datasheet,2,vision_hard,13.625
+auto_00316,Which page visually presents '(intel)'?,哪一页展示了“(intel)”的图示页面？,layout,intel_realsense_d400_datasheet,7,intel_realsense_d400_datasheet,1,vision_hard,10.8125
+auto_00320,Which page mentions sensor related specifications?,哪一页提到了传感器相关参数？,fact,intel_realsense_d400_datasheet,9,kinova_gen3_user_guide,2,vision_hard,11.25
+auto_00321,Which page discusses '(intel)'?,哪一页介绍了“(intel)”相关内容？,fact,intel_realsense_d400_datasheet,9,intel_realsense_d400_datasheet,1,vision_hard,10.625
+auto_00324,Which page contains the specification value 0.3m?,哪一页包含参数值 0.3m？,fact,intel_realsense_d400_datasheet,10,kinova_gen3_user_guide,85,vision_hard,11.625
+auto_00322,What specification about degrees of freedom is given on this page?,这页中关于自由度的参数是什么？,fact,intel_realsense_d400_datasheet,10,fr3_product_manual,49,vision_hard,15.5
+auto_00323,Which page mentions degrees of freedom related specifications?,哪一页提到了自由度相关参数？,fact,intel_realsense_d400_datasheet,10,fr3_product_manual,49,vision_hard,11.75
+auto_00325,What specification about degrees of freedom is given on this page?,这页中关于自由度的参数是什么？,fact,intel_realsense_d400_datasheet,11,fr3_product_manual,49,vision_hard,15.5
+auto_00326,Which page mentions degrees of freedom related specifications?,哪一页提到了自由度相关参数？,fact,intel_realsense_d400_datasheet,11,fr3_product_manual,49,vision_hard,11.8125
+auto_00330,Which page contains the specification value 20 mm?,哪一页包含参数值 20 mm？,fact,intel_realsense_d400_datasheet,12,intel_realsense_d400_datasheet,65,vision_hard,12.5
+auto_00328,What specification about interface is given on this page?,这页中关于接口的参数是什么？,fact,intel_realsense_d400_datasheet,12,fr3_product_manual,72,vision_hard,12.625
+auto_00333,Which page contains the specification value 28nm?,哪一页包含参数值 28nm？,fact,intel_realsense_d400_datasheet,17,intel_realsense_d400_datasheet,118,vision_hard,11.0625
+auto_00338,Which page contains the specification value 0.9V?,哪一页包含参数值 0.9V？,fact,intel_realsense_d400_datasheet,22,intel_realsense_d400_datasheet,116,vision_hard,14.5625
+auto_00345,Which page discusses 'Temperature (Short'?,哪一页介绍了“Temperature (Short”相关内容？,fact,intel_realsense_d400_datasheet,31,intel_realsense_d400_datasheet,51,vision_hard,10.625
+auto_00348,Which page contains the specification value 55mm?,哪一页包含参数值 55mm？,fact,intel_realsense_d400_datasheet,32,intel_realsense_d400_datasheet,50,vision_hard,12.125
+auto_00353,Which page contains the specification value 1.93mm?,哪一页包含参数值 1.93mm？,fact,intel_realsense_d400_datasheet,34,robotiq_hande_manual,91,vision_hard,12.9375
+auto_00356,Which page contains the specification value 4.25W?,哪一页包含参数值 4.25W？,fact,intel_realsense_d400_datasheet,35,ur5e_user_manual,68,vision_hard,11.8125
+auto_00358,Which page visually presents '3.6.4'?,哪一页展示了“3.6.4”的图示页面？,layout,intel_realsense_d400_datasheet,36,intel_realsense_d400_datasheet,37,vision_hard,12.3125
+auto_00361,Which page discusses '(intel'?,哪一页介绍了“(intel”相关内容？,fact,intel_realsense_d400_datasheet,37,intel_realsense_d400_datasheet,1,vision_hard,9.75
+auto_00363,Which page visually presents 'Table 3-26. Intel® RealSense Depth Modul'?,哪一页展示了“Table 3-26. Intel® RealSense Depth Modul”的图示页面？,layout,intel_realsense_d400_datasheet,39,intel_realsense_d400_datasheet,6,vision_hard,20.125
+auto_00366,Which page discusses 'Intel® RealSense Vision Processor D4 Boa'?,哪一页介绍了“Intel® RealSense Vision Processor D4 Boa”相关内容？,fact,intel_realsense_d400_datasheet,40,intel_realsense_d400_datasheet,17,vision_hard,18.0
+auto_00367,Which page contains the dimensions diagram?,哪一页包含尺寸图或尺寸示意？,layout,intel_realsense_d400_datasheet,41,robotiq_2f_manual,104,vision_hard,11.0625
+auto_00368,Which page visually presents '3.7.1'?,哪一页展示了“3.7.1”的图示页面？,layout,intel_realsense_d400_datasheet,41,robotiq_hande_manual,30,vision_hard,13.625
+auto_00369,Which page visually presents '(0) +44 (0) 1444 461620'?,哪一页展示了“(0) +44 (0) 1444 461620”的图示页面？,layout,intel_realsense_d400_datasheet,46,kinova_gen3_user_guide,132,vision_hard,16.625
+auto_00374,Which page contains the specification value 1M?,哪一页包含参数值 1M？,fact,intel_realsense_d400_datasheet,48,intel_realsense_d400_datasheet,19,vision_hard,10.5625
+auto_00376,Which page visually presents 'Figure 3-14. Intel® RealSense Depth Came'?,哪一页展示了“Figure 3-14. Intel® RealSense Depth Came”的图示页面？,layout,intel_realsense_d400_datasheet,50,intel_realsense_d400_datasheet,5,vision_hard,20.125
+auto_00377,Which page discusses 'Minimum-Z Depth'?,哪一页介绍了“Minimum-Z Depth”相关内容？,fact,intel_realsense_d400_datasheet,59,intel_realsense_d400_datasheet,3,vision_hard,12.4375
+auto_00380,Which page contains the specification value 4g?,哪一页包含参数值 4g？,fact,intel_realsense_d400_datasheet,67,ur5e_user_manual,6,vision_hard,10.3125
+auto_00378,What specification about degrees of freedom is given on this page?,这页中关于自由度的参数是什么？,fact,intel_realsense_d400_datasheet,67,fr3_product_manual,49,vision_hard,15.5
+auto_00379,Which page mentions degrees of freedom related specifications?,哪一页提到了自由度相关参数？,fact,intel_realsense_d400_datasheet,67,fr3_product_manual,49,vision_hard,11.8125
+auto_00381,Which page visually presents 'The small size of the stereo depth modul'?,哪一页展示了“The small size of the stereo depth modul”的图示页面？,layout,intel_realsense_d400_datasheet,70,intel_realsense_d400_datasheet,77,vision_hard,14.5625
+auto_00386,Which page visually presents 'Vision Processor D4 Board for Integrated'?,哪一页展示了“Vision Processor D4 Board for Integrated”的图示页面？,layout,intel_realsense_d400_datasheet,73,intel_realsense_d400_datasheet,75,vision_hard,16.625
+auto_00391,Which page discusses 'Table 7-7. Vision Processor D4 Board - C'?,哪一页介绍了“Table 7-7. Vision Processor D4 Board - C”相关内容？,fact,intel_realsense_d400_datasheet,76,intel_realsense_d400_datasheet,75,vision_hard,20.125
+auto_00392,What specification about torque is given on this page?,这页中关于力矩的参数是什么？,fact,intel_realsense_d400_datasheet,77,kinova_gen3_user_guide,128,vision_hard,12.9375
+auto_00394,Which page discusses 'the thermocouple test location is any po'?,哪一页介绍了“the thermocouple test location is any po”相关内容？,fact,intel_realsense_d400_datasheet,77,ur5e_user_manual,219,vision_hard,11.9375
+auto_00399,Which page contains the specification value 850nm?,哪一页包含参数值 850nm？,fact,intel_realsense_d400_datasheet,81,intel_realsense_d400_datasheet,35,vision_hard,12.9375
+auto_00400,Which page visually presents 'Figure 7-16. Firmware Recovery Sequence'?,哪一页展示了“Figure 7-16. Firmware Recovery Sequence”的图示页面？,layout,intel_realsense_d400_datasheet,84,intel_realsense_d400_datasheet,83,vision_hard,18.25
+auto_00403,What specification about interface is given on this page?,这页中关于接口的参数是什么？,fact,intel_realsense_d400_datasheet,93,fr3_product_manual,72,vision_hard,12.5625
+auto_00405,Which page discusses 'Platform Design Guidelines'?,哪一页介绍了“Platform Design Guidelines”相关内容？,fact,intel_realsense_d400_datasheet,93,intel_realsense_d400_datasheet,4,vision_hard,14.5
+auto_00407,Which page visually presents 'Mechanical Drawings'?,哪一页展示了“Mechanical Drawings”的图示页面？,layout,intel_realsense_d400_datasheet,103,intel_realsense_d400_datasheet,98,vision_hard,14.0625
+auto_00411,Which page visually presents 'Connection'?,哪一页展示了“Connection”的图示页面？,layout,intel_realsense_d400_datasheet,112,kinova_gen3_user_guide,2,vision_hard,10.0
+auto_00413,Which page visually presents 'Figure 12-1. Vision Processor D4 Laser P'?,哪一页展示了“Figure 12-1. Vision Processor D4 Laser P”的图示页面？,layout,intel_realsense_d400_datasheet,115,intel_realsense_d400_datasheet,117,vision_hard,19.875
+auto_00415,Which page visually presents 'Figure 12-4. Vision Processor D4 VDD_PG '?,哪一页展示了“Figure 12-4. Vision Processor D4 VDD_PG ”的图示页面？,layout,intel_realsense_d400_datasheet,117,intel_realsense_d400_datasheet,6,vision_hard,20.5
+auto_00418,Which page contains the specification value 0.005mm?,哪一页包含参数值 0.005mm？,fact,intel_realsense_d400_datasheet,118,robotiq_2f_manual,118,vision_hard,14.6875
+auto_00419,Which page shows the workspace diagram?,哪一页是工作空间示意图页面？,layout,kinova_gen3_user_guide,2,ur5e_user_manual,42,vision_hard,11.375
+auto_00420,Which page contains the dimensions diagram?,哪一页包含尺寸图或尺寸示意？,layout,kinova_gen3_user_guide,2,robotiq_2f_manual,104,vision_hard,11.0625
+auto_00421,Which page contains the schematic diagram?,哪一页包含结构/原理示意图？,layout,kinova_gen3_user_guide,2,kinova_gen3_user_guide,67,vision_hard,12.125
+auto_00422,Which page describes safety related information?,哪一页介绍了安全说明相关内容？,semantic,kinova_gen3_user_guide,3,ur5e_user_manual,28,vision_hard,12.0625
+auto_00423,What safety topic is mainly explained on this page?,这页主要讲的是哪方面的安全说明内容？,semantic,kinova_gen3_user_guide,3,robotiq_2f_manual,15,vision_hard,12.5
+auto_00424,Which page describes safety related information?,哪一页介绍了安全说明相关内容？,semantic,kinova_gen3_user_guide,12,ur5e_user_manual,28,vision_hard,12.0625
+auto_00425,What safety topic is mainly explained on this page?,这页主要讲的是哪方面的安全说明内容？,semantic,kinova_gen3_user_guide,12,robotiq_2f_manual,15,vision_hard,12.5
+auto_00428,Which page contains the specification value 20 cm?,哪一页包含参数值 20 cm？,fact,kinova_gen3_user_guide,13,intel_realsense_d400_datasheet,65,vision_hard,11.3125
+auto_00426,What specification about payload is given on this page?,这页中关于额定负载的参数是什么？,fact,kinova_gen3_user_guide,13,ur5e_user_manual,100,vision_hard,14.0625
+auto_00429,What specification about torque is given on this page?,这页中关于力矩的参数是什么？,fact,kinova_gen3_user_guide,14,kinova_gen3_user_guide,128,vision_hard,12.875
+auto_00430,Which page mentions torque related specifications?,哪一页提到了力矩相关参数？,fact,kinova_gen3_user_guide,14,robotiq_2f_manual,4,vision_hard,10.3125
+auto_00431,Which page discusses 'torque control.'?,哪一页介绍了“torque control.”相关内容？,fact,kinova_gen3_user_guide,14,kinova_gen3_user_guide,100,vision_hard,14.3125
+auto_00434,Which page contains the specification value 4.0 kg?,哪一页包含参数值 4.0 kg？,fact,kinova_gen3_user_guide,16,fr3_product_manual,49,vision_hard,12.875
+auto_00432,What specification about reach is given on this page?,这页中关于最大工作半径的参数是什么？,fact,kinova_gen3_user_guide,16,ur5e_user_manual,16,vision_hard,13.3125
+auto_00433,Which page mentions reach related specifications?,哪一页提到了最大工作半径相关参数？,fact,kinova_gen3_user_guide,16,robotiq_2f_manual,4,vision_hard,8.875
+auto_00435,What specification about degrees of freedom is given on this page?,这页中关于自由度的参数是什么？,fact,kinova_gen3_user_guide,18,fr3_product_manual,49,vision_hard,15.5
+auto_00436,Which page mentions degrees of freedom related specifications?,哪一页提到了自由度相关参数？,fact,kinova_gen3_user_guide,18,fr3_product_manual,49,vision_hard,11.75
+auto_00437,Which page discusses 'Robot components'?,哪一页介绍了“Robot components”相关内容？,fact,kinova_gen3_user_guide,18,kinova_gen3_user_guide,1,vision_hard,13.6875
+auto_00438,What specification about dof is given on this page?,这页中关于自由度的参数是什么？,fact,kinova_gen3_user_guide,19,kinova_gen3_user_guide,91,vision_hard,13.875
+auto_00439,Which page mentions dof related specifications?,哪一页提到了自由度相关参数？,fact,kinova_gen3_user_guide,19,kinova_gen3_user_guide,66,vision_hard,9.375
+auto_00440,Which page discusses 'Wrist'?,哪一页介绍了“Wrist”相关内容？,fact,kinova_gen3_user_guide,19,ur5e_user_manual,44,vision_hard,11.8125
+auto_00441,What specification about degrees of freedom is given on this page?,这页中关于自由度的参数是什么？,fact,kinova_gen3_user_guide,20,fr3_product_manual,49,vision_hard,15.5
+auto_00442,Which page mentions degrees of freedom related specifications?,哪一页提到了自由度相关参数？,fact,kinova_gen3_user_guide,20,fr3_product_manual,49,vision_hard,11.75
+auto_00443,Which page discusses 'Table 6: Base options'?,哪一页介绍了“Table 6: Base options”相关内容？,fact,kinova_gen3_user_guide,20,kinova_gen3_user_guide,19,vision_hard,12.25
+auto_00450,Which page contains the specification value 100 Mbps?,哪一页包含参数值 100 Mbps？,fact,kinova_gen3_user_guide,25,ur5e_user_manual,62,vision_hard,12.5625
+auto_00448,What specification about torque is given on this page?,这页中关于力矩的参数是什么？,fact,kinova_gen3_user_guide,25,kinova_gen3_user_guide,128,vision_hard,12.9375
+auto_00449,Which page mentions torque related specifications?,哪一页提到了力矩相关参数？,fact,kinova_gen3_user_guide,25,robotiq_2f_manual,4,vision_hard,10.3125
+auto_00451,Which page describes components related information?,哪一页介绍了组成部件相关内容？,semantic,kinova_gen3_user_guide,26,robotiq_2f_manual,4,vision_hard,10.5
+auto_00452,What components topic is mainly explained on this page?,这页主要讲的是哪方面的组成部件内容？,semantic,kinova_gen3_user_guide,26,kinova_gen3_user_guide,75,vision_hard,10.9375
+auto_00453,Which page describes module related information?,哪一页介绍了module相关内容？,semantic,kinova_gen3_user_guide,27,kinova_gen3_user_guide,4,vision_hard,9.375
+auto_00454,What module topic is mainly explained on this page?,这页主要讲的是哪方面的module内容？,semantic,kinova_gen3_user_guide,27,kinova_gen3_user_guide,75,vision_hard,10.375
+auto_00455,What specification about sensor is given on this page?,这页中关于传感器的参数是什么？,fact,kinova_gen3_user_guide,28,intel_realsense_d400_datasheet,35,vision_hard,14.0
+auto_00456,Which page mentions sensor related specifications?,哪一页提到了传感器相关参数？,fact,kinova_gen3_user_guide,28,kinova_gen3_user_guide,2,vision_hard,11.25
+auto_00457,Which page discusses 'vision module (if present) and any conne'?,哪一页介绍了“vision module (if present) and any conne”相关内容？,fact,kinova_gen3_user_guide,28,kinova_gen3_user_guide,27,vision_hard,16.375
+auto_00460,Which page contains the specification value 30 cm?,哪一页包含参数值 30 cm？,fact,kinova_gen3_user_guide,29,intel_realsense_d400_datasheet,25,vision_hard,10.75
+auto_00458,What specification about sensor is given on this page?,这页中关于传感器的参数是什么？,fact,kinova_gen3_user_guide,29,intel_realsense_d400_datasheet,35,vision_hard,14.0
+auto_00459,Which page mentions sensor related specifications?,哪一页提到了传感器相关参数？,fact,kinova_gen3_user_guide,29,kinova_gen3_user_guide,2,vision_hard,11.25
+auto_00461,Which page describes module related information?,哪一页介绍了module相关内容？,semantic,kinova_gen3_user_guide,30,kinova_gen3_user_guide,4,vision_hard,9.3125
+auto_00462,What module topic is mainly explained on this page?,这页主要讲的是哪方面的module内容？,semantic,kinova_gen3_user_guide,30,kinova_gen3_user_guide,75,vision_hard,10.3125
+auto_00463,Which page contains the 7 DoF dimensions figure?,哪一页包含 7 自由度相关尺寸图？,layout,kinova_gen3_user_guide,31,kinova_gen3_user_guide,206,vision_hard,13.5625
+auto_00464,Which page visually presents 'addresses:'?,哪一页展示了“addresses:”的图示页面？,layout,kinova_gen3_user_guide,31,kinova_gen3_user_guide,159,vision_hard,9.375
+auto_00467,Which page contains the specification value 5 mm?,哪一页包含参数值 5 mm？,fact,kinova_gen3_user_guide,34,robotiq_hande_manual,116,vision_hard,11.5
+auto_00465,What specification about torque is given on this page?,这页中关于力矩的参数是什么？,fact,kinova_gen3_user_guide,34,kinova_gen3_user_guide,128,vision_hard,12.875
+auto_00466,Which page mentions torque related specifications?,哪一页提到了力矩相关参数？,fact,kinova_gen3_user_guide,34,robotiq_2f_manual,4,vision_hard,10.3125
+auto_00468,What specification about payload is given on this page?,这页中关于额定负载的参数是什么？,fact,kinova_gen3_user_guide,35,ur5e_user_manual,100,vision_hard,14.0625
+auto_00470,Which page discusses 'Before you begin'?,哪一页介绍了“Before you begin”相关内容？,fact,kinova_gen3_user_guide,35,kinova_gen3_user_guide,63,vision_hard,12.125
+auto_00471,What specification about payload is given on this page?,这页中关于额定负载的参数是什么？,fact,kinova_gen3_user_guide,37,ur5e_user_manual,100,vision_hard,14.0625
+auto_00473,Which page discusses 'Mounting the robot on a horizontal surfa'?,哪一页介绍了“Mounting the robot on a horizontal surfa”相关内容？,fact,kinova_gen3_user_guide,37,kinova_gen3_user_guide,40,vision_hard,17.5
+auto_00475,Which page describes safety related information?,哪一页介绍了安全说明相关内容？,semantic,kinova_gen3_user_guide,43,ur5e_user_manual,28,vision_hard,12.0625
+auto_00476,What safety topic is mainly explained on this page?,这页主要讲的是哪方面的安全说明内容？,semantic,kinova_gen3_user_guide,43,robotiq_2f_manual,15,vision_hard,12.5
+auto_00479,Which page describes status related information?,哪一页介绍了状态说明相关内容？,semantic,kinova_gen3_user_guide,46,robotiq_hande_manual,44,vision_hard,9.125
+auto_00480,What status topic is mainly explained on this page?,这页主要讲的是哪方面的状态说明内容？,semantic,kinova_gen3_user_guide,46,fr3_operating_manual,105,vision_hard,9.1875
+auto_00481,What specification about reach is given on this page?,这页中关于最大工作半径的参数是什么？,fact,kinova_gen3_user_guide,47,ur5e_user_manual,16,vision_hard,13.25
+auto_00482,Which page mentions reach related specifications?,哪一页提到了最大工作半径相关参数？,fact,kinova_gen3_user_guide,47,robotiq_2f_manual,4,vision_hard,8.875
+auto_00483,Which page discusses 'Connecting an Xbox gamepad to the robot'?,哪一页介绍了“Connecting an Xbox gamepad to the robot”相关内容？,fact,kinova_gen3_user_guide,47,kinova_gen3_user_guide,32,vision_hard,16.75
+auto_00484,What specification about reach is given on this page?,这页中关于最大工作半径的参数是什么？,fact,kinova_gen3_user_guide,54,ur5e_user_manual,16,vision_hard,13.25
+auto_00485,Which page mentions reach related specifications?,哪一页提到了最大工作半径相关参数？,fact,kinova_gen3_user_guide,54,robotiq_2f_manual,4,vision_hard,8.875
+auto_00486,Which page discusses 'Table 16: Joint - general controls plus:'?,哪一页介绍了“Table 16: Joint - general controls plus:”相关内容？,fact,kinova_gen3_user_guide,54,kinova_gen3_user_guide,53,vision_hard,16.75
+auto_00487,What specification about torque is given on this page?,这页中关于力矩的参数是什么？,fact,kinova_gen3_user_guide,55,kinova_gen3_user_guide,128,vision_hard,12.875
+auto_00488,Which page mentions torque related specifications?,哪一页提到了力矩相关参数？,fact,kinova_gen3_user_guide,55,robotiq_2f_manual,4,vision_hard,10.3125
+auto_00489,Which page discusses 'Previous control mapping'?,哪一页介绍了“Previous control mapping”相关内容？,fact,kinova_gen3_user_guide,55,kinova_gen3_user_guide,56,vision_hard,14.0
+auto_00490,What specification about reach is given on this page?,这页中关于最大工作半径的参数是什么？,fact,kinova_gen3_user_guide,56,ur5e_user_manual,16,vision_hard,13.3125
+auto_00491,Which page mentions reach related specifications?,哪一页提到了最大工作半径相关参数？,fact,kinova_gen3_user_guide,56,robotiq_2f_manual,4,vision_hard,8.875
+auto_00492,Which page discusses 'Previous control mapping'?,哪一页介绍了“Previous control mapping”相关内容？,fact,kinova_gen3_user_guide,56,kinova_gen3_user_guide,55,vision_hard,13.875
+auto_00493,What specification about degrees of freedom is given on this page?,这页中关于自由度的参数是什么？,fact,kinova_gen3_user_guide,57,fr3_product_manual,49,vision_hard,15.5
+auto_00494,Which page mentions degrees of freedom related specifications?,哪一页提到了自由度相关参数？,fact,kinova_gen3_user_guide,57,fr3_product_manual,49,vision_hard,11.75
+auto_00495,Which page discusses 'The two interface module buttons each of'?,哪一页介绍了“The two interface module buttons each of”相关内容？,fact,kinova_gen3_user_guide,57,kinova_gen3_user_guide,26,vision_hard,15.3125
+auto_00498,Which page contains the specification value 2Nm?,哪一页包含参数值 2Nm？,fact,kinova_gen3_user_guide,61,robotiq_hande_manual,122,vision_hard,12.6875
+auto_00496,What specification about torque is given on this page?,这页中关于力矩的参数是什么？,fact,kinova_gen3_user_guide,61,kinova_gen3_user_guide,128,vision_hard,12.875
+auto_00497,Which page mentions torque related specifications?,哪一页提到了力矩相关参数？,fact,kinova_gen3_user_guide,61,robotiq_2f_manual,4,vision_hard,10.3125
+auto_00499,Which page contains the dimensions diagram?,哪一页包含尺寸图或尺寸示意？,layout,kinova_gen3_user_guide,66,robotiq_2f_manual,104,vision_hard,11.0625
+auto_00500,Which page contains the schematic diagram?,哪一页包含结构/原理示意图？,layout,kinova_gen3_user_guide,66,kinova_gen3_user_guide,67,vision_hard,12.0625
+auto_00501,Which page contains the 7 DoF dimensions figure?,哪一页包含 7 自由度相关尺寸图？,layout,kinova_gen3_user_guide,66,kinova_gen3_user_guide,206,vision_hard,13.5625
+auto_00502,Which page contains the dimensions diagram?,哪一页包含尺寸图或尺寸示意？,layout,kinova_gen3_user_guide,67,robotiq_2f_manual,104,vision_hard,11.0625
+auto_00503,Which page contains the schematic diagram?,哪一页包含结构/原理示意图？,layout,kinova_gen3_user_guide,67,kinova_gen3_user_guide,66,vision_hard,12.0
+auto_00504,Which page visually presents 'Length (mm)'?,哪一页展示了“Length (mm)”的图示页面？,layout,kinova_gen3_user_guide,67,kinova_gen3_user_guide,66,vision_hard,12.375
+auto_00505,Which page contains the dimensions diagram?,哪一页包含尺寸图或尺寸示意？,layout,kinova_gen3_user_guide,68,robotiq_2f_manual,104,vision_hard,11.0625
+auto_00506,Which page visually presents 'Figure 32: 6 DoF spherical wrist frames '?,哪一页展示了“Figure 32: 6 DoF spherical wrist frames ”的图示页面？,layout,kinova_gen3_user_guide,68,kinova_gen3_user_guide,66,vision_hard,17.625
+auto_00509,Which page contains the specification value 60Hz?,哪一页包含参数值 60Hz？,fact,kinova_gen3_user_guide,69,fr3_product_manual,76,vision_hard,12.6875
+auto_00507,What specification about payload is given on this page?,这页中关于额定负载的参数是什么？,fact,kinova_gen3_user_guide,69,ur5e_user_manual,100,vision_hard,14.0625
+auto_00512,Which page contains the specification value 100 Mbps?,哪一页包含参数值 100 Mbps？,fact,kinova_gen3_user_guide,70,ur5e_user_manual,62,vision_hard,12.5625
+auto_00510,What specification about sensor is given on this page?,这页中关于传感器的参数是什么？,fact,kinova_gen3_user_guide,70,intel_realsense_d400_datasheet,35,vision_hard,14.0
+auto_00511,Which page mentions sensor related specifications?,哪一页提到了传感器相关参数？,fact,kinova_gen3_user_guide,70,kinova_gen3_user_guide,2,vision_hard,11.25
+auto_00515,Which page contains the specification value 30 cm?,哪一页包含参数值 30 cm？,fact,kinova_gen3_user_guide,71,intel_realsense_d400_datasheet,25,vision_hard,10.75
+auto_00513,What specification about torque is given on this page?,这页中关于力矩的参数是什么？,fact,kinova_gen3_user_guide,71,kinova_gen3_user_guide,128,vision_hard,12.9375
+auto_00514,Which page mentions torque related specifications?,哪一页提到了力矩相关参数？,fact,kinova_gen3_user_guide,71,robotiq_2f_manual,4,vision_hard,10.3125
+auto_00516,Which page shows the workspace diagram?,哪一页是工作空间示意图页面？,layout,kinova_gen3_user_guide,72,ur5e_user_manual,42,vision_hard,11.375
+auto_00517,Which page contains the dimensions diagram?,哪一页包含尺寸图或尺寸示意？,layout,kinova_gen3_user_guide,72,robotiq_2f_manual,104,vision_hard,11.0
+auto_00518,Which page contains the 7 DoF dimensions figure?,哪一页包含 7 自由度相关尺寸图？,layout,kinova_gen3_user_guide,72,kinova_gen3_user_guide,206,vision_hard,13.5625
+auto_00519,What specification about payload is given on this page?,这页中关于额定负载的参数是什么？,fact,kinova_gen3_user_guide,76,ur5e_user_manual,100,vision_hard,14.0625
+auto_00521,Which page discusses 'to avoid hindering the effectiveness of '?,哪一页介绍了“to avoid hindering the effectiveness of ”相关内容？,fact,kinova_gen3_user_guide,76,ur5e_user_manual,61,vision_hard,11.1875
+auto_00522,Which page describes module related information?,哪一页介绍了module相关内容？,semantic,kinova_gen3_user_guide,77,kinova_gen3_user_guide,4,vision_hard,9.375
+auto_00523,What module topic is mainly explained on this page?,这页主要讲的是哪方面的module内容？,semantic,kinova_gen3_user_guide,77,kinova_gen3_user_guide,75,vision_hard,10.375
+auto_00526,Which page contains the specification value 3 mm?,哪一页包含参数值 3 mm？,fact,kinova_gen3_user_guide,79,intel_realsense_d400_datasheet,51,vision_hard,11.375
+auto_00524,What specification about payload is given on this page?,这页中关于额定负载的参数是什么？,fact,kinova_gen3_user_guide,79,ur5e_user_manual,100,vision_hard,14.0625
+auto_00525,Which page mentions payload related specifications?,哪一页提到了额定负载相关参数？,fact,kinova_gen3_user_guide,79,robotiq_2f_manual,4,vision_hard,10.5625
+auto_00527,Which page describes installation related information?,哪一页介绍了安装说明相关内容？,semantic,kinova_gen3_user_guide,80,robotiq_hande_manual,2,vision_hard,12.5
+auto_00528,What installation topic is mainly explained on this page?,这页主要讲的是哪方面的安装说明内容？,semantic,kinova_gen3_user_guide,80,robotiq_hande_manual,2,vision_hard,11.875
+auto_00529,Which page describes module related information?,哪一页介绍了module相关内容？,semantic,kinova_gen3_user_guide,81,kinova_gen3_user_guide,4,vision_hard,9.375
+auto_00530,What module topic is mainly explained on this page?,这页主要讲的是哪方面的module内容？,semantic,kinova_gen3_user_guide,81,kinova_gen3_user_guide,75,vision_hard,10.375
+auto_00531,Which page describes operation related information?,哪一页介绍了操作说明相关内容？,semantic,kinova_gen3_user_guide,82,fr3_product_manual,3,vision_hard,9.8125
+auto_00532,What operation topic is mainly explained on this page?,这页主要讲的是哪方面的操作说明内容？,semantic,kinova_gen3_user_guide,82,fr3_product_manual,107,vision_hard,9.5625
+auto_00533,Which page describes safety related information?,哪一页介绍了安全说明相关内容？,semantic,kinova_gen3_user_guide,84,ur5e_user_manual,28,vision_hard,12.0625
+auto_00534,What safety topic is mainly explained on this page?,这页主要讲的是哪方面的安全说明内容？,semantic,kinova_gen3_user_guide,84,robotiq_2f_manual,15,vision_hard,12.5
+auto_00535,Which page contains the dimensions diagram?,哪一页包含尺寸图或尺寸示意？,layout,kinova_gen3_user_guide,85,robotiq_2f_manual,104,vision_hard,11.0625
+auto_00536,Which page visually presents 'Setting'?,哪一页展示了“Setting”的图示页面？,layout,kinova_gen3_user_guide,85,fr3_operating_manual,98,vision_hard,9.75
+auto_00539,Which page contains the specification value 24V?,哪一页包含参数值 24V？,fact,kinova_gen3_user_guide,86,ur5e_user_manual,68,vision_hard,13.4375
+auto_00537,What specification about sensor is given on this page?,这页中关于传感器的参数是什么？,fact,kinova_gen3_user_guide,86,intel_realsense_d400_datasheet,35,vision_hard,14.0625
+auto_00538,Which page mentions sensor related specifications?,哪一页提到了传感器相关参数？,fact,kinova_gen3_user_guide,86,kinova_gen3_user_guide,2,vision_hard,11.25
+auto_00540,Which page describes module related information?,哪一页介绍了module相关内容？,semantic,kinova_gen3_user_guide,87,kinova_gen3_user_guide,4,vision_hard,9.3125
+auto_00541,What module topic is mainly explained on this page?,这页主要讲的是哪方面的module内容？,semantic,kinova_gen3_user_guide,87,kinova_gen3_user_guide,75,vision_hard,10.3125
+auto_00544,Which page contains the specification value 24V?,哪一页包含参数值 24V？,fact,kinova_gen3_user_guide,88,ur5e_user_manual,68,vision_hard,13.4375
+auto_00542,What specification about sensor is given on this page?,这页中关于传感器的参数是什么？,fact,kinova_gen3_user_guide,88,intel_realsense_d400_datasheet,35,vision_hard,14.0625
+auto_00543,Which page mentions sensor related specifications?,哪一页提到了传感器相关参数？,fact,kinova_gen3_user_guide,88,kinova_gen3_user_guide,2,vision_hard,11.25
+auto_00545,What specification about sensor is given on this page?,这页中关于传感器的参数是什么？,fact,kinova_gen3_user_guide,89,intel_realsense_d400_datasheet,35,vision_hard,14.0625
+auto_00546,Which page mentions sensor related specifications?,哪一页提到了传感器相关参数？,fact,kinova_gen3_user_guide,89,kinova_gen3_user_guide,2,vision_hard,11.25
+auto_00547,Which page discusses '• depth'?,哪一页介绍了“• depth”相关内容？,fact,kinova_gen3_user_guide,89,intel_realsense_d400_datasheet,11,vision_hard,11.75
+auto_00548,What specification about reach is given on this page?,这页中关于最大工作半径的参数是什么？,fact,kinova_gen3_user_guide,90,ur5e_user_manual,16,vision_hard,13.3125
+auto_00549,Which page mentions reach related specifications?,哪一页提到了最大工作半径相关参数？,fact,kinova_gen3_user_guide,90,robotiq_2f_manual,4,vision_hard,8.875
+auto_00550,Which page discusses 'Concepts and terminology'?,哪一页介绍了“Concepts and terminology”相关内容？,fact,kinova_gen3_user_guide,90,kinova_gen3_user_guide,2,vision_hard,13.5625
+auto_00551,Which page contains the dimensions diagram?,哪一页包含尺寸图或尺寸示意？,layout,kinova_gen3_user_guide,91,robotiq_2f_manual,104,vision_hard,11.0
+auto_00552,Which page contains the 7 DoF dimensions figure?,哪一页包含 7 自由度相关尺寸图？,layout,kinova_gen3_user_guide,91,kinova_gen3_user_guide,206,vision_hard,13.5625
+auto_00553,Which page visually presents 'Cartesian space'?,哪一页展示了“Cartesian space”的图示页面？,layout,kinova_gen3_user_guide,91,fr3_product_manual,197,vision_hard,13.75
+auto_00554,What specification about degrees of freedom is given on this page?,这页中关于自由度的参数是什么？,fact,kinova_gen3_user_guide,94,fr3_product_manual,49,vision_hard,15.5
+auto_00555,Which page mentions degrees of freedom related specifications?,哪一页提到了自由度相关参数？,fact,kinova_gen3_user_guide,94,fr3_product_manual,49,vision_hard,11.8125
+auto_00556,Which page discusses 'Protection zone'?,哪一页介绍了“Protection zone”相关内容？,fact,kinova_gen3_user_guide,94,kinova_gen3_user_guide,168,vision_hard,13.0
+auto_00559,Which page contains the specification value 1 ms?,哪一页包含参数值 1 ms？,fact,kinova_gen3_user_guide,99,ur5e_user_manual,76,vision_hard,11.6875
+auto_00557,What specification about torque is given on this page?,这页中关于力矩的参数是什么？,fact,kinova_gen3_user_guide,99,kinova_gen3_user_guide,128,vision_hard,12.9375
+auto_00558,Which page mentions torque related specifications?,哪一页提到了力矩相关参数？,fact,kinova_gen3_user_guide,99,robotiq_2f_manual,4,vision_hard,10.3125
+auto_00560,What specification about torque is given on this page?,这页中关于力矩的参数是什么？,fact,kinova_gen3_user_guide,100,kinova_gen3_user_guide,128,vision_hard,12.9375
+auto_00561,Which page mentions torque related specifications?,哪一页提到了力矩相关参数？,fact,kinova_gen3_user_guide,100,robotiq_2f_manual,4,vision_hard,10.3125
+auto_00562,Which page discusses 'Method'?,哪一页介绍了“Method”相关内容？,fact,kinova_gen3_user_guide,100,fr3_product_manual,101,vision_hard,8.0625
+auto_00563,Which page contains the dimensions diagram?,哪一页包含尺寸图或尺寸示意？,layout,kinova_gen3_user_guide,101,robotiq_2f_manual,104,vision_hard,11.0625
+auto_00564,Which page visually presents 'Protection zones'?,哪一页展示了“Protection zones”的图示页面？,layout,kinova_gen3_user_guide,101,kinova_gen3_user_guide,168,vision_hard,13.5
+auto_00565,What specification about dof is given on this page?,这页中关于自由度的参数是什么？,fact,kinova_gen3_user_guide,102,kinova_gen3_user_guide,91,vision_hard,13.875
+auto_00566,Which page mentions dof related specifications?,哪一页提到了自由度相关参数？,fact,kinova_gen3_user_guide,102,kinova_gen3_user_guide,66,vision_hard,9.375
+auto_00567,Which page discusses 'confi gurable.'?,哪一页介绍了“confi gurable.”相关内容？,fact,kinova_gen3_user_guide,102,ur5e_user_manual,67,vision_hard,13.625
+auto_00568,What specification about dof is given on this page?,这页中关于自由度的参数是什么？,fact,kinova_gen3_user_guide,103,kinova_gen3_user_guide,91,vision_hard,13.875
+auto_00569,Which page mentions dof related specifications?,哪一页提到了自由度相关参数？,fact,kinova_gen3_user_guide,103,kinova_gen3_user_guide,66,vision_hard,9.375
+auto_00570,Which page discusses 'Table 41: Joint speed limits (admittance'?,哪一页介绍了“Table 41: Joint speed limits (admittance”相关内容？,fact,kinova_gen3_user_guide,103,kinova_gen3_user_guide,104,vision_hard,18.375
+auto_00571,What specification about reach is given on this page?,这页中关于最大工作半径的参数是什么？,fact,kinova_gen3_user_guide,104,ur5e_user_manual,16,vision_hard,13.3125
+auto_00572,Which page mentions reach related specifications?,哪一页提到了最大工作半径相关参数？,fact,kinova_gen3_user_guide,104,robotiq_2f_manual,4,vision_hard,8.9375
+auto_00573,Which page discusses 'Table 47: joint speed limits (admittance'?,哪一页介绍了“Table 47: joint speed limits (admittance”相关内容？,fact,kinova_gen3_user_guide,104,kinova_gen3_user_guide,103,vision_hard,18.5
+auto_00576,Which page contains the specification value 0.5 m?,哪一页包含参数值 0.5 m？,fact,kinova_gen3_user_guide,105,robotiq_2f_manual,115,vision_hard,12.375
+auto_00574,What specification about reach is given on this page?,这页中关于最大工作半径的参数是什么？,fact,kinova_gen3_user_guide,105,ur5e_user_manual,16,vision_hard,13.3125
+auto_00575,Which page mentions reach related specifications?,哪一页提到了最大工作半径相关参数？,fact,kinova_gen3_user_guide,105,robotiq_2f_manual,4,vision_hard,8.9375
+auto_00577,What specification about reach is given on this page?,这页中关于最大工作半径的参数是什么？,fact,kinova_gen3_user_guide,107,ur5e_user_manual,16,vision_hard,13.3125
+auto_00578,Which page mentions reach related specifications?,哪一页提到了最大工作半径相关参数？,fact,kinova_gen3_user_guide,107,robotiq_2f_manual,4,vision_hard,8.9375
+auto_00579,Which page discusses 'Trajectory control modes'?,哪一页介绍了“Trajectory control modes”相关内容？,fact,kinova_gen3_user_guide,107,kinova_gen3_user_guide,108,vision_hard,14.1875
+auto_00580,Which page shows the workspace diagram?,哪一页是工作空间示意图页面？,layout,kinova_gen3_user_guide,109,ur5e_user_manual,42,vision_hard,11.375
+auto_00581,Which page visually presents 'individually or together.'?,哪一页展示了“individually or together.”的图示页面？,layout,kinova_gen3_user_guide,109,ur5e_user_manual,133,vision_hard,9.75
+auto_00584,Which page contains the specification value 1 ms?,哪一页包含参数值 1 ms？,fact,kinova_gen3_user_guide,110,ur5e_user_manual,76,vision_hard,11.6875
+auto_00582,What specification about reach is given on this page?,这页中关于最大工作半径的参数是什么？,fact,kinova_gen3_user_guide,110,ur5e_user_manual,16,vision_hard,13.3125
+auto_00583,Which page mentions reach related specifications?,哪一页提到了最大工作半径相关参数？,fact,kinova_gen3_user_guide,110,robotiq_2f_manual,4,vision_hard,8.875
+auto_00585,What specification about torque is given on this page?,这页中关于力矩的参数是什么？,fact,kinova_gen3_user_guide,111,kinova_gen3_user_guide,128,vision_hard,12.9375
+auto_00586,Which page mentions torque related specifications?,哪一页提到了力矩相关参数？,fact,kinova_gen3_user_guide,111,robotiq_2f_manual,4,vision_hard,10.3125
+auto_00587,Which page discusses '• Joint position'?,哪一页介绍了“• Joint position”相关内容？,fact,kinova_gen3_user_guide,111,ur5e_user_manual,133,vision_hard,11.375
+auto_00588,Which page describes components related information?,哪一页介绍了组成部件相关内容？,semantic,kinova_gen3_user_guide,114,robotiq_2f_manual,2,vision_hard,10.5
+auto_00589,What components topic is mainly explained on this page?,这页主要讲的是哪方面的组成部件内容？,semantic,kinova_gen3_user_guide,114,kinova_gen3_user_guide,75,vision_hard,10.9375
+auto_00590,What specification about reach is given on this page?,这页中关于最大工作半径的参数是什么？,fact,kinova_gen3_user_guide,115,ur5e_user_manual,16,vision_hard,13.3125
+auto_00591,Which page mentions reach related specifications?,哪一页提到了最大工作半径相关参数？,fact,kinova_gen3_user_guide,115,robotiq_2f_manual,4,vision_hard,8.9375
+auto_00592,Which page discusses 'flags'?,哪一页介绍了“flags”相关内容？,fact,kinova_gen3_user_guide,115,kinova_gen3_user_guide,114,vision_hard,8.4375
+auto_00593,What specification about torque is given on this page?,这页中关于力矩的参数是什么？,fact,kinova_gen3_user_guide,120,kinova_gen3_user_guide,128,vision_hard,12.9375
+auto_00594,Which page mentions torque related specifications?,哪一页提到了力矩相关参数？,fact,kinova_gen3_user_guide,120,robotiq_2f_manual,4,vision_hard,10.3125
+auto_00595,Which page discusses 'Confi gurable item'?,哪一页介绍了“Confi gurable item”相关内容？,fact,kinova_gen3_user_guide,120,kinova_gen3_user_guide,146,vision_hard,12.0
+auto_00596,What specification about sensor is given on this page?,这页中关于传感器的参数是什么？,fact,kinova_gen3_user_guide,122,intel_realsense_d400_datasheet,35,vision_hard,14.0
+auto_00597,Which page mentions sensor related specifications?,哪一页提到了传感器相关参数？,fact,kinova_gen3_user_guide,122,kinova_gen3_user_guide,2,vision_hard,11.3125
+auto_00598,Which page discusses 'Confi gurable item'?,哪一页介绍了“Confi gurable item”相关内容？,fact,kinova_gen3_user_guide,122,kinova_gen3_user_guide,146,vision_hard,12.0
+auto_00599,What specification about sensor is given on this page?,这页中关于传感器的参数是什么？,fact,kinova_gen3_user_guide,124,intel_realsense_d400_datasheet,35,vision_hard,14.0
+auto_00600,Which page mentions sensor related specifications?,哪一页提到了传感器相关参数？,fact,kinova_gen3_user_guide,124,kinova_gen3_user_guide,2,vision_hard,11.3125
+auto_00601,Which page discusses 'Confi gurable item'?,哪一页介绍了“Confi gurable item”相关内容？,fact,kinova_gen3_user_guide,124,kinova_gen3_user_guide,146,vision_hard,12.0
+auto_00602,Which page describes safety related information?,哪一页介绍了安全说明相关内容？,semantic,kinova_gen3_user_guide,125,ur5e_user_manual,28,vision_hard,12.0625
+auto_00603,What safety topic is mainly explained on this page?,这页主要讲的是哪方面的安全说明内容？,semantic,kinova_gen3_user_guide,125,robotiq_2f_manual,15,vision_hard,12.5
+auto_00604,What specification about sensor is given on this page?,这页中关于传感器的参数是什么？,fact,kinova_gen3_user_guide,126,intel_realsense_d400_datasheet,35,vision_hard,14.0
+auto_00605,Which page mentions sensor related specifications?,哪一页提到了传感器相关参数？,fact,kinova_gen3_user_guide,126,kinova_gen3_user_guide,2,vision_hard,11.25
+auto_00606,Which page discusses 'lower'?,哪一页介绍了“lower”相关内容？,fact,kinova_gen3_user_guide,126,kinova_gen3_user_guide,97,vision_hard,8.5
+auto_00607,Which page describes safety related information?,哪一页介绍了安全说明相关内容？,semantic,kinova_gen3_user_guide,127,ur5e_user_manual,28,vision_hard,12.0625
+auto_00608,What safety topic is mainly explained on this page?,这页主要讲的是哪方面的安全说明内容？,semantic,kinova_gen3_user_guide,127,robotiq_2f_manual,15,vision_hard,12.5
+auto_00611,Which page contains the specification value 0.0A?,哪一页包含参数值 0.0A？,fact,kinova_gen3_user_guide,128,kinova_gen3_user_guide,125,vision_hard,10.875
+auto_00609,What specification about torque is given on this page?,这页中关于力矩的参数是什么？,fact,kinova_gen3_user_guide,128,ur5e_user_manual,36,vision_hard,12.75
+auto_00610,Which page mentions torque related specifications?,哪一页提到了力矩相关参数？,fact,kinova_gen3_user_guide,128,robotiq_2f_manual,4,vision_hard,10.3125
+auto_00612,Which page describes safety related information?,哪一页介绍了安全说明相关内容？,semantic,kinova_gen3_user_guide,129,ur5e_user_manual,28,vision_hard,12.0625
+auto_00613,What safety topic is mainly explained on this page?,这页主要讲的是哪方面的安全说明内容？,semantic,kinova_gen3_user_guide,129,robotiq_2f_manual,15,vision_hard,12.5
+auto_00614,Which page describes overview related information?,哪一页介绍了overview相关内容？,semantic,kinova_gen3_user_guide,131,kinova_gen3_user_guide,175,vision_hard,11.0
+auto_00615,What overview topic is mainly explained on this page?,这页主要讲的是哪方面的overview内容？,semantic,kinova_gen3_user_guide,131,ur5e_user_manual,25,vision_hard,11.625
+auto_00616,Which page mentions the emergency stop entry?,哪一页提到了紧急停止相关条目？,navigation,kinova_gen3_user_guide,138,ur5e_user_manual,183,vision_hard,13.0625
+auto_00617,Which page contains navigation information about 'the mode / state:'?,哪一页包含“the mode / state:”这类导航信息？,navigation,kinova_gen3_user_guide,138,fr3_operating_manual,23,vision_hard,11.8125
+auto_00620,What specification about reach is given on this page?,这页中关于最大工作半径的参数是什么？,fact,kinova_gen3_user_guide,141,ur5e_user_manual,16,vision_hard,13.25
+auto_00621,Which page mentions reach related specifications?,哪一页提到了最大工作半径相关参数？,fact,kinova_gen3_user_guide,141,robotiq_2f_manual,4,vision_hard,8.9375
+auto_00622,Which page discusses '•Tool - linear and angular in tool refer'?,哪一页介绍了“•Tool - linear and angular in tool refer”相关内容？,fact,kinova_gen3_user_guide,141,kinova_gen3_user_guide,51,vision_hard,14.6875
+auto_00623,What specification about dof is given on this page?,这页中关于自由度的参数是什么？,fact,kinova_gen3_user_guide,144,kinova_gen3_user_guide,91,vision_hard,13.875
+auto_00624,Which page mentions dof related specifications?,哪一页提到了自由度相关参数？,fact,kinova_gen3_user_guide,144,kinova_gen3_user_guide,66,vision_hard,9.375
+auto_00625,Which page discusses 'Admittance modes panel'?,哪一页介绍了“Admittance modes panel”相关内容？,fact,kinova_gen3_user_guide,144,kinova_gen3_user_guide,109,vision_hard,13.0625
+auto_00626,What specification about payload is given on this page?,这页中关于额定负载的参数是什么？,fact,kinova_gen3_user_guide,146,ur5e_user_manual,100,vision_hard,14.0625
+auto_00627,Which page mentions payload related specifications?,哪一页提到了额定负载相关参数？,fact,kinova_gen3_user_guide,146,robotiq_2f_manual,4,vision_hard,10.5625
+auto_00628,Which page discusses 'Robot'?,哪一页介绍了“Robot”相关内容？,fact,kinova_gen3_user_guide,146,kinova_gen3_user_guide,136,vision_hard,10.75
+auto_00629,Which page describes safety related information?,哪一页介绍了安全说明相关内容？,semantic,kinova_gen3_user_guide,151,ur5e_user_manual,28,vision_hard,12.0625
+auto_00630,What safety topic is mainly explained on this page?,这页主要讲的是哪方面的安全说明内容？,semantic,kinova_gen3_user_guide,151,robotiq_2f_manual,15,vision_hard,12.5
+auto_00631,Which page describes safety related information?,哪一页介绍了安全说明相关内容？,semantic,kinova_gen3_user_guide,158,ur5e_user_manual,28,vision_hard,12.0625
+auto_00632,What safety topic is mainly explained on this page?,这页主要讲的是哪方面的安全说明内容？,semantic,kinova_gen3_user_guide,158,robotiq_2f_manual,15,vision_hard,12.5
+auto_00633,What specification about reach is given on this page?,这页中关于最大工作半径的参数是什么？,fact,kinova_gen3_user_guide,162,ur5e_user_manual,16,vision_hard,13.3125
+auto_00634,Which page mentions reach related specifications?,哪一页提到了最大工作半径相关参数？,fact,kinova_gen3_user_guide,162,robotiq_2f_manual,4,vision_hard,8.9375
+auto_00635,Which page discusses 'effector.'?,哪一页介绍了“effector.”相关内容？,fact,kinova_gen3_user_guide,162,kinova_gen3_user_guide,160,vision_hard,11.125
+auto_00636,Which page describes module related information?,哪一页介绍了module相关内容？,semantic,kinova_gen3_user_guide,165,kinova_gen3_user_guide,4,vision_hard,9.375
+auto_00637,What module topic is mainly explained on this page?,这页主要讲的是哪方面的module内容？,semantic,kinova_gen3_user_guide,165,kinova_gen3_user_guide,75,vision_hard,10.375
+auto_00638,Which page describes components related information?,哪一页介绍了组成部件相关内容？,semantic,kinova_gen3_user_guide,166,robotiq_2f_manual,4,vision_hard,10.5
+auto_00639,What components topic is mainly explained on this page?,这页主要讲的是哪方面的组成部件内容？,semantic,kinova_gen3_user_guide,166,kinova_gen3_user_guide,75,vision_hard,10.9375
+auto_00640,Which page contains the dimensions diagram?,哪一页包含尺寸图或尺寸示意？,layout,kinova_gen3_user_guide,171,robotiq_2f_manual,104,vision_hard,11.0
+auto_00641,Which page visually presents 'Properties'?,哪一页展示了“Properties”的图示页面？,layout,kinova_gen3_user_guide,171,ur5e_user_manual,158,vision_hard,11.25
+auto_00642,What specification about degrees of freedom is given on this page?,这页中关于自由度的参数是什么？,fact,kinova_gen3_user_guide,174,fr3_product_manual,49,vision_hard,15.5
+auto_00643,Which page mentions degrees of freedom related specifications?,哪一页提到了自由度相关参数？,fact,kinova_gen3_user_guide,174,fr3_product_manual,49,vision_hard,11.75
+auto_00644,Which page discusses 'System Information'?,哪一页介绍了“System Information”相关内容？,fact,kinova_gen3_user_guide,174,kinova_gen3_user_guide,173,vision_hard,13.9375
+auto_00647,Which page contains the specification value 3M?,哪一页包含参数值 3M？,fact,kinova_gen3_user_guide,175,intel_realsense_d400_datasheet,18,vision_hard,9.875
+auto_00645,What specification about torque is given on this page?,这页中关于力矩的参数是什么？,fact,kinova_gen3_user_guide,175,kinova_gen3_user_guide,128,vision_hard,12.9375
+auto_00646,Which page mentions torque related specifications?,哪一页提到了力矩相关参数？,fact,kinova_gen3_user_guide,175,robotiq_2f_manual,4,vision_hard,10.3125
+auto_00648,Which page describes error related information?,哪一页介绍了错误说明相关内容？,semantic,kinova_gen3_user_guide,177,kinova_gen3_user_guide,189,vision_hard,11.6875
+auto_00649,What error topic is mainly explained on this page?,这页主要讲的是哪方面的错误说明内容？,semantic,kinova_gen3_user_guide,177,fr3_operating_manual,54,vision_hard,13.0625
+auto_00650,Which page describes module related information?,哪一页介绍了module相关内容？,semantic,kinova_gen3_user_guide,181,kinova_gen3_user_guide,4,vision_hard,9.375
+auto_00651,What module topic is mainly explained on this page?,这页主要讲的是哪方面的module内容？,semantic,kinova_gen3_user_guide,181,kinova_gen3_user_guide,75,vision_hard,10.375
+auto_00654,Which page describes module related information?,哪一页介绍了module相关内容？,semantic,kinova_gen3_user_guide,183,kinova_gen3_user_guide,4,vision_hard,9.375
+auto_00655,What module topic is mainly explained on this page?,这页主要讲的是哪方面的module内容？,semantic,kinova_gen3_user_guide,183,kinova_gen3_user_guide,75,vision_hard,10.3125
+auto_00658,Which page contains the specification value 30 ms?,哪一页包含参数值 30 ms？,fact,kinova_gen3_user_guide,194,fr3_product_manual,196,vision_hard,12.25
+auto_00656,What specification about payload is given on this page?,这页中关于额定负载的参数是什么？,fact,kinova_gen3_user_guide,194,ur5e_user_manual,100,vision_hard,14.0625
+auto_00659,Which page contains the dimensions diagram?,哪一页包含尺寸图或尺寸示意？,layout,kinova_gen3_user_guide,198,robotiq_2f_manual,104,vision_hard,11.0625
+auto_00660,Which page contains the 7 DoF dimensions figure?,哪一页包含 7 自由度相关尺寸图？,layout,kinova_gen3_user_guide,198,kinova_gen3_user_guide,206,vision_hard,13.5625
+auto_00661,Which page visually presents 'Interface module frame'?,哪一页展示了“Interface module frame”的图示页面？,layout,kinova_gen3_user_guide,198,kinova_gen3_user_guide,66,vision_hard,14.125
+auto_00662,Which page contains the dimensions diagram?,哪一页包含尺寸图或尺寸示意？,layout,kinova_gen3_user_guide,200,robotiq_2f_manual,104,vision_hard,11.0625
+auto_00663,Which page visually presents 'Interface module frame'?,哪一页展示了“Interface module frame”的图示页面？,layout,kinova_gen3_user_guide,200,kinova_gen3_user_guide,66,vision_hard,14.125
+auto_00664,What specification about sensor is given on this page?,这页中关于传感器的参数是什么？,fact,kinova_gen3_user_guide,201,intel_realsense_d400_datasheet,35,vision_hard,14.0625
+auto_00665,Which page mentions sensor related specifications?,哪一页提到了传感器相关参数？,fact,kinova_gen3_user_guide,201,kinova_gen3_user_guide,2,vision_hard,11.25
+auto_00666,Which page discusses 'Transformation'?,哪一页介绍了“Transformation”相关内容？,fact,kinova_gen3_user_guide,201,kinova_gen3_user_guide,196,vision_hard,8.625
+auto_00669,Which page contains the specification value 90°?,哪一页包含参数值 90°？,fact,kinova_gen3_user_guide,206,intel_realsense_d400_datasheet,98,vision_hard,11.5625
+auto_00667,What specification about reach is given on this page?,这页中关于最大工作半径的参数是什么？,fact,kinova_gen3_user_guide,206,ur5e_user_manual,16,vision_hard,13.3125
+auto_00668,Which page mentions reach related specifications?,哪一页提到了最大工作半径相关参数？,fact,kinova_gen3_user_guide,206,robotiq_2f_manual,4,vision_hard,8.9375
+auto_00670,What specification about reach is given on this page?,这页中关于最大工作半径的参数是什么？,fact,kinova_gen3_user_guide,207,ur5e_user_manual,16,vision_hard,13.3125
+auto_00671,Which page mentions reach related specifications?,哪一页提到了最大工作半径相关参数？,fact,kinova_gen3_user_guide,207,robotiq_2f_manual,4,vision_hard,8.9375
+auto_00672,Which page discusses 'Singularity'?,哪一页介绍了“Singularity”相关内容？,fact,kinova_gen3_user_guide,207,ur5e_user_manual,43,vision_hard,12.125
+auto_00673,Which page describes components related information?,哪一页介绍了组成部件相关内容？,semantic,kinova_gen3_user_guide,215,robotiq_2f_manual,2,vision_hard,10.5
+auto_00674,What components topic is mainly explained on this page?,这页主要讲的是哪方面的组成部件内容？,semantic,kinova_gen3_user_guide,215,kinova_gen3_user_guide,75,vision_hard,10.9375
+auto_00677,Which page contains the specification value 2 mm?,哪一页包含参数值 2 mm？,fact,kinova_gen3_user_guide,216,robotiq_hande_manual,91,vision_hard,12.0
+auto_00675,What specification about force is given on this page?,这页中关于力/力矩的参数是什么？,fact,kinova_gen3_user_guide,216,ur5e_user_manual,234,vision_hard,12.25
+auto_00676,Which page mentions force related specifications?,哪一页提到了力/力矩相关参数？,fact,kinova_gen3_user_guide,216,robotiq_2f_manual,4,vision_hard,9.0625
+auto_00678,What specification about sensor is given on this page?,这页中关于传感器的参数是什么？,fact,kinova_gen3_user_guide,217,intel_realsense_d400_datasheet,35,vision_hard,14.0
+auto_00679,Which page mentions sensor related specifications?,哪一页提到了传感器相关参数？,fact,kinova_gen3_user_guide,217,kinova_gen3_user_guide,2,vision_hard,11.3125
+auto_00680,Which page discusses 'kinovarobotics.com/knowledge-hub/gen3-ul'?,哪一页介绍了“kinovarobotics.com/knowledge-hub/gen3-ul”相关内容？,fact,kinova_gen3_user_guide,217,kinova_gen3_user_guide,136,vision_hard,16.75
+auto_00681,Which page describes safety related information?,哪一页介绍了安全说明相关内容？,semantic,kinova_gen3_user_guide,218,ur5e_user_manual,28,vision_hard,12.0625
+auto_00682,What safety topic is mainly explained on this page?,这页主要讲的是哪方面的安全说明内容？,semantic,kinova_gen3_user_guide,218,robotiq_2f_manual,15,vision_hard,12.5
+auto_00683,What specification about payload is given on this page?,这页中关于额定负载的参数是什么？,fact,kinova_gen3_user_guide,219,ur5e_user_manual,100,vision_hard,14.0625
+auto_00685,Which page discusses 'Table 115: LED interpretation'?,哪一页介绍了“Table 115: LED interpretation”相关内容？,fact,kinova_gen3_user_guide,219,kinova_gen3_user_guide,45,vision_hard,11.625
+auto_00687,What installation topic is mainly explained on this page?,这页主要讲的是哪方面的安装说明内容？,semantic,robotiq_2f_manual,1,robotiq_hande_manual,2,vision_hard,11.8125
+auto_00689,Which page visually presents '4.8.4. Gripper Node'?,哪一页展示了“4.8.4. Gripper Node”的图示页面？,layout,robotiq_2f_manual,3,robotiq_hande_manual,3,vision_hard,18.25
+auto_00691,Which page mentions gripper related specifications?,哪一页提到了夹爪相关参数？,fact,robotiq_2f_manual,5,robotiq_2f_manual,102,vision_hard,13.4375
+auto_00692,Which page discusses 'Revisions'?,哪一页介绍了“Revisions”相关内容？,fact,robotiq_2f_manual,5,robotiq_2f_manual,1,vision_hard,12.9375
+auto_00693,Which page contains the dimensions diagram?,哪一页包含尺寸图或尺寸示意？,layout,robotiq_2f_manual,8,robotiq_2f_manual,104,vision_hard,11.0625
+auto_00694,Which page visually presents '1. General Presentation'?,哪一页展示了“1. General Presentation”的图示页面？,layout,robotiq_2f_manual,8,robotiq_2f_manual,1,vision_hard,14.4375
+auto_00698,Which page visually presents '1.2. 2F-85 vs. 2F-140'?,哪一页展示了“1.2. 2F-85 vs. 2F-140”的图示页面？,layout,robotiq_2f_manual,10,robotiq_2f_manual,121,vision_hard,21.25
+auto_00700,Which page mentions sensing related specifications?,哪一页提到了感知能力相关参数？,fact,robotiq_2f_manual,14,kinova_gen3_user_guide,2,vision_hard,9.75
+auto_00705,Which page mentions payload related specifications?,哪一页提到了额定负载相关参数？,fact,robotiq_2f_manual,16,robotiq_2f_manual,4,vision_hard,10.5625
+auto_00706,Which page discusses '2.1. Warning'?,哪一页介绍了“2.1. Warning”相关内容？,fact,robotiq_2f_manual,16,robotiq_hande_manual,13,vision_hard,14.875
+auto_00708,What installation topic is mainly explained on this page?,这页主要讲的是哪方面的安装说明内容？,semantic,robotiq_2f_manual,18,robotiq_hande_manual,2,vision_hard,11.875
+auto_00712,What installation topic is mainly explained on this page?,这页主要讲的是哪方面的安装说明内容？,semantic,robotiq_2f_manual,20,robotiq_hande_manual,2,vision_hard,11.875
+auto_00716,Which page visually presents '3.5.1. Pinout Interface'?,哪一页展示了“3.5.1. Pinout Interface”的图示页面？,layout,robotiq_2f_manual,26,robotiq_hande_manual,24,vision_hard,16.5
+auto_00718,Which page visually presents '2-Finger Gripper'?,哪一页展示了“2-Finger Gripper”的图示页面？,layout,robotiq_2f_manual,27,robotiq_2f_manual,11,vision_hard,15.375
+auto_00720,Which page mentions payload related specifications?,哪一页提到了额定负载相关参数？,fact,robotiq_2f_manual,28,robotiq_2f_manual,4,vision_hard,10.5625
+auto_00723,What installation topic is mainly explained on this page?,这页主要讲的是哪方面的安装说明内容？,semantic,robotiq_2f_manual,31,robotiq_hande_manual,2,vision_hard,11.875
+auto_00730,Which page discusses '4.3. Robot Output Registers & Functional'?,哪一页介绍了“4.3. Robot Output Registers & Functional”相关内容？,fact,robotiq_2f_manual,40,robotiq_hande_manual,40,vision_hard,18.25
+auto_00733,Which page contains the specification value 85 mm?,哪一页包含参数值 85 mm？,fact,robotiq_2f_manual,41,robotiq_2f_manual,10,vision_hard,13.8125
+auto_00732,Which page mentions gripper related specifications?,哪一页提到了夹爪相关参数？,fact,robotiq_2f_manual,41,robotiq_2f_manual,102,vision_hard,13.4375
+auto_00739,Which page mentions payload related specifications?,哪一页提到了额定负载相关参数？,fact,robotiq_2f_manual,46,robotiq_2f_manual,4,vision_hard,10.5625
+auto_00740,Which page discusses '4.5. Picking Features'?,哪一页介绍了“4.5. Picking Features”相关内容？,fact,robotiq_2f_manual,46,robotiq_hande_manual,3,vision_hard,16.875
+auto_00743,Which page discusses '4.5.2. Re-Grasp'?,哪一页介绍了“4.5.2. Re-Grasp”相关内容？,fact,robotiq_2f_manual,51,robotiq_hande_manual,47,vision_hard,17.875
+auto_00745,Which page mentions payload related specifications?,哪一页提到了额定负载相关参数？,fact,robotiq_2f_manual,52,robotiq_2f_manual,4,vision_hard,10.5625
+auto_00746,Which page discusses '4.5.3. Object detection'?,哪一页介绍了“4.5.3. Object detection”相关内容？,fact,robotiq_2f_manual,52,robotiq_hande_manual,48,vision_hard,17.375
+auto_00749,Which page discusses '4.6. Control Logic'?,哪一页介绍了“4.6. Control Logic”相关内容？,fact,robotiq_2f_manual,53,robotiq_2f_manual,2,vision_hard,17.25
+auto_00753,What installation topic is mainly explained on this page?,这页主要讲的是哪方面的安装说明内容？,semantic,robotiq_2f_manual,71,robotiq_hande_manual,2,vision_hard,11.875
+auto_00755,What installation topic is mainly explained on this page?,这页主要讲的是哪方面的安装说明内容？,semantic,robotiq_2f_manual,72,robotiq_hande_manual,2,vision_hard,11.875
+auto_00757,Which page visually presents 'Dashboard'?,哪一页展示了“Dashboard”的图示页面？,layout,robotiq_2f_manual,76,robotiq_hande_manual,72,vision_hard,11.9375
+auto_00759,What installation topic is mainly explained on this page?,这页主要讲的是哪方面的安装说明内容？,semantic,robotiq_2f_manual,78,robotiq_hande_manual,2,vision_hard,11.8125
+auto_00767,What installation topic is mainly explained on this page?,这页主要讲的是哪方面的安装说明内容？,semantic,robotiq_2f_manual,92,robotiq_hande_manual,2,vision_hard,11.8125
+auto_00774,Which page contains the dimensions diagram?,哪一页包含尺寸图或尺寸示意？,layout,robotiq_2f_manual,102,robotiq_2f_manual,104,vision_hard,11.0
+auto_00775,Which page visually presents '6.Specifications'?,哪一页展示了“6.Specifications”的图示页面？,layout,robotiq_2f_manual,102,robotiq_hande_manual,4,vision_hard,12.4375
+auto_00780,Which page contains the specification value 100 mm?,哪一页包含参数值 100 mm？,fact,robotiq_2f_manual,115,kinova_gen3_user_guide,73,vision_hard,12.75
+auto_00779,Which page mentions force related specifications?,哪一页提到了力/力矩相关参数？,fact,robotiq_2f_manual,115,robotiq_2f_manual,4,vision_hard,9.0625
+auto_00783,Which page contains the specification value 85 mm?,哪一页包含参数值 85 mm？,fact,robotiq_2f_manual,118,robotiq_2f_manual,10,vision_hard,13.8125
+auto_00782,Which page mentions force related specifications?,哪一页提到了力/力矩相关参数？,fact,robotiq_2f_manual,118,robotiq_2f_manual,4,vision_hard,9.0
+auto_00785,Which page mentions payload related specifications?,哪一页提到了额定负载相关参数？,fact,robotiq_2f_manual,119,robotiq_2f_manual,4,vision_hard,10.5625
+auto_00786,Which page discusses '6.2.1. Payload and force'?,哪一页介绍了“6.2.1. Payload and force”相关内容？,fact,robotiq_2f_manual,119,robotiq_2f_manual,4,vision_hard,16.375
+auto_00788,Which page mentions payload related specifications?,哪一页提到了额定负载相关参数？,fact,robotiq_2f_manual,120,robotiq_2f_manual,4,vision_hard,10.5625
+auto_00791,Which page mentions payload related specifications?,哪一页提到了额定负载相关参数？,fact,robotiq_2f_manual,125,robotiq_2f_manual,4,vision_hard,10.5625
+auto_00793,Which page contains the specification value 1W?,哪一页包含参数值 1W？,fact,robotiq_2f_manual,126,robotiq_hande_manual,123,vision_hard,12.4375
+auto_00794,Which page discusses '6.3. Electrical specifications'?,哪一页介绍了“6.3. Electrical specifications”相关内容？,fact,robotiq_2f_manual,126,robotiq_2f_manual,4,vision_hard,16.125
+auto_00796,What maintenance topic is mainly explained on this page?,这页主要讲的是哪方面的维护说明内容？,semantic,robotiq_2f_manual,128,kinova_gen3_user_guide,215,vision_hard,13.0
+auto_00798,What maintenance topic is mainly explained on this page?,这页主要讲的是哪方面的维护说明内容？,semantic,robotiq_2f_manual,129,kinova_gen3_user_guide,215,vision_hard,13.0
+auto_00800,What maintenance topic is mainly explained on this page?,这页主要讲的是哪方面的维护说明内容？,semantic,robotiq_2f_manual,130,kinova_gen3_user_guide,215,vision_hard,13.0
+auto_00802,What maintenance topic is mainly explained on this page?,这页主要讲的是哪方面的维护说明内容？,semantic,robotiq_2f_manual,131,kinova_gen3_user_guide,215,vision_hard,13.0
+auto_00805,Which page discusses '7.4. Overhaul'?,哪一页介绍了“7.4. Overhaul”相关内容？,fact,robotiq_2f_manual,132,robotiq_2f_manual,4,vision_hard,14.9375
+auto_00815,What installation topic is mainly explained on this page?,这页主要讲的是哪方面的安装说明内容？,semantic,robotiq_2f_manual,137,robotiq_hande_manual,2,vision_hard,11.875
+auto_00817,Which page mentions payload related specifications?,哪一页提到了额定负载相关参数？,fact,robotiq_2f_manual,139,robotiq_2f_manual,4,vision_hard,10.5625
+auto_00818,Which page discusses '10. Warranty and Patent'?,哪一页介绍了“10. Warranty and Patent”相关内容？,fact,robotiq_2f_manual,139,robotiq_hande_manual,5,vision_hard,16.25
+auto_00820,What installation topic is mainly explained on this page?,这页主要讲的是哪方面的安装说明内容？,semantic,robotiq_2f_manual,144,robotiq_hande_manual,2,vision_hard,11.875
+auto_00822,What operation topic is mainly explained on this page?,这页主要讲的是哪方面的操作说明内容？,semantic,robotiq_hande_manual,3,fr3_product_manual,107,vision_hard,9.625
+auto_00824,Which page visually presents 'Command window'?,哪一页展示了“Command window”的图示页面？,layout,robotiq_hande_manual,4,robotiq_2f_manual,84,vision_hard,13.375
+auto_00826,Which page visually presents '1.3. Setup and control'?,哪一页展示了“1.3. Setup and control”的图示页面？,layout,robotiq_hande_manual,12,robotiq_2f_manual,14,vision_hard,14.4375
+auto_00827,What specification about payload is given on this page?,这页中关于额定负载的参数是什么？,fact,robotiq_hande_manual,13,ur5e_user_manual,100,vision_hard,14.0625
+auto_00828,Which page mentions payload related specifications?,哪一页提到了额定负载相关参数？,fact,robotiq_hande_manual,13,robotiq_2f_manual,4,vision_hard,10.5625
+auto_00831,What installation topic is mainly explained on this page?,这页主要讲的是哪方面的安装说明内容？,semantic,robotiq_hande_manual,14,robotiq_hande_manual,2,vision_hard,11.875
+auto_00835,What installation topic is mainly explained on this page?,这页主要讲的是哪方面的安装说明内容？,semantic,robotiq_hande_manual,19,robotiq_hande_manual,2,vision_hard,11.875
+auto_00839,Which page visually presents '3.5.3. Coupling to wrist'?,哪一页展示了“3.5.3. Coupling to wrist”的图示页面？,layout,robotiq_hande_manual,26,robotiq_2f_manual,26,vision_hard,18.125
+auto_00840,What specification about payload is given on this page?,这页中关于额定负载的参数是什么？,fact,robotiq_hande_manual,28,ur5e_user_manual,100,vision_hard,14.0625
+auto_00841,Which page mentions payload related specifications?,哪一页提到了额定负载相关参数？,fact,robotiq_hande_manual,28,robotiq_2f_manual,4,vision_hard,10.5625
+auto_00842,Which page discusses '3.6. Installation for Universal Robots'?,哪一页介绍了“3.6. Installation for Universal Robots”相关内容？,fact,robotiq_hande_manual,28,robotiq_2f_manual,28,vision_hard,18.125
+auto_00844,What installation topic is mainly explained on this page?,这页主要讲的是哪方面的安装说明内容？,semantic,robotiq_hande_manual,30,robotiq_hande_manual,2,vision_hard,11.8125
+auto_00851,Which page discusses '4.3. Robot Output Registers & Functional'?,哪一页介绍了“4.3. Robot Output Registers & Functional”相关内容？,fact,robotiq_hande_manual,40,robotiq_2f_manual,40,vision_hard,18.0
+auto_00854,Which page contains the specification value 50 mm?,哪一页包含参数值 50 mm？,fact,robotiq_hande_manual,41,robotiq_2f_manual,75,vision_hard,12.875
+auto_00853,Which page mentions gripper related specifications?,哪一页提到了夹爪相关参数？,fact,robotiq_hande_manual,41,robotiq_2f_manual,102,vision_hard,13.4375
+auto_00861,Which page discusses '4.5. Picking Features'?,哪一页介绍了“4.5. Picking Features”相关内容？,fact,robotiq_hande_manual,46,robotiq_hande_manual,3,vision_hard,16.875
+auto_00864,Which page discusses 'Measured grip force for steel of specifi'?,哪一页介绍了“Measured grip force for steel of specifi”相关内容？,fact,robotiq_hande_manual,47,robotiq_2f_manual,48,vision_hard,14.5
+auto_00865,What specification about payload is given on this page?,这页中关于额定负载的参数是什么？,fact,robotiq_hande_manual,48,ur5e_user_manual,100,vision_hard,14.0625
+auto_00866,Which page mentions payload related specifications?,哪一页提到了额定负载相关参数？,fact,robotiq_hande_manual,48,robotiq_2f_manual,4,vision_hard,10.5625
+auto_00867,Which page discusses '4.5.3. Object detection'?,哪一页介绍了“4.5.3. Object detection”相关内容？,fact,robotiq_hande_manual,48,robotiq_2f_manual,52,vision_hard,17.375
+auto_00870,Which page discusses '4.6. Control Logic Example'?,哪一页介绍了“4.6. Control Logic Example”相关内容？,fact,robotiq_hande_manual,49,robotiq_hande_manual,3,vision_hard,17.875
+auto_00872,Which page mentions gripper related specifications?,哪一页提到了夹爪相关参数？,fact,robotiq_hande_manual,50,robotiq_2f_manual,102,vision_hard,13.4375
+auto_00873,Which page discusses '4.7. Modbus RTU Communication'?,哪一页介绍了“4.7. Modbus RTU Communication”相关内容？,fact,robotiq_hande_manual,50,robotiq_hande_manual,3,vision_hard,18.625
+auto_00879,What installation topic is mainly explained on this page?,这页主要讲的是哪方面的安装说明内容？,semantic,robotiq_hande_manual,68,robotiq_hande_manual,2,vision_hard,11.8125
+auto_00881,What installation topic is mainly explained on this page?,这页主要讲的是哪方面的安装说明内容？,semantic,robotiq_hande_manual,70,robotiq_hande_manual,2,vision_hard,11.875
+auto_00883,Which page visually presents 'Dashboard'?,哪一页展示了“Dashboard”的图示页面？,layout,robotiq_hande_manual,74,robotiq_hande_manual,72,vision_hard,12.0
+auto_00885,What installation topic is mainly explained on this page?,这页主要讲的是哪方面的安装说明内容？,semantic,robotiq_hande_manual,76,robotiq_hande_manual,2,vision_hard,11.875
+auto_00895,What installation topic is mainly explained on this page?,这页主要讲的是哪方面的安装说明内容？,semantic,robotiq_hande_manual,92,robotiq_hande_manual,2,vision_hard,11.875
+auto_00904,What specification about force is given on this page?,这页中关于力/力矩的参数是什么？,fact,robotiq_hande_manual,112,ur5e_user_manual,234,vision_hard,12.3125
+auto_00905,Which page mentions force related specifications?,哪一页提到了力/力矩相关参数？,fact,robotiq_hande_manual,112,robotiq_2f_manual,4,vision_hard,9.0625
+auto_00906,Which page discusses '6.1.2. Fingers and fingertips'?,哪一页介绍了“6.1.2. Fingers and fingertips”相关内容？,fact,robotiq_hande_manual,112,robotiq_hande_manual,4,vision_hard,18.0
+auto_00909,Which page contains the specification value 50mm?,哪一页包含参数值 50mm？,fact,robotiq_hande_manual,116,robotiq_2f_manual,75,vision_hard,12.75
+auto_00907,What specification about payload is given on this page?,这页中关于额定负载的参数是什么？,fact,robotiq_hande_manual,116,ur5e_user_manual,100,vision_hard,14.0625
+auto_00908,Which page mentions payload related specifications?,哪一页提到了额定负载相关参数？,fact,robotiq_hande_manual,116,robotiq_2f_manual,4,vision_hard,10.5625
+auto_00912,Which page contains the specification value 3.3 kg?,哪一页包含参数值 3.3 kg？,fact,robotiq_hande_manual,117,robotiq_hande_manual,116,vision_hard,12.875
+auto_00910,What specification about payload is given on this page?,这页中关于额定负载的参数是什么？,fact,robotiq_hande_manual,117,ur5e_user_manual,100,vision_hard,14.0625
+auto_00911,Which page mentions payload related specifications?,哪一页提到了额定负载相关参数？,fact,robotiq_hande_manual,117,robotiq_2f_manual,4,vision_hard,10.5625
+auto_00915,Which page contains the specification value 3kg?,哪一页包含参数值 3kg？,fact,robotiq_hande_manual,119,ur5e_user_manual,95,vision_hard,11.5
+auto_00913,What specification about payload is given on this page?,这页中关于额定负载的参数是什么？,fact,robotiq_hande_manual,119,ur5e_user_manual,100,vision_hard,14.0625
+auto_00914,Which page mentions payload related specifications?,哪一页提到了额定负载相关参数？,fact,robotiq_hande_manual,119,robotiq_2f_manual,4,vision_hard,10.5625
+auto_00918,Which page contains the specification value 2.65 Nm?,哪一页包含参数值 2.65 Nm？,fact,robotiq_hande_manual,122,robotiq_2f_manual,125,vision_hard,13.4375
+auto_00916,What specification about payload is given on this page?,这页中关于额定负载的参数是什么？,fact,robotiq_hande_manual,122,ur5e_user_manual,100,vision_hard,14.0625
+auto_00917,Which page mentions payload related specifications?,哪一页提到了额定负载相关参数？,fact,robotiq_hande_manual,122,robotiq_2f_manual,4,vision_hard,10.5625
+auto_00919,Which page contains the specification value 1W?,哪一页包含参数值 1W？,fact,robotiq_hande_manual,123,robotiq_2f_manual,126,vision_hard,10.8125
+auto_00920,Which page discusses '6.3. Electrical specifications'?,哪一页介绍了“6.3. Electrical specifications”相关内容？,fact,robotiq_hande_manual,123,robotiq_2f_manual,4,vision_hard,16.125
+auto_00922,What maintenance topic is mainly explained on this page?,这页主要讲的是哪方面的维护说明内容？,semantic,robotiq_hande_manual,124,kinova_gen3_user_guide,215,vision_hard,13.0
+auto_00924,What maintenance topic is mainly explained on this page?,这页主要讲的是哪方面的维护说明内容？,semantic,robotiq_hande_manual,125,kinova_gen3_user_guide,215,vision_hard,13.0
+auto_00926,What maintenance topic is mainly explained on this page?,这页主要讲的是哪方面的维护说明内容？,semantic,robotiq_hande_manual,127,kinova_gen3_user_guide,215,vision_hard,13.0
+auto_00928,What maintenance topic is mainly explained on this page?,这页主要讲的是哪方面的维护说明内容？,semantic,robotiq_hande_manual,128,kinova_gen3_user_guide,215,vision_hard,13.0
+auto_00937,What specification about payload is given on this page?,这页中关于额定负载的参数是什么？,fact,robotiq_hande_manual,134,ur5e_user_manual,100,vision_hard,14.0
+auto_00938,Which page mentions payload related specifications?,哪一页提到了额定负载相关参数？,fact,robotiq_hande_manual,134,robotiq_2f_manual,4,vision_hard,10.5625
+auto_00939,Which page discusses '10. Warranty and Patent'?,哪一页介绍了“10. Warranty and Patent”相关内容？,fact,robotiq_hande_manual,134,robotiq_hande_manual,5,vision_hard,16.25
+auto_00941,What installation topic is mainly explained on this page?,这页主要讲的是哪方面的安装说明内容？,semantic,robotiq_hande_manual,137,robotiq_hande_manual,2,vision_hard,11.875
+auto_00946,Which page mentions payload related specifications?,哪一页提到了额定负载相关参数？,fact,ur5e_user_manual,5,robotiq_2f_manual,4,vision_hard,10.5625
+auto_00947,Which page discusses '6.4. Starting the Robot Arm'?,哪一页介绍了“6.4. Starting the Robot Arm”相关内容？,fact,ur5e_user_manual,5,ur5e_user_manual,51,vision_hard,18.25
+auto_00951,Which page mentions payload related specifications?,哪一页提到了额定负载相关参数？,fact,ur5e_user_manual,16,robotiq_2f_manual,4,vision_hard,10.5625
+auto_00954,Which page mentions payload related specifications?,哪一页提到了额定负载相关参数？,fact,ur5e_user_manual,17,robotiq_2f_manual,4,vision_hard,10.5625
+auto_00955,Which page discusses '2.Your Robot'?,哪一页介绍了“2.Your Robot”相关内容？,fact,ur5e_user_manual,17,ur5e_user_manual,12,vision_hard,13.875
+auto_00957,What installation topic is mainly explained on this page?,这页主要讲的是哪方面的安装说明内容？,semantic,ur5e_user_manual,25,robotiq_hande_manual,2,vision_hard,11.8125
+auto_00961,Which page mentions reach related specifications?,哪一页提到了最大工作半径相关参数？,fact,ur5e_user_manual,30,robotiq_2f_manual,4,vision_hard,8.875
+auto_00965,Which page mentions torque related specifications?,哪一页提到了力矩相关参数？,fact,ur5e_user_manual,34,robotiq_2f_manual,4,vision_hard,10.3125
+auto_00966,Which page discusses '5. Assembly and Mounting'?,哪一页介绍了“5. Assembly and Mounting”相关内容？,fact,ur5e_user_manual,34,ur5e_user_manual,4,vision_hard,15.75
+auto_00968,Which page visually presents '5. Assembly and Mounting'?,哪一页展示了“5. Assembly and Mounting”的图示页面？,layout,ur5e_user_manual,35,ur5e_user_manual,34,vision_hard,15.0625
+auto_00970,Which page mentions torque related specifications?,哪一页提到了力矩相关参数？,fact,ur5e_user_manual,37,robotiq_2f_manual,4,vision_hard,10.3125
+auto_00971,Which page discusses '5. Assembly and Mounting'?,哪一页介绍了“5. Assembly and Mounting”相关内容？,fact,ur5e_user_manual,37,ur5e_user_manual,34,vision_hard,15.8125
+auto_00973,Which page mentions torque related specifications?,哪一页提到了力矩相关参数？,fact,ur5e_user_manual,38,robotiq_2f_manual,4,vision_hard,10.3125
+auto_00975,Which page shows the workspace diagram?,哪一页是工作空间示意图页面？,layout,ur5e_user_manual,42,fr3_product_manual,82,vision_hard,11.25
+auto_00976,Which page visually presents '5. Assembly and Mounting'?,哪一页展示了“5. Assembly and Mounting”的图示页面？,layout,ur5e_user_manual,42,ur5e_user_manual,34,vision_hard,15.0625
+auto_00977,Which page shows the workspace diagram?,哪一页是工作空间示意图页面？,layout,ur5e_user_manual,43,ur5e_user_manual,42,vision_hard,11.375
+auto_00978,Which page visually presents '5. Assembly and Mounting'?,哪一页展示了“5. Assembly and Mounting”的图示页面？,layout,ur5e_user_manual,43,ur5e_user_manual,34,vision_hard,15.0625
+auto_00980,Which page visually presents '5. Assembly and Mounting'?,哪一页展示了“5. Assembly and Mounting”的图示页面？,layout,ur5e_user_manual,44,ur5e_user_manual,34,vision_hard,15.0625
+auto_00982,Which page mentions reach related specifications?,哪一页提到了最大工作半径相关参数？,fact,ur5e_user_manual,47,robotiq_2f_manual,4,vision_hard,8.875
+auto_00983,Which page discusses '5. Assembly and Mounting'?,哪一页介绍了“5. Assembly and Mounting”相关内容？,fact,ur5e_user_manual,47,ur5e_user_manual,34,vision_hard,15.8125
+auto_00987,Which page mentions payload related specifications?,哪一页提到了额定负载相关参数？,fact,ur5e_user_manual,54,robotiq_2f_manual,4,vision_hard,10.5625
+auto_00996,Which page mentions interface related specifications?,哪一页提到了接口相关参数？,fact,ur5e_user_manual,62,fr3_product_manual,50,vision_hard,10.0625
+auto_01000,Which page contains the specification value 24V?,哪一页包含参数值 24V？,fact,ur5e_user_manual,67,ur5e_user_manual,68,vision_hard,13.4375
+auto_01002,Which page contains the specification value 10 A?,哪一页包含参数值 10 A？,fact,ur5e_user_manual,68,robotiq_2f_manual,126,vision_hard,12.9375
+auto_01006,Which page contains the specification value 24V?,哪一页包含参数值 24V？,fact,ur5e_user_manual,70,ur5e_user_manual,68,vision_hard,13.4375
+auto_01005,Which page mentions payload related specifications?,哪一页提到了额定负载相关参数？,fact,ur5e_user_manual,70,robotiq_2f_manual,4,vision_hard,10.5625
+auto_01014,Which page mentions payload related specifications?,哪一页提到了额定负载相关参数？,fact,ur5e_user_manual,83,robotiq_2f_manual,4,vision_hard,10.5625
+auto_01015,Which page discusses '7.7.2. I/O Setup'?,哪一页介绍了“7.7.2. I/O Setup”相关内容？,fact,ur5e_user_manual,83,ur5e_user_manual,5,vision_hard,17.875
+auto_01018,Which page contains the specification value 10V?,哪一页包含参数值 10V？,fact,ur5e_user_manual,87,ur5e_user_manual,68,vision_hard,11.6875
+auto_01017,Which page mentions interface related specifications?,哪一页提到了接口相关参数？,fact,ur5e_user_manual,87,fr3_product_manual,50,vision_hard,10.0625
+auto_01019,Which page contains the specification value 12V?,哪一页包含参数值 12V？,fact,ur5e_user_manual,91,ur5e_user_manual,135,vision_hard,12.75
+auto_01020,Which page discusses '7.11. Remote ON/OFF control'?,哪一页介绍了“7.11. Remote ON/OFF control”相关内容？,fact,ur5e_user_manual,91,ur5e_user_manual,5,vision_hard,19.125
+auto_01023,Which page contains the specification value 0V?,哪一页包含参数值 0V？,fact,ur5e_user_manual,93,ur5e_user_manual,68,vision_hard,12.5
+auto_01021,What specification about sensor is given on this page?,这页中关于传感器的参数是什么？,fact,ur5e_user_manual,93,intel_realsense_d400_datasheet,35,vision_hard,14.0
+auto_01022,Which page mentions sensor related specifications?,哪一页提到了传感器相关参数？,fact,ur5e_user_manual,93,kinova_gen3_user_guide,2,vision_hard,11.25
+auto_01027,Which page mentions payload related specifications?,哪一页提到了额定负载相关参数？,fact,ur5e_user_manual,95,robotiq_2f_manual,4,vision_hard,10.5625
+auto_01028,Which page discusses '7.12.2. Maximum Payload'?,哪一页介绍了“7.12.2. Maximum Payload”相关内容？,fact,ur5e_user_manual,95,robotiq_2f_manual,4,vision_hard,17.125
+auto_01030,Which page visually presents '7.12.3. Securing Tool'?,哪一页展示了“7.12.3. Securing Tool”的图示页面？,layout,ur5e_user_manual,97,ur5e_user_manual,5,vision_hard,16.5
+auto_01032,Which page mentions payload related specifications?,哪一页提到了额定负载相关参数？,fact,ur5e_user_manual,98,robotiq_2f_manual,4,vision_hard,10.5625
+auto_01036,Which page contains the specification value 0.000 kg?,哪一页包含参数值 0.000 kg？,fact,ur5e_user_manual,100,fr3_product_manual,49,vision_hard,13.75
+auto_01034,What specification about payload is given on this page?,这页中关于额定负载的参数是什么？,fact,ur5e_user_manual,100,kinova_gen3_user_guide,74,vision_hard,13.5
+auto_01035,Which page mentions payload related specifications?,哪一页提到了额定负载相关参数？,fact,ur5e_user_manual,100,robotiq_2f_manual,4,vision_hard,10.5625
+auto_01037,Which page contains the specification value 12V?,哪一页包含参数值 12V？,fact,ur5e_user_manual,103,ur5e_user_manual,135,vision_hard,12.75
+auto_01038,Which page discusses '7.12.5. Tooll/O Installation Specificati'?,哪一页介绍了“7.12.5. Tooll/O Installation Specificati”相关内容？,fact,ur5e_user_manual,103,ur5e_user_manual,5,vision_hard,16.5
+auto_01040,Which page discusses '7.12.7.Tool Digital Outputs'?,哪一页介绍了“7.12.7.Tool Digital Outputs”相关内容？,fact,ur5e_user_manual,105,ur5e_user_manual,5,vision_hard,17.625
+auto_01041,Which page contains the specification value 10V?,哪一页包含参数值 10V？,fact,ur5e_user_manual,106,ur5e_user_manual,68,vision_hard,11.6875
+auto_01042,Which page discusses '7.12.8. Tool Digital Inputs'?,哪一页介绍了“7.12.8. Tool Digital Inputs”相关内容？,fact,ur5e_user_manual,106,ur5e_user_manual,105,vision_hard,18.0
+auto_01045,Which page contains the specification value 2ms?,哪一页包含参数值 2ms？,fact,ur5e_user_manual,107,fr3_product_manual,196,vision_hard,11.25
+auto_01043,What specification about sensor is given on this page?,这页中关于传感器的参数是什么？,fact,ur5e_user_manual,107,intel_realsense_d400_datasheet,35,vision_hard,14.0
+auto_01044,Which page mentions sensor related specifications?,哪一页提到了传感器相关参数？,fact,ur5e_user_manual,107,kinova_gen3_user_guide,2,vision_hard,11.25
+auto_01047,Which page visually presents '8. First Time Use'?,哪一页展示了“8. First Time Use”的图示页面？,layout,ur5e_user_manual,108,ur5e_user_manual,5,vision_hard,14.5
+auto_01052,Which page contains the specification value 142.44 mm?,哪一页包含参数值 142.44 mm？,fact,ur5e_user_manual,132,ur5e_user_manual,130,vision_hard,14.5625
+auto_01051,Which page mentions payload related specifications?,哪一页提到了额定负载相关参数？,fact,ur5e_user_manual,132,robotiq_2f_manual,4,vision_hard,10.5625
+auto_01054,What safety topic is mainly explained on this page?,这页主要讲的是哪方面的安全说明内容？,semantic,ur5e_user_manual,135,robotiq_2f_manual,15,vision_hard,12.5
+auto_01056,Which page mentions reach related specifications?,哪一页提到了最大工作半径相关参数？,fact,ur5e_user_manual,136,robotiq_2f_manual,4,vision_hard,8.9375
+auto_01057,Which page discusses '8.3.1. Configurable Safety Functions'?,哪一页介绍了“8.3.1. Configurable Safety Functions”相关内容？,fact,ur5e_user_manual,136,ur5e_user_manual,6,vision_hard,18.625
+auto_01059,What safety topic is mainly explained on this page?,这页主要讲的是哪方面的安全说明内容？,semantic,ur5e_user_manual,137,robotiq_2f_manual,15,vision_hard,12.5
+auto_01063,What safety topic is mainly explained on this page?,这页主要讲的是哪方面的安全说明内容？,semantic,ur5e_user_manual,147,robotiq_2f_manual,15,vision_hard,12.5
+auto_01068,Which page contains the specification value 300 ms?,哪一页包含参数值 300 ms？,fact,ur5e_user_manual,149,fr3_product_manual,196,vision_hard,12.5
+auto_01067,Which page mentions payload related specifications?,哪一页提到了额定负载相关参数？,fact,ur5e_user_manual,149,robotiq_2f_manual,4,vision_hard,10.5625
+auto_01080,What safety topic is mainly explained on this page?,这页主要讲的是哪方面的安全说明内容？,semantic,ur5e_user_manual,179,robotiq_2f_manual,15,vision_hard,12.5
+auto_01081,Which page mentions the emergency stop entry?,哪一页提到了紧急停止相关条目？,navigation,ur5e_user_manual,183,kinova_gen3_user_guide,138,vision_hard,12.5625
+auto_01082,Which page contains navigation information about '11. Emergency Events'?,哪一页包含“11. Emergency Events”这类导航信息？,navigation,ur5e_user_manual,183,ur5e_user_manual,7,vision_hard,16.875
+auto_01084,Which page mentions torque related specifications?,哪一页提到了力矩相关参数？,fact,ur5e_user_manual,184,robotiq_2f_manual,4,vision_hard,10.3125
+auto_01085,Which page discusses '11. Emergency Events'?,哪一页介绍了“11. Emergency Events”相关内容？,fact,ur5e_user_manual,184,ur5e_user_manual,7,vision_hard,15.5625
+auto_01088,Which page contains the specification value 250 mm?,哪一页包含参数值 250 mm？,fact,ur5e_user_manual,185,robotiq_2f_manual,118,vision_hard,12.6875
+auto_01087,Which page mentions reach related specifications?,哪一页提到了最大工作半径相关参数？,fact,ur5e_user_manual,185,robotiq_2f_manual,4,vision_hard,8.9375
+auto_01090,What safety topic is mainly explained on this page?,这页主要讲的是哪方面的安全说明内容？,semantic,ur5e_user_manual,187,robotiq_2f_manual,15,vision_hard,12.5
+auto_01093,Which page contains the specification value 0kg?,哪一页包含参数值 0kg？,fact,ur5e_user_manual,190,ur5e_user_manual,95,vision_hard,12.125
+auto_01092,Which page mentions payload related specifications?,哪一页提到了额定负载相关参数？,fact,ur5e_user_manual,190,robotiq_2f_manual,4,vision_hard,10.5625
+auto_01097,Which page mentions payload related specifications?,哪一页提到了额定负载相关参数？,fact,ur5e_user_manual,200,robotiq_2f_manual,4,vision_hard,10.5625
+auto_01098,Which page discusses '13. Maintenance and Repair'?,哪一页介绍了“13. Maintenance and Repair”相关内容？,fact,ur5e_user_manual,200,ur5e_user_manual,7,vision_hard,16.125
+auto_01106,What components topic is mainly explained on this page?,这页主要讲的是哪方面的组成部件内容？,semantic,ur5e_user_manual,209,kinova_gen3_user_guide,75,vision_hard,10.9375
+auto_01107,What specification about end effector is given on this page?,这页中关于末端执行器的参数是什么？,fact,ur5e_user_manual,210,ur5e_user_manual,92,vision_hard,16.5
+auto_01108,Which page mentions end effector related specifications?,哪一页提到了末端执行器相关参数？,fact,ur5e_user_manual,210,fr3_operating_manual,91,vision_hard,12.5625
+auto_01109,Which page discusses '15. Risk Assessment'?,哪一页介绍了“15. Risk Assessment”相关内容？,fact,ur5e_user_manual,210,ur5e_user_manual,7,vision_hard,14.125
+auto_01111,Which page mentions reach related specifications?,哪一页提到了最大工作半径相关参数？,fact,ur5e_user_manual,211,robotiq_2f_manual,4,vision_hard,8.9375
+auto_01112,Which page discusses '15. Risk Assessment'?,哪一页介绍了“15. Risk Assessment”相关内容？,fact,ur5e_user_manual,211,ur5e_user_manual,210,vision_hard,14.375
+auto_01114,Which page visually presents '15. Risk Assessment'?,哪一页展示了“15. Risk Assessment”的图示页面？,layout,ur5e_user_manual,213,ur5e_user_manual,210,vision_hard,13.4375
+auto_01117,Which page contains the specification value 5kg?,哪一页包含参数值 5kg？,fact,ur5e_user_manual,214,ur5e_user_manual,218,vision_hard,12.125
+auto_01116,Which page mentions payload related specifications?,哪一页提到了额定负载相关参数？,fact,ur5e_user_manual,214,robotiq_2f_manual,4,vision_hard,10.5625
+auto_01119,Which page mentions payload related specifications?,哪一页提到了额定负载相关参数？,fact,ur5e_user_manual,215,robotiq_2f_manual,4,vision_hard,10.5625
+auto_01122,Which page mentions payload related specifications?,哪一页提到了额定负载相关参数？,fact,ur5e_user_manual,216,robotiq_2f_manual,4,vision_hard,10.5625
+auto_01125,Which page mentions payload related specifications?,哪一页提到了额定负载相关参数？,fact,ur5e_user_manual,217,robotiq_2f_manual,4,vision_hard,10.5625
+auto_01128,Which page mentions torque related specifications?,哪一页提到了力矩相关参数？,fact,ur5e_user_manual,233,robotiq_2f_manual,4,vision_hard,10.3125
+auto_01129,Which page discusses '20. Safety Functions Table'?,哪一页介绍了“20. Safety Functions Table”相关内容？,fact,ur5e_user_manual,233,ur5e_user_manual,7,vision_hard,16.0
+auto_01131,Which page mentions torque related specifications?,哪一页提到了力矩相关参数？,fact,ur5e_user_manual,234,robotiq_2f_manual,4,vision_hard,10.3125
+auto_01134,What safety topic is mainly explained on this page?,这页主要讲的是哪方面的安全说明内容？,semantic,ur5e_user_manual,238,robotiq_2f_manual,15,vision_hard,12.5
+auto_01136,What safety topic is mainly explained on this page?,这页主要讲的是哪方面的安全说明内容？,semantic,ur5e_user_manual,239,robotiq_2f_manual,15,vision_hard,12.5

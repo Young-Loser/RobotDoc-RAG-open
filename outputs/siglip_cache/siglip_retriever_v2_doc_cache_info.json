@@ -1,0 +1,8 @@
+{
+  "checkpoint_path": "/users/xyk/robotdoc-rag/outputs/checkpoints/siglip_retriever_v2_best.pt",
+  "checkpoint_fingerprint": "155b9e62589eb359",
+  "pooling": "position_weighted",
+  "text_pooling": "position_weighted",
+  "image_pooling": "pretrained",
+  "num_docs": 1205
+}

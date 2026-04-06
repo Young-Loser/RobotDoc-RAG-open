@@ -1,0 +1,9 @@
+doc_id,pdf_name,pdf_path,page_dir,page_count,dpi,file_size_bytes
+fr3_datasheet,fr3_datasheet.pdf,/users/xyk/robotdoc-rag/data/raw_pdfs/fr3_datasheet.pdf,/users/xyk/robotdoc-rag/data/pages/fr3_datasheet,3,160,977079
+fr3_operating_manual,fr3_operating_manual.pdf,/users/xyk/robotdoc-rag/data/raw_pdfs/fr3_operating_manual.pdf,/users/xyk/robotdoc-rag/data/pages/fr3_operating_manual,122,160,6372654
+fr3_product_manual,fr3_product_manual.pdf,/users/xyk/robotdoc-rag/data/raw_pdfs/fr3_product_manual.pdf,/users/xyk/robotdoc-rag/data/pages/fr3_product_manual,209,160,15394888
+intel_realsense_d400_datasheet,intel_realsense_d400_datasheet.pdf,/users/xyk/robotdoc-rag/data/raw_pdfs/intel_realsense_d400_datasheet.pdf,/users/xyk/robotdoc-rag/data/pages/intel_realsense_d400_datasheet,119,160,5434753
+kinova_gen3_user_guide,kinova_gen3_user_guide.pdf,/users/xyk/robotdoc-rag/data/raw_pdfs/kinova_gen3_user_guide.pdf,/users/xyk/robotdoc-rag/data/pages/kinova_gen3_user_guide,225,160,4601131
+robotiq_2f_manual,robotiq_2f_manual.pdf,/users/xyk/robotdoc-rag/data/raw_pdfs/robotiq_2f_manual.pdf,/users/xyk/robotdoc-rag/data/pages/robotiq_2f_manual,145,160,17074948
+robotiq_hande_manual,robotiq_hande_manual.pdf,/users/xyk/robotdoc-rag/data/raw_pdfs/robotiq_hande_manual.pdf,/users/xyk/robotdoc-rag/data/pages/robotiq_hande_manual,139,160,8167944
+ur5e_user_manual,ur5e_user_manual.pdf,/users/xyk/robotdoc-rag/data/raw_pdfs/ur5e_user_manual.pdf,/users/xyk/robotdoc-rag/data/pages/ur5e_user_manual,243,160,20857734

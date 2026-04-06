@@ -1,0 +1,170 @@
+[
+  {
+    "query_id": "q002",
+    "query_type": "fact",
+    "question": "rated payload 3kg",
+    "retrieved_doc_ids": [
+      "fr3_product_manual",
+      "fr3_product_manual",
+      "fr3_product_manual"
+    ],
+    "retrieved_page_idxs": [
+      49,
+      12,
+      50
+    ],
+    "retrieved_scores": [
+      0.09836114197969437,
+      0.09376625716686249,
+      0.05850023403763771
+    ],
+    "single_page": {
+      "answer": "3 kg",
+      "raw_answer": "3 kg",
+      "image_path": "/users/xyk/robotdoc-rag/data/pages/fr3_product_manual/page_0049.png",
+      "quality_score": 0.7000000000000001
+    },
+    "stitched": {
+      "answer": "Yes",
+      "raw_answer": "Yes",
+      "stitched_image_path": "/users/xyk/robotdoc-rag/outputs/generator_cases/q002_top3_stitched.png",
+      "quality_score": 0.5
+    },
+    "per_page_weighted": {
+      "selected_answer": "<one concise answer>\n3 kg",
+      "selected_image_path": "/users/xyk/robotdoc-rag/data/pages/fr3_product_manual/page_0049.png",
+      "selected_blended_score": 0.7445902854949236,
+      "per_page_results": [
+        {
+          "rank": 1,
+          "image_path": "/users/xyk/robotdoc-rag/data/pages/fr3_product_manual/page_0049.png",
+          "retrieval_score": 0.09836114197969437,
+          "generation_confidence": 1.0,
+          "quality_score": 0.9,
+          "blended_score": 0.7445902854949236,
+          "answer": "<one concise answer>\n3 kg",
+          "raw_answer": "<one concise answer>\nConfidence: 1\n\n3 kg"
+        },
+        {
+          "rank": 2,
+          "image_path": "/users/xyk/robotdoc-rag/data/pages/fr3_product_manual/page_0012.png",
+          "retrieval_score": 0.09376625716686249,
+          "generation_confidence": 1.0,
+          "quality_score": 0.9,
+          "blended_score": 0.7434415642917156,
+          "answer": "<one concise answer>\n3 kg",
+          "raw_answer": "<one concise answer>\n3 kg\n\nConfidence: 1"
+        },
+        {
+          "rank": 3,
+          "image_path": "/users/xyk/robotdoc-rag/data/pages/fr3_product_manual/page_0050.png",
+          "retrieval_score": 0.05850023403763771,
+          "generation_confidence": 0.0,
+          "quality_score": 0.8,
+          "blended_score": 0.2546250585094094,
+          "answer": "<one concise answer>\nNot enough evidence on this page.",
+          "raw_answer": "<one concise answer>\nNot enough evidence on this page.\nConfidence: 0"
+        }
+      ]
+    },
+    "multi_image_joint": {
+      "answer": "3 kg",
+      "raw_answer": "3 kg",
+      "image_paths": [
+        "/users/xyk/robotdoc-rag/data/pages/fr3_product_manual/page_0049.png",
+        "/users/xyk/robotdoc-rag/data/pages/fr3_product_manual/page_0012.png",
+        "/users/xyk/robotdoc-rag/data/pages/fr3_product_manual/page_0050.png"
+      ],
+      "quality_score": 0.7000000000000001
+    },
+    "final_choice": {
+      "selected_strategy": "multi_image_joint",
+      "selected_answer": "3 kg",
+      "selection_score": 0.875
+    }
+  },
+  {
+    "query_id": "q003",
+    "query_type": "fact",
+    "question": "degrees of freedom 7",
+    "retrieved_doc_ids": [
+      "fr3_datasheet",
+      "intel_realsense_d400_datasheet",
+      "intel_realsense_d400_datasheet"
+    ],
+    "retrieved_page_idxs": [
+      1,
+      10,
+      67
+    ],
+    "retrieved_scores": [
+      0.1097557470202446,
+      0.058644913136959076,
+      0.03861703723669052
+    ],
+    "single_page": {
+      "answer": "Degrees of freedom 7",
+      "raw_answer": "Degrees of freedom 7",
+      "image_path": "/users/xyk/robotdoc-rag/data/pages/fr3_datasheet/page_0001.png",
+      "quality_score": 0.9
+    },
+    "stitched": {
+      "answer": "7",
+      "raw_answer": "7",
+      "stitched_image_path": "/users/xyk/robotdoc-rag/outputs/generator_cases/q003_top3_stitched.png",
+      "quality_score": 0.7000000000000001
+    },
+    "per_page_weighted": {
+      "selected_answer": "<one concise answer>\n7\n</one>\n<confidence>1</confidence>",
+      "selected_image_path": "/users/xyk/robotdoc-rag/data/pages/fr3_datasheet/page_0001.png",
+      "selected_blended_score": 0.7474389367550611,
+      "per_page_results": [
+        {
+          "rank": 1,
+          "image_path": "/users/xyk/robotdoc-rag/data/pages/fr3_datasheet/page_0001.png",
+          "retrieval_score": 0.1097557470202446,
+          "generation_confidence": 1.0,
+          "quality_score": 0.9,
+          "blended_score": 0.7474389367550611,
+          "answer": "<one concise answer>\n7\n</one>\n<confidence>1</confidence>",
+          "raw_answer": "<one concise answer>\n7\n</one>\n<confidence>1</confidence>"
+        },
+        {
+          "rank": 2,
+          "image_path": "/users/xyk/robotdoc-rag/data/pages/intel_realsense_d400_datasheet/page_0010.png",
+          "retrieval_score": 0.058644913136959076,
+          "generation_confidence": 0.95,
+          "quality_score": 1.0,
+          "blended_score": 0.7421612282842398,
+          "answer": "<one concise answer>\nIntel® RealSense™ Depth Camera D435i includes Inertial Measurement Unit (IMU) for 6 degrees of freedom (6DoF) data.",
+          "raw_answer": "<one concise answer>\nConfidence: 0.95\n\nIntel® RealSense™ Depth Camera D435i includes Inertial Measurement Unit (IMU) for 6 degrees of freedom (6DoF) data."
+        },
+        {
+          "rank": 3,
+          "image_path": "/users/xyk/robotdoc-rag/data/pages/intel_realsense_d400_datasheet/page_0067.png",
+          "retrieval_score": 0.03861703723669052,
+          "generation_confidence": 0.95,
+          "quality_score": 0.9,
+          "blended_score": 0.7071542593091726,
+          "answer": "<one concise answer>\nDegrees of Freedom: 6",
+          "raw_answer": "<one concise answer>\nConfidence: 0.95\n\nDegrees of Freedom: 6"
+        }
+      ]
+    },
+    "multi_image_joint": {
+      "answer": "Degrees of freedom 7",
+      "raw_answer": "Degrees of freedom 7",
+      "image_paths": [
+        "/users/xyk/robotdoc-rag/data/pages/fr3_datasheet/page_0001.png",
+        "/users/xyk/robotdoc-rag/data/pages/intel_realsense_d400_datasheet/page_0010.png",
+        "/users/xyk/robotdoc-rag/data/pages/intel_realsense_d400_datasheet/page_0067.png"
+      ],
+      "quality_score": 0.9
+    },
+    "final_choice": {
+      "selected_strategy": "multi_image_joint",
+      "selected_answer": "Degrees of freedom 7",
+      "selection_score": 1.025
+    }
+  }
+]
